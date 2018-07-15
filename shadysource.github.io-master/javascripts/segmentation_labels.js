@@ -37,7 +37,7 @@ var DoorBlue = "#6c9bd2";
 var curColor = PersonRed;
 var image;
 var curImgURL = "";
-var imageURLFile = "https://raw.githubusercontent.com/warren30815/test/master/url.txt";
+var imageURLFile = "https://raw.githubusercontent.com/warren30815/Yolo-Keras2/master/url.txt";
 var imageURLs = new Array();
 var imageSet = false;
 

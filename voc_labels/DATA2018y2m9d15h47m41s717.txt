@@ -1,0 +1,5586 @@
+﻿http://140.115.152.223:7001/data/dataset/chair/n03002096_12630.JPEG
+chair 68 95 498 389
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14635.JPEG
+chair 208 197 533 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11749.JPEG
+chair 36 78 251 466
+chair 211 99 408 480
+chair 354 108 575 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6464.JPEG
+chair 32 219 168 424
+chair 152 224 270 427
+chair 244 225 372 420
+chair 350 231 496 433
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9730.JPEG
+chair 82 5 608 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_719.JPEG
+chair 17 32 625 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11869.JPEG
+chair 0 182 550 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3101.JPEG
+chair 107 48 530 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3977.JPEG
+chair 75 44 404 385
+chair 290 73 570 363
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2497.JPEG
+chair 25 156 620 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3466.JPEG
+chair 113 37 544 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7415.JPEG
+chair 80 16 535 414
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12510.JPEG
+chair 86 3 587 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6105.JPEG
+chair 1 2 325 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9786.JPEG
+chair 240 199 638 343
+chair 0 202 262 332
+chair 281 130 597 295
+chair -1 121 276 288
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6541.JPEG
+chair 8 4 625 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13702.JPEG
+chair 9 4 604 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_992.JPEG
+chair 638 162 239 477
+chair 1 135 262 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_227.JPEG
+chair 19 5 580 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1660.JPEG
+chair 0 1 632 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13202.JPEG
+chair 20 181 223 448
+chair 177 189 420 460
+chair 376 180 631 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13224.JPEG
+chair 128 24 501 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5066.JPEG
+chair 1 4 624 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2166.JPEG
+chair 216 92 313 162
+chair 297 99 404 171
+chair 388 93 488 164
+person 394 296 607 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5777.JPEG
+chair 12 5 613 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6529.JPEG
+chair 0 166 265 354
+chair 1 287 633 480
+chair 328 149 639 322
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5466.JPEG
+chair 6 4 631 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6211.JPEG
+chair 45 32 553 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1358.JPEG
+chair 16 73 612 468
+person 267 7 544 394
+person 125 43 595 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9607.JPEG
+chair 148 72 284 350
+chair 240 124 472 369
+chair 4 86 173 306
+chair 468 61 589 216
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1390.JPEG
+chair 48 251 419 479
+person 141 4 593 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1044.JPEG
+chair 11 4 629 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_668.JPEG
+chair 38 12 580 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6080.JPEG
+chair 161 156 386 453
+chair 381 158 600 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6357.JPEG
+chair 51 107 575 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10261.JPEG
+chair 272 245 564 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6608.JPEG
+chair 128 2 561 325
+person 39 2 248 56
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2312.JPEG
+chair 44 1 636 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_412.JPEG
+chair 50 131 416 360
+chair 373 150 639 334
+chair 636 294 148 473
+chair 1 289 161 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1955.JPEG
+chair 44 11 577 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5271.JPEG
+chair 44 286 141 339
+chair 123 278 216 333
+chair 203 278 295 324
+chair 272 260 364 319
+chair 348 266 444 303
+chair 428 252 514 303
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2514.JPEG
+chair 36 249 114 320
+chair 88 214 226 362
+chair 285 258 400 407
+chair 387 248 559 441
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13013.JPEG
+chair 109 27 224 144
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13508.JPEG
+chair 42 128 627 270
+chair 108 91 560 164
+chair 138 62 516 119
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2539.JPEG
+chair 45 269 267 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2419.JPEG
+chair 217 107 585 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7839.JPEG
+chair 164 147 565 472
+chair 4 232 308 478
+chair 0 137 218 331
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1435.JPEG
+chair 40 79 431 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3004.JPEG
+person 36 90 208 336
+person 26 144 140 321
+car 133 34 362 176
+car 295 4 636 195
+car 90 91 211 197
+chair 469 95 636 390
+chair 405 96 540 352
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_775.JPEG
+chair 36 41 637 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2510.JPEG
+chair 52 5 612 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4779.JPEG
+chair 182 4 581 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9205.JPEG
+chair 576 476 2 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4282.JPEG
+chair 8 152 173 475
+chair 170 156 330 473
+chair 312 168 477 472
+chair 445 157 625 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1754.JPEG
+chair 228 132 432 247
+chair 416 174 603 294
+chair 85 104 292 208
+chair 2 80 156 177
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13599.JPEG
+chair 342 142 466 241
+chair 451 134 588 261
+chair 185 126 292 224
+chair 129 134 225 210
+chair 85 127 173 204
+chair 40 129 120 206
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7660.JPEG
+chair 548 475 40 9
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9153.JPEG
+chair 32 216 384 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12906.JPEG
+chair 23 5 583 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1064.JPEG
+chair 109 49 508 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2799.JPEG
+chair 60 6 596 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11937.JPEG
+person 284 132 514 316
+chair 638 1 356 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6227.JPEG
+chair 16 100 580 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2577.JPEG
+chair 0 4 636 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1366.JPEG
+chair 28 106 272 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6120.JPEG
+chair 16 4 636 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7365.JPEG
+chair 185 190 544 478
+chair 638 209 430 476
+chair 0 175 317 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1990.JPEG
+chair 128 16 434 469
+chair 365 0 635 382
+chair 4 205 334 477
+chair 1 18 193 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11935.JPEG
+chair -1 72 482 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11707.JPEG
+chair 136 12 532 320
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_283.JPEG
+chair 168 245 544 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4187.JPEG
+chair 379 313 599 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_852.JPEG
+chair 40 63 578 465
+person 99 16 559 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11640.JPEG
+chair 123 0 386 259
+chair 305 1 527 277
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3412.JPEG
+chair 15 64 584 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2437.JPEG
+chair 4 0 636 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3330.JPEG
+chair 628 464 2 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3965.JPEG
+chair 2 28 325 477
+chair 155 40 436 460
+chair 328 40 598 380
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1479.JPEG
+chair 2 3 634 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2454.JPEG
+chair 160 134 443 439
+chair 444 166 597 392
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6253.JPEG
+chair 240 3 519 120
+chair 457 2 639 178
+chair 84 2 324 84
+chair 105 51 1 3
+chair -1 148 386 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_308.JPEG
+chair 632 476 15 0
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11891.JPEG
+chair 4 254 173 459
+chair 200 243 294 368
+chair 428 227 544 450
+chair 375 211 459 376
+chair 324 196 403 339
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3794.JPEG
+chair 1 5 603 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12713.JPEG
+chair 92 100 416 344
+chair 114 11 439 153
+person 549 4 616 92
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3486.JPEG
+chair 117 26 538 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_650.JPEG
+chair 636 203 70 481
+chair 18 136 484 394
+person 232 0 0 207
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8064.JPEG
+chair 218 166 536 473
+chair 465 156 633 470
+chair 4 188 313 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6450.JPEG
+chair 132 176 311 432
+chair 204 212 440 467
+chair 422 240 596 479
+chair 34 160 205 353
+chair 0 146 120 329
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9371.JPEG
+chair 3 1 638 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_263.JPEG
+chair 38 52 416 452
+chair 293 91 620 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1100.JPEG
+chair 380 183 585 416
+chair 114 248 264 420
+person 98 117 340 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2025.JPEG
+chair 56 10 588 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4238.JPEG
+chair 15 132 481 393
+chair 88 61 452 289
+chair 156 48 440 217
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8623.JPEG
+chair 108 15 529 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2924.JPEG
+chair 177 107 437 476
+chair 380 37 489 158
+chair 485 28 589 167
+chair 282 40 393 165
+chair 31 70 268 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3215.JPEG
+chair 194 34 538 469
+chair 0 40 384 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15210.JPEG
+chair 150 18 596 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8216.JPEG
+chair 51 12 547 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13982.JPEG
+chair 11 14 639 481
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3470.JPEG
+chair 221 205 404 457
+chair 414 204 604 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2096.JPEG
+chair 2 146 252 455
+chair 414 138 619 460
+chair 287 215 448 387
+person 180 382 476 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14354.JPEG
+chair 273 109 464 404
+chair 112 111 314 400
+chair 3 157 204 473
+chair 640 144 416 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8417.JPEG
+chair 4 2 637 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5004.JPEG
+chair 142 123 346 420
+chair 287 183 626 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9624.JPEG
+chair 2 215 220 378
+chair 127 182 400 356
+chair 312 176 556 328
+chair 629 168 467 305
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12079.JPEG
+chair 39 75 273 370
+chair 258 51 506 333
+chair 311 120 612 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5202.JPEG
+chair 27 2 623 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6361.JPEG
+chair 95 6 612 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3423.JPEG
+chair 113 59 640 362
+chair 200 26 596 217
+chair 0 191 636 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14286.JPEG
+chair 76 116 595 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12617.JPEG
+chair 605 2 48 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13044.JPEG
+chair 4 105 430 481
+chair 154 3 588 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1384.JPEG
+chair 5 292 130 408
+chair 25 305 158 395
+chair 48 309 203 431
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13988.JPEG
+chair 19 8 608 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13632.JPEG
+chair 96 88 461 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_890.JPEG
+chair 68 82 202 251
+chair 199 88 285 266
+chair 442 84 545 253
+chair 371 88 467 244
+chair 282 95 376 238
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_617.JPEG
+chair 32 5 608 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11715.JPEG
+chair 288 308 529 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7598.JPEG
+chair 12 3 316 474
+chair 304 6 608 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9707.JPEG
+chair 140 119 292 278
+chair 212 135 372 292
+chair 302 156 469 311
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_705.JPEG
+chair 195 88 568 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12745.JPEG
+chair 156 1 488 257
+chair 640 0 164 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3288.JPEG
+chair 28 6 600 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5092.JPEG
+chair 120 64 512 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14944.JPEG
+chair 4 5 640 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3192.JPEG
+chair 96 8 496 433
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_288.JPEG
+chair 66 122 563 352
+person 639 21 492 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1975.JPEG
+chair 39 2 594 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5858.JPEG
+chair 38 9 591 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9745.JPEG
+chair 637 1 5 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7409.JPEG
+chair 1 180 301 477
+chair 166 162 471 462
+chair 349 148 628 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_472.JPEG
+chair 0 2 632 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2531.JPEG
+chair 38 4 576 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10401.JPEG
+chair 4 126 495 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_234.JPEG
+chair 351 68 628 471
+chair 204 50 448 404
+chair 122 28 317 320
+chair 67 17 262 268
+chair 28 11 168 222
+chair 1 7 126 187
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2403.JPEG
+chair 628 473 15 6
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6288.JPEG
+chair 635 80 37 473
+chair 62 16 548 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1883.JPEG
+chair 16 224 323 464
+chair 284 230 629 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9259.JPEG
+chair 21 65 252 233
+chair 332 68 560 241
+chair 450 104 638 251
+chair 81 281 353 455
+chair 11 250 239 441
+chair 360 292 601 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9271.JPEG
+chair 87 64 511 407
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7540.JPEG
+chair 23 8 518 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_729.JPEG
+chair 7 4 578 322
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2943.JPEG
+chair 40 24 608 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12767.JPEG
+chair 191 136 433 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5086.JPEG
+chair 10 5 627 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1477.JPEG
+chair 26 26 227 362
+chair 204 22 410 382
+chair 387 14 604 380
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14414.JPEG
+chair 42 29 525 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8121.JPEG
+chair -1 64 299 473
+chair 246 75 546 452
+chair 639 105 494 384
+person 44 265 277 387
+person 90 272 260 334
+person 320 247 384 334
+person 368 244 477 310
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11258.JPEG
+chair 33 109 537 446
+chair 13 16 329 220
+chair 327 36 601 244
+chair 637 72 406 393
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8700.JPEG
+chair 68 1 581 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4120.JPEG
+chair 164 352 335 477
+chair 320 358 492 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14082.JPEG
+chair 237 166 568 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11827.JPEG
+chair 36 80 356 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9711.JPEG
+chair 18 164 316 456
+chair 208 138 469 402
+chair 368 143 604 393
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12754.JPEG
+chair 99 1 578 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3914.JPEG
+chair 196 283 590 480
+chair 205 94 520 467
+chair -1 187 215 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12287.JPEG
+chair 628 474 0 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7818.JPEG
+chair 83 50 455 403
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3902.JPEG
+chair 2 110 366 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3807.JPEG
+chair 72 14 567 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5355.JPEG
+chair 14 6 622 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_100.JPEG
+chair 19 13 293 365
+chair 265 32 598 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11727.JPEG
+chair 35 253 191 396
+chair 281 262 401 460
+chair 408 267 571 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_41.JPEG
+chair 8 10 612 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2672.JPEG
+chair 40 128 248 375
+chair 144 153 358 401
+chair 240 134 393 351
+chair 398 152 592 410
+chair 432 123 611 351
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1961.JPEG
+chair 100 104 434 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5447.JPEG
+chair 12 110 184 436
+chair 89 148 292 472
+chair 280 112 491 383
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11924.JPEG
+chair 79 98 336 371
+chair 230 91 422 348
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2050.JPEG
+chair 148 129 537 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1928.JPEG
+chair 48 299 400 481
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2220.JPEG
+chair 40 23 568 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1363.JPEG
+chair 79 35 584 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2131.JPEG
+chair 63 8 589 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_317.JPEG
+chair 130 45 384 167
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2524.JPEG
+chair 5 16 638 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12602.JPEG
+chair 11 25 617 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1023.JPEG
+chair 163 224 331 364
+chair 315 211 484 356
+chair 320 157 455 260
+chair 206 156 332 258
+chair 87 162 214 248
+chair 5 224 173 361
+chair 471 206 630 331
+chair 434 144 561 230
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1442.JPEG
+chair 56 5 602 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_885.JPEG
+chair 49 21 517 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5790.JPEG
+chair 85 45 554 426
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1542.JPEG
+chair 87 55 510 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2024.JPEG
+chair 42 4 573 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_35.JPEG
+chair 16 183 365 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13369.JPEG
+chair 3 0 637 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_563.JPEG
+chair 3 3 636 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2305.JPEG
+chair 38 24 540 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10196.JPEG
+chair 11 12 603 472
+person 147 0 506 313
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8815.JPEG
+chair 64 476 618 0
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3341.JPEG
+chair 51 10 581 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11926.JPEG
+chair 119 15 524 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6474.JPEG
+chair 209 116 369 263
+chair 4 175 242 423
+chair 140 119 258 237
+chair 70 132 180 220
+chair 8 186 111 366
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_435.JPEG
+chair 66 223 193 407
+chair 140 219 344 464
+chair 371 220 585 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12982.JPEG
+chair 68 241 440 468
+chair 81 176 317 331
+chair 292 175 477 287
+person 95 28 160 123
+person 60 32 115 110
+person 172 39 217 107
+person 208 33 240 108
+person 223 28 278 120
+person 261 34 307 111
+person 325 19 396 128
+person 421 22 479 124
+person 478 24 533 122
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3122.JPEG
+chair 256 250 437 480
+chair 20 247 210 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11530.JPEG
+chair 57 2 338 473
+chair 322 2 598 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13380.JPEG
+chair 30 12 432 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5474.JPEG
+chair 52 157 332 472
+chair 324 176 609 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12776.JPEG
+chair 50 80 585 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13008.JPEG
+chair 268 168 585 392
+person 598 382 72 69
+person 371 379 13 153
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12077.JPEG
+chair 292 15 616 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1734.JPEG
+chair 587 442 92 4
+person 140 312 3 0
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3356.JPEG
+chair 50 4 568 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2319.JPEG
+chair 247 186 551 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6364.JPEG
+chair 42 28 204 269
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8689.JPEG
+chair 551 474 8 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7618.JPEG
+chair 4 112 319 295
+chair 269 106 615 305
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9415.JPEG
+chair 52 12 438 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6276.JPEG
+chair 628 12 19 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7310.JPEG
+chair 35 80 308 407
+chair 329 94 611 403
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13225.JPEG
+chair 128 220 371 408
+chair 314 235 520 384
+chair 209 154 367 277
+chair 338 161 493 275
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5574.JPEG
+chair 57 29 573 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2352.JPEG
+chair 100 32 472 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5552.JPEG
+chair 32 135 344 363
+chair 97 107 321 294
+chair 0 178 344 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8684.JPEG
+chair 8 40 616 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7799.JPEG
+chair 572 0 78 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6442.JPEG
+chair 4 2 616 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9060.JPEG
+chair 345 3 636 476
+chair 324 466 1 9
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3779.JPEG
+chair 53 182 300 475
+chair 273 213 503 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10605.JPEG
+chair 116 1 636 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12001.JPEG
+chair 38 1 582 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1790.JPEG
+chair 36 9 572 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3774.JPEG
+chair 280 157 407 297
+chair 312 200 419 340
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7464.JPEG
+chair 40 7 512 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12806.JPEG
+chair 233 15 534 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11798.JPEG
+chair 10 80 481 416
+chair 637 172 388 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4903.JPEG
+chair 308 468 10 8
+chair 270 9 635 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_61.JPEG
+chair 204 199 416 402
+person 33 12 580 391
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13353.JPEG
+chair 6 98 270 448
+chair 229 140 400 394
+chair 378 163 564 398
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9997.JPEG
+chair 23 59 420 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6316.JPEG
+chair 46 8 614 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5536.JPEG
+chair 36 68 579 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1386.JPEG
+chair 28 36 457 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11725.JPEG
+chair 481 193 127 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12823.JPEG
+chair 174 4 440 230
+chair 419 3 635 214
+chair 162 207 0 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12154.JPEG
+chair 21 87 293 456
+chair 340 100 607 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6695.JPEG
+chair 381 37 592 316
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8992.JPEG
+chair 164 58 598 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15109.JPEG
+chair 8 8 635 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4991.JPEG
+chair 46 22 622 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3826.JPEG
+chair 144 102 616 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7384.JPEG
+chair 626 4 -1 230
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_281.JPEG
+chair 43 46 640 339
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9459.JPEG
+chair 53 29 596 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4204.JPEG
+chair 52 12 637 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3793.JPEG
+chair 526 476 15 65
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4603.JPEG
+chair 28 98 561 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3790.JPEG
+chair 4 160 163 426
+chair 79 217 129 282
+chair 116 142 211 333
+chair 171 258 262 386
+chair 186 162 264 308
+chair 244 157 344 348
+chair 633 281 365 476
+chair 422 143 517 299
+chair 599 354 458 164
+person 331 103 418 332
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5160.JPEG
+chair 549 425 19 18
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8327.JPEG
+chair 37 93 313 415
+chair 247 135 552 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7945.JPEG
+chair 161 82 345 342
+chair 351 96 536 326
+chair 17 111 145 273
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4110.JPEG
+chair 274 96 430 213
+chair 405 112 579 343
+chair 108 84 276 248
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10414.JPEG
+chair 636 214 222 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9832.JPEG
+chair 44 62 610 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8273.JPEG
+chair 183 16 452 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4252.JPEG
+chair 317 58 586 290
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12639.JPEG
+chair 93 224 517 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12506.JPEG
+chair 92 221 326 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3312.JPEG
+chair 36 4 580 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4573.JPEG
+chair 574 468 80 25
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_986.JPEG
+chair 47 266 296 465
+chair 251 180 382 344
+chair 400 192 518 345
+chair 149 204 302 366
+chair 308 299 436 414
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10686.JPEG
+chair 3 12 252 405
+chair 451 4 639 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13444.JPEG
+chair 15 8 632 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5357.JPEG
+chair 633 476 105 201
+chair 195 68 640 273
+chair 358 61 637 167
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11858.JPEG
+chair 74 168 394 476
+chair 253 119 467 420
+chair 331 95 480 323
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5276.JPEG
+chair 42 12 578 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7753.JPEG
+chair 104 12 496 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5796.JPEG
+chair 556 474 91 13
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_348.JPEG
+chair 292 227 7 4
+chair 605 410 19 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6170.JPEG
+chair 520 467 5 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2900.JPEG
+chair 339 72 633 475
+chair 95 32 300 385
+chair 2 41 149 398
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2212.JPEG
+chair 52 3 456 423
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2538.JPEG
+chair 27 7 518 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5828.JPEG
+chair 172 174 496 476
+chair 353 138 576 456
+chair 468 85 635 387
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14471.JPEG
+chair 99 4 596 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2204.JPEG
+chair 635 478 7 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2227.JPEG
+chair 21 220 150 423
+chair 116 180 300 462
+chair 248 198 400 444
+chair 368 205 536 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6002.JPEG
+chair 215 240 311 386
+chair 289 270 392 416
+chair 367 295 483 451
+chair 452 324 590 470
+chair 159 221 252 354
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2066.JPEG
+chair 5 137 176 424
+chair 317 130 493 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14390.JPEG
+chair 126 186 305 430
+chair 201 137 345 362
+chair 266 104 417 328
+chair 367 84 507 304
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6191.JPEG
+chair 4 162 344 469
+chair 637 289 234 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3320.JPEG
+chair 620 476 17 178
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3476.JPEG
+chair 43 56 221 217
+chair 618 468 117 54
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6557.JPEG
+chair 201 94 80 281
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7869.JPEG
+chair 256 203 434 344
+chair 93 198 271 339
+chair 146 259 336 399
+chair 332 268 537 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8633.JPEG
+chair 13 92 288 281
+chair 214 246 632 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2347.JPEG
+chair 111 9 584 320
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9596.JPEG
+chair 637 118 185 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4614.JPEG
+chair 632 4 20 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6325.JPEG
+chair 244 172 434 349
+chair 101 170 268 341
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14662.JPEG
+chair 25 137 286 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9703.JPEG
+chair 98 56 462 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4226.JPEG
+chair 24 140 564 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_314.JPEG
+chair 276 3 586 371
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4275.JPEG
+chair 620 471 17 0
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12897.JPEG
+chair 472 454 87 30
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4272.JPEG
+chair 4 204 516 458
+person 2 214 98 330
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6622.JPEG
+chair 2 8 320 474
+chair 320 4 636 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_789.JPEG
+chair 17 2 608 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3863.JPEG
+chair 160 20 632 467
+chair 5 77 638 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12250.JPEG
+chair 44 135 488 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13086.JPEG
+chair 41 75 562 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8960.JPEG
+person 444 164 492 279
+person 496 172 541 278
+chair 468 469 0 46
+chair 188 104 449 371
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6281.JPEG
+person 635 466 176 49
+chair 637 49 56 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2233.JPEG
+chair 624 88 128 475
+chair 570 10 201 237
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6212.JPEG
+chair 61 12 587 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2124.JPEG
+chair 635 10 0 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14070.JPEG
+chair 115 1 385 312
+chair 372 0 583 198
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11761.JPEG
+chair 624 2 -1 297
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1466.JPEG
+chair 17 20 638 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1084.JPEG
+chair 184 124 557 410
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9356.JPEG
+chair 140 116 352 346
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1204.JPEG
+chair 52 52 540 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3293.JPEG
+chair 117 2 536 295
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5440.JPEG
+chair 3 10 359 322
+chair 640 23 348 282
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12962.JPEG
+chair 147 6 636 385
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_394.JPEG
+chair 156 234 322 457
+chair 307 238 441 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6038.JPEG
+chair 53 3 596 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2120.JPEG
+chair 124 208 339 390
+chair 305 228 523 415
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3199.JPEG
+chair 128 72 564 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1106.JPEG
+chair 47 8 600 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14034.JPEG
+chair 17 156 289 418
+chair 228 144 554 409
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2546.JPEG
+chair 128 63 480 355
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10346.JPEG
+chair 64 4 597 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12851.JPEG
+chair 127 180 355 303
+chair 304 195 503 284
+chair 448 187 636 275
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2056.JPEG
+chair 20 7 628 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5642.JPEG
+chair 10 2 612 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5911.JPEG
+chair 4 4 370 364
+chair 634 460 200 52
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6385.JPEG
+chair 16 44 545 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5428.JPEG
+chair 20 184 220 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4894.JPEG
+chair 18 41 339 445
+chair 308 19 631 441
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12.JPEG
+chair 558 467 15 87
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11933.JPEG
+chair 206 227 419 432
+chair 399 220 604 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3578.JPEG
+chair 230 148 493 479
+chair 336 128 546 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_392.JPEG
+chair 7 2 636 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8912.JPEG
+chair 291 104 612 408
+person 630 275 115 31
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6886.JPEG
+chair 133 62 504 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9525.JPEG
+chair 126 118 565 416
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14822.JPEG
+chair 170 112 481 395
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2786.JPEG
+chair 8 5 629 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2157.JPEG
+chair 201 144 551 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2499.JPEG
+chair 135 110 532 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_185.JPEG
+chair 120 327 264 476
+chair 212 308 306 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4780.JPEG
+chair 194 153 464 469
+chair 105 127 352 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8436.JPEG
+chair 10 5 631 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12727.JPEG
+chair 48 24 556 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2122.JPEG
+chair 16 1 624 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_466.JPEG
+chair 8 6 293 478
+chair 337 14 627 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_158.JPEG
+chair 205 148 432 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12853.JPEG
+chair 632 460 28 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12777.JPEG
+chair 161 73 516 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8854.JPEG
+chair 8 74 160 348
+chair 134 84 270 337
+chair 260 108 382 346
+chair 376 100 492 333
+chair 480 95 600 341
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3036.JPEG
+chair 117 5 508 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_746.JPEG
+chair 152 36 442 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5197.JPEG
+chair 250 376 441 437
+chair 432 397 628 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1539.JPEG
+chair 634 40 421 257
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_670.JPEG
+chair 8 5 640 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8760.JPEG
+chair 7 100 508 478
+chair 640 34 336 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_19.JPEG
+chair 53 5 631 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2515.JPEG
+chair 134 156 475 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5599.JPEG
+chair 1 82 303 270
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2424.JPEG
+chair 49 28 508 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9706.JPEG
+chair 13 4 623 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9594.JPEG
+chair 36 10 552 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13014.JPEG
+chair 20 7 628 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2211.JPEG
+chair 25 4 609 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6423.JPEG
+chair 36 256 297 462
+chair 32 175 248 351
+chair 44 148 228 273
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2011.JPEG
+chair 24 260 264 444
+chair 177 180 400 336
+chair 322 100 531 245
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2518.JPEG
+chair 43 206 171 446
+chair 175 255 306 452
+chair 450 300 595 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9522.JPEG
+chair 636 120 154 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8142.JPEG
+chair 247 11 630 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3562.JPEG
+chair 89 222 212 416
+chair 200 228 321 402
+chair 312 233 436 413
+chair 416 239 564 409
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5609.JPEG
+chair 187 87 434 411
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4521.JPEG
+chair 19 16 611 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7293.JPEG
+chair 82 25 467 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3751.JPEG
+chair 26 1 598 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5566.JPEG
+chair 10 204 294 454
+chair 247 130 459 327
+chair 452 116 611 259
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2310.JPEG
+chair 54 92 303 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2654.JPEG
+chair 8 12 636 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5295.JPEG
+chair 24 11 530 429
+person 5 411 209 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5173.JPEG
+person 3 308 136 1
+chair 613 442 23 9
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4195.JPEG
+chair 7 32 624 380
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4005.JPEG
+chair 14 38 344 450
+chair 286 30 539 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_853.JPEG
+chair 150 134 401 380
+chair 333 104 525 295
+chair 496 61 627 237
+chair 0 208 258 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9677.JPEG
+chair 271 278 397 464
+chair 480 268 612 465
+door 62 27 283 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13200.JPEG
+chair 128 214 308 421
+chair 279 196 433 397
+chair 397 173 552 363
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13594.JPEG
+chair 5 74 311 352
+chair 143 10 357 189
+chair 239 0 393 107
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5646.JPEG
+chair 26 92 542 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2018.JPEG
+chair 184 78 468 425
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11724.JPEG
+chair 26 197 149 384
+chair 297 188 464 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3953.JPEG
+chair 51 120 550 464
+person 0 88 246 475
+person 638 60 508 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5815.JPEG
+chair 5 56 408 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14846.JPEG
+chair 96 54 225 203
+chair 318 105 468 302
+chair 425 88 550 254
+chair 96 298 325 476
+chair 640 152 481 364
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12702.JPEG
+chair 184 193 304 352
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13139.JPEG
+chair 432 36 532 144
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5245.JPEG
+chair 48 20 600 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6289.JPEG
+chair 138 28 416 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6620.JPEG
+chair 3 61 296 470
+chair 187 11 468 415
+chair 377 7 636 359
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6339.JPEG
+chair 41 7 626 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2179.JPEG
+chair 33 6 566 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5746.JPEG
+chair 32 8 447 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1907.JPEG
+chair 217 89 617 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1956.JPEG
+chair 54 202 214 449
+chair 191 220 323 444
+chair 361 233 496 426
+chair 476 232 596 410
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7622.JPEG
+chair 448 476 4 304
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_963.JPEG
+chair 20 8 604 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9154.JPEG
+chair 269 178 484 456
+chair 634 287 336 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9545.JPEG
+chair 81 86 524 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14912.JPEG
+chair 112 2 487 480
+chair 272 30 528 392
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_726.JPEG
+chair 1 14 541 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_195.JPEG
+chair 218 249 410 308
+chair 204 292 420 358
+chair 10 252 212 309
+chair 404 261 619 306
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8882.JPEG
+chair 43 36 549 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5396.JPEG
+chair 197 76 358 226
+chair 361 67 490 230
+chair 500 66 628 228
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12245.JPEG
+chair 156 212 408 350
+chair 381 232 632 391
+chair 0 199 196 342
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11772.JPEG
+chair 71 108 621 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14559.JPEG
+chair 478 384 76 48
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4119.JPEG
+chair 628 471 40 72
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14361.JPEG
+chair 81 82 464 415
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13730.JPEG
+chair 58 100 272 380
+chair 600 440 282 153
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13264.JPEG
+chair 26 169 381 440
+chair 195 124 492 385
+chair 315 103 536 292
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12912.JPEG
+chair 19 21 311 412
+chair 628 441 363 39
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_958.JPEG
+chair 167 13 547 369
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1748.JPEG
+chair 56 16 625 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5648.JPEG
+chair 100 360 277 476
+chair 370 269 472 393
+chair 639 366 496 472
+chair 268 246 360 336
+chair 176 238 276 312
+chair 9 258 117 369
+chair 87 241 168 336
+person 528 143 584 312
+person 572 194 614 317
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13072.JPEG
+person 110 109 522 348
+chair 50 200 619 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2571.JPEG
+chair 12 138 194 467
+chair 169 126 401 472
+chair 407 471 619 119
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3298.JPEG
+chair 23 11 584 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2844.JPEG
+chair 19 6 404 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1843.JPEG
+chair 371 468 8 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3896.JPEG
+chair 9 113 599 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9866.JPEG
+chair 553 446 84 90
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_679.JPEG
+chair 6 3 632 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3805.JPEG
+chair 214 412 140 274
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11603.JPEG
+chair 24 455 523 87
+chair 305 6 60 192
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2723.JPEG
+chair 91 235 258 469
+chair 232 222 382 444
+chair 4 220 123 391
+chair 364 217 504 419
+chair 492 231 584 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13300.JPEG
+chair 269 293 13 112
+chair 389 227 221 82
+chair 469 194 355 64
+chair 522 165 433 61
+chair 560 154 492 56
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12182.JPEG
+chair 58 309 150 465
+chair 147 301 231 465
+chair 214 313 314 460
+chair 292 312 400 465
+chair 375 316 493 469
+chair 457 318 569 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5904.JPEG
+chair 132 13 500 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3895.JPEG
+chair 631 20 29 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1305.JPEG
+chair 145 114 493 407
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3352.JPEG
+chair 33 4 589 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1158.JPEG
+chair 585 464 24 9
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5165.JPEG
+chair 5 204 256 396
+chair 225 215 482 373
+chair 635 226 470 363
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11653.JPEG
+chair 204 83 623 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5494.JPEG
+chair 16 28 635 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11978.JPEG
+chair 56 157 330 464
+chair 308 153 595 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9487.JPEG
+chair 578 139 629 207
+chair 547 131 595 209
+chair 520 135 567 203
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10317.JPEG
+chair 120 284 352 464
+chair 304 260 504 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11199.JPEG
+chair 56 71 512 471
+chair 110 61 234 184
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1991.JPEG
+chair 11 3 575 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8641.JPEG
+chair 289 7 629 471
+chair 5 428 261 7
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3618.JPEG
+chair 30 219 315 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2551.JPEG
+chair 23 7 623 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_365.JPEG
+chair 52 213 280 471
+chair 291 471 515 223
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13555.JPEG
+chair 0 15 637 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6134.JPEG
+chair 94 28 523 423
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_975.JPEG
+chair 142 249 565 449
+person 500 17 135 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_226.JPEG
+chair 632 470 494 272
+chair 500 450 395 257
+chair 552 188 624 288
+chair 487 188 565 295
+chair 437 427 329 266
+chair 381 410 296 262
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7905.JPEG
+chair 88 4 584 403
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_429.JPEG
+chair 529 160 4 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9788.JPEG
+chair 626 53 3 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1231.JPEG
+chair 36 182 296 475
+chair 596 456 321 194
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3141.JPEG
+chair 480 445 40 41
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12750.JPEG
+chair 2 72 272 387
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8225.JPEG
+chair 633 0 5 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9648.JPEG
+chair 541 480 120 384
+chair 2 384 125 481
+person 206 112 411 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1180.JPEG
+chair 539 417 44 16
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7321.JPEG
+chair 43 1 516 437
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12867.JPEG
+chair 146 81 576 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13516.JPEG
+chair 149 138 434 348
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_774.JPEG
+chair 49 8 492 425
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1726.JPEG
+chair 344 224 639 466
+chair 383 123 554 225
+chair 637 125 555 229
+chair 396 71 514 139
+chair 507 69 625 146
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5673.JPEG
+chair 94 64 467 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12075.JPEG
+chair 280 282 491 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8190.JPEG
+chair 0 357 410 3
+chair 640 26 384 263
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12334.JPEG
+chair 27 46 277 397
+chair 616 403 364 53
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7576.JPEG
+chair 36 4 574 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10252.JPEG
+chair 637 156 420 306
+chair 184 177 640 348
+chair 12 199 637 377
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9170.JPEG
+chair 64 84 332 383
+chair 324 82 597 385
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_370.JPEG
+chair 3 39 608 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5891.JPEG
+chair 396 0 636 185
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3959.JPEG
+chair 68 183 491 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13740.JPEG
+chair 260 272 371 316
+chair 375 272 479 318
+chair 484 265 592 311
+chair 144 274 259 317
+chair 28 272 146 317
+chair 260 240 366 272
+chair 269 214 365 241
+chair 265 189 362 216
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_828.JPEG
+chair 20 8 617 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_720.JPEG
+chair 123 33 478 456
+chair 539 3 638 194
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9098.JPEG
+chair 3 65 53 153
+chair 39 56 98 149
+chair 80 50 147 158
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4524.JPEG
+chair 16 4 604 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13725.JPEG
+chair 335 158 435 249
+chair 387 59 475 125
+chair 296 51 397 142
+chair 452 153 564 236
+chair 638 135 552 227
+chair 28 212 167 337
+chair 132 195 251 326
+chair 237 169 341 288
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5162.JPEG
+chair 280 196 420 273
+chair 396 178 543 260
+chair 284 262 467 385
+chair 116 276 291 404
+chair 170 199 287 281
+chair 1 287 124 434
+chair 56 201 171 302
+chair 104 152 192 218
+chair 196 146 292 218
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12651.JPEG
+chair 94 36 474 419
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_915.JPEG
+chair 630 0 14 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5344.JPEG
+chair 52 50 313 393
+chair 196 56 607 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6230.JPEG
+chair 16 97 350 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1494.JPEG
+chair 592 451 4 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1441.JPEG
+chair 92 8 552 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13456.JPEG
+chair 139 330 276 463
+chair 12 330 164 453
+chair 36 298 168 400
+chair 204 292 324 419
+chair 352 284 465 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2655.JPEG
+chair 200 7 611 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5333.JPEG
+chair 608 468 22 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1645.JPEG
+chair 71 196 422 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8411.JPEG
+chair 553 476 187 140
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7859.JPEG
+chair 635 9 406 330
+chair 2 7 231 340
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6558.JPEG
+chair 562 2 104 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5813.JPEG
+chair 54 153 434 480
+chair 640 93 422 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8795.JPEG
+chair 193 186 508 340
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_505.JPEG
+chair 469 460 20 26
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4456.JPEG
+chair 118 103 556 340
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3077.JPEG
+chair 335 12 420 89
+chair 262 32 392 153
+chair 8 67 355 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6327.JPEG
+chair 0 279 280 472
+chair 639 259 431 419
+chair 57 222 307 387
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9496.JPEG
+chair 639 186 82 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7013.JPEG
+chair 522 19 40 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2528.JPEG
+chair 24 68 211 347
+chair 198 95 356 340
+chair 340 88 636 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12648.JPEG
+chair 81 39 308 440
+chair 324 20 536 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8870.JPEG
+chair 596 479 98 305
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9694.JPEG
+chair 214 271 443 444
+chair 52 260 248 440
+chair 192 164 367 328
+chair 361 182 534 354
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2379.JPEG
+chair 35 86 477 464
+person 180 76 424 320
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3336.JPEG
+chair 17 32 583 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2451.JPEG
+chair 624 464 16 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_188.JPEG
+chair 11 11 636 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13522.JPEG
+chair 62 21 621 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12662.JPEG
+chair 1 478 628 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4075.JPEG
+chair 132 462 532 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13580.JPEG
+chair 97 288 283 448
+chair 243 261 398 410
+chair 361 256 485 383
+chair 438 244 555 346
+chair 505 229 612 326
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3615.JPEG
+chair 0 100 172 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5833.JPEG
+chair 618 460 44 28
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3227.JPEG
+chair 446 441 145 98
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3948.JPEG
+chair 175 283 300 457
+chair 318 276 440 454
+chair 495 264 625 451
+chair 125 458 4 256
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1510.JPEG
+chair 616 468 43 45
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13339.JPEG
+chair 230 476 611 6
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_214.JPEG
+chair 197 254 540 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3696.JPEG
+chair 244 148 342 330
+chair 324 119 436 324
+chair 426 105 544 359
+chair 152 457 6 151
+chair 22 88 175 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4169.JPEG
+chair 91 80 289 422
+chair 308 88 544 406
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6649.JPEG
+chair 271 102 594 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4140.JPEG
+chair 20 35 614 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5974.JPEG
+chair 335 296 557 473
+chair 207 256 374 465
+chair 124 224 244 410
+chair 235 160 330 292
+chair 319 161 416 294
+chair 400 192 544 333
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12299.JPEG
+chair 84 8 537 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5473.JPEG
+chair 108 24 378 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2642.JPEG
+chair 618 469 23 15
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_350.JPEG
+chair 102 117 547 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2594.JPEG
+chair 89 75 381 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6518.JPEG
+chair 635 445 38 45
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_180.JPEG
+chair 0 2 636 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7619.JPEG
+chair 186 234 327 440
+chair 312 255 437 444
+chair 422 251 532 456
+chair 518 262 636 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13143.JPEG
+chair 268 232 364 434
+chair 337 247 461 474
+chair 449 271 596 475
+chair 196 202 316 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2039.JPEG
+chair 86 276 212 436
+chair 184 298 275 428
+person 370 376 424 464
+car 500 344 598 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2447.JPEG
+chair 66 344 220 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1467.JPEG
+chair 138 231 376 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11635.JPEG
+chair 30 279 240 444
+chair 287 353 528 478
+chair 438 280 579 409
+chair 324 256 456 359
+person 50 229 242 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15212.JPEG
+chair 632 476 20 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8939.JPEG
+chair 50 16 208 237
+chair 129 59 313 372
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_211.JPEG
+chair 116 10 535 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4237.JPEG
+chair 6 53 520 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8127.JPEG
+chair 147 20 521 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_150.JPEG
+chair 107 53 579 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13718.JPEG
+chair 263 60 476 438
+chair 638 232 352 476
+chair 370 474 84 204
+chair 0 153 158 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14584.JPEG
+chair 28 93 232 456
+chair 436 86 636 431
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7798.JPEG
+chair 146 15 497 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2281.JPEG
+chair 28 18 542 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9477.JPEG
+chair 570 477 5 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1126.JPEG
+chair 87 51 496 430
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_186.JPEG
+chair 8 422 636 2
+cat 119 41 639 389
+person 2 135 276 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6210.JPEG
+chair 507 469 104 20
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9110.JPEG
+chair 1 8 502 480
+chair 106 12 524 344
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5463.JPEG
+chair 634 463 158 56
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8719.JPEG
+chair 83 234 261 475
+chair 266 247 432 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8572.JPEG
+chair 243 53 522 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11128.JPEG
+chair 92 16 528 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4684.JPEG
+chair 623 469 20 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9610.JPEG
+chair 375 248 633 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11623.JPEG
+chair 108 112 242 236
+chair 139 354 4 181
+chair 180 92 272 200
+chair 338 99 471 245
+chair 398 149 572 397
+chair 639 223 417 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6421.JPEG
+chair 2 2 633 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1017.JPEG
+chair 624 9 14 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4228.JPEG
+chair 204 208 441 351
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2708.JPEG
+chair 556 464 186 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_515.JPEG
+chair 632 478 3 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9270.JPEG
+chair 61 184 150 389
+chair 113 323 176 441
+chair 232 182 322 432
+chair 291 308 379 439
+chair 352 290 424 420
+chair 274 49 340 148
+chair 346 40 421 152
+chair 418 53 476 141
+chair 464 72 524 150
+chair 2 281 79 419
+chair 28 316 118 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8851.JPEG
+chair 4 77 527 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5647.JPEG
+chair 59 45 584 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6160.JPEG
+chair 581 460 34 39
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7229.JPEG
+chair 153 19 437 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2273.JPEG
+chair 5 7 631 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8441.JPEG
+chair 402 477 0 172
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15000.JPEG
+chair 160 128 470 371
+chair 402 102 618 316
+chair 28 139 272 308
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1430.JPEG
+chair 636 475 4 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_654.JPEG
+chair 212 2 639 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1439.JPEG
+chair 477 115 636 384
+chair 342 104 500 391
+chair 202 116 376 400
+chair 76 124 248 391
+chair 137 386 3 130
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1839.JPEG
+chair 121 125 446 443
+chair 638 155 527 374
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_639.JPEG
+chair 492 444 80 51
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3256.JPEG
+chair 610 464 40 15
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3982.JPEG
+chair 328 302 468 415
+chair 436 289 556 408
+chair 290 301 391 385
+chair 208 301 303 381
+chair 180 288 244 356
+chair 114 297 193 358
+chair 48 292 125 356
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3128.JPEG
+chair 6 133 285 446
+chair 404 48 637 315
+person 20 24 441 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_371.JPEG
+chair 16 129 608 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11130.JPEG
+chair 41 117 481 420
+chair 280 24 544 260
+chair 636 192 439 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2956.JPEG
+chair 144 113 522 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1310.JPEG
+chair 93 12 552 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7792.JPEG
+chair 148 31 504 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1499.JPEG
+chair 28 4 604 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11824.JPEG
+chair 45 48 480 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9020.JPEG
+chair 144 142 415 309
+chair 477 479 120 252
+chair 160 70 355 196
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8099.JPEG
+chair 3 4 513 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1268.JPEG
+chair 606 465 30 6
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5995.JPEG
+chair 210 88 485 240
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4587.JPEG
+chair 76 10 557 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2206.JPEG
+chair 538 474 127 292
+chair 326 251 640 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4227.JPEG
+chair 77 140 564 433
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_92.JPEG
+chair 6 7 636 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11570.JPEG
+chair 45 137 580 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1495.JPEG
+chair 67 33 462 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7921.JPEG
+chair 635 422 4 33
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10535.JPEG
+chair 237 121 419 371
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4030.JPEG
+chair 16 130 214 348
+chair 219 112 432 342
+chair 396 105 604 316
+chair 372 176 636 475
+chair 70 213 414 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2172.JPEG
+chair 403 424 -1 2
+chair 317 5 637 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11739.JPEG
+chair 52 16 492 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9724.JPEG
+chair 637 476 7 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1974.JPEG
+chair 52 134 288 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9140.JPEG
+chair 5 140 456 476
+chair 4 84 180 303
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5027.JPEG
+chair 91 42 456 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_220.JPEG
+chair 3 4 548 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3283.JPEG
+chair 64 25 568 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9640.JPEG
+chair 636 27 318 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14260.JPEG
+chair 96 34 525 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1007.JPEG
+chair 39 219 226 441
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15086.JPEG
+chair 501 445 92 60
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2823.JPEG
+chair 42 92 604 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1388.JPEG
+chair 359 460 32 241
+chair 291 197 541 377
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10107.JPEG
+chair 94 29 544 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12679.JPEG
+chair 638 477 212 126
+person 613 428 12 56
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9608.JPEG
+chair 24 185 384 402
+chair 449 264 278 136
+person 488 71 576 209
+person 639 90 594 277
+car 1 314 228 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6663.JPEG
+chair 265 110 635 476
+person 116 464 584 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_187.JPEG
+chair 639 158 239 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1177.JPEG
+chair 590 436 112 86
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6709.JPEG
+chair 509 436 91 17
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5864.JPEG
+chair 0 233 629 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11819.JPEG
+chair 494 475 135 5
+person 159 89 474 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4626.JPEG
+chair 327 98 558 348
+chair 33 118 303 378
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3031.JPEG
+chair 40 3 556 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4680.JPEG
+chair 171 269 374 384
+chair 340 254 544 370
+chair 1 291 199 405
+chair 410 480 104 346
+chair 610 456 328 328
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6588.JPEG
+chair 107 17 562 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9681.JPEG
+chair 581 479 330 259
+chair 273 478 2 252
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13593.JPEG
+chair 468 475 5 76
+chair 229 19 528 331
+chair 334 4 567 219
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5551.JPEG
+chair 144 208 556 475
+chair 1 225 154 469
+chair 7 475 516 333
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3154.JPEG
+chair 309 235 424 421
+chair 189 234 292 378
+chair 276 231 344 352
+chair 27 223 157 383
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_561.JPEG
+chair 3 4 636 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1409.JPEG
+chair 96 86 541 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1362.JPEG
+chair 154 128 466 476
+chair 166 464 2 183
+chair 63 103 248 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9541.JPEG
+chair 572 472 52 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8241.JPEG
+chair 348 274 541 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9537.JPEG
+chair 23 90 621 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8131.JPEG
+chair 439 432 21 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_481.JPEG
+chair 17 3 637 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2049.JPEG
+chair 6 5 632 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6061.JPEG
+chair 631 451 2 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_55.JPEG
+chair 63 62 412 431
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7809.JPEG
+chair 363 324 480 480
+chair 325 334 415 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14985.JPEG
+chair 256 52 636 409
+chair 16 116 291 338
+person 0 60 52 318
+person 233 324 8 71
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_425.JPEG
+chair 15 456 634 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9667.JPEG
+chair 290 472 16 107
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1032.JPEG
+chair 129 111 428 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1111.JPEG
+chair 149 2 478 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7427.JPEG
+chair 2 160 393 477
+chair 634 120 403 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_991.JPEG
+chair 635 474 393 112
+chair 61 125 260 384
+chair 0 124 114 337
+chair 188 114 365 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3261.JPEG
+chair 621 470 81 17
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_378.JPEG
+chair 288 242 387 369
+chair 387 232 496 367
+chair 506 232 609 356
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12155.JPEG
+chair 312 107 617 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4283.JPEG
+chair 91 146 284 354
+chair 0 201 153 451
+chair 220 122 358 276
+chair 289 89 404 222
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9723.JPEG
+chair 54 3 561 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6249.JPEG
+person 438 131 490 218
+person 522 129 560 218
+person 554 126 598 220
+chair 2 308 404 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4152.JPEG
+chair 340 90 545 442
+chair 31 61 254 415
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3744.JPEG
+chair 68 36 512 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1091.JPEG
+chair 71 1 552 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5445.JPEG
+chair 12 4 406 467
+chair 309 26 632 411
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_107.JPEG
+chair 41 40 593 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2382.JPEG
+chair 117 54 480 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_342.JPEG
+chair 605 12 46 476
+chair 120 81 0 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11863.JPEG
+chair 34 51 565 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1427.JPEG
+chair 24 7 638 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_569.JPEG
+chair 54 4 617 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_249.JPEG
+chair 91 104 389 395
+chair 381 160 540 343
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6335.JPEG
+chair 43 32 574 391
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8467.JPEG
+chair 315 411 12 13
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7953.JPEG
+chair 139 121 332 398
+chair 326 119 528 420
+chair 128 476 1 112
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7051.JPEG
+chair 4 8 626 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12997.JPEG
+chair 637 474 6 6
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_649.JPEG
+chair 42 43 610 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5942.JPEG
+chair 178 176 640 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11542.JPEG
+chair 160 145 599 444
+person 567 87 14 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2361.JPEG
+chair 78 6 583 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8380.JPEG
+chair 186 19 508 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1089.JPEG
+chair 0 41 456 431
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1491.JPEG
+chair 27 236 297 474
+chair 288 175 524 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4569.JPEG
+chair 151 135 269 250
+chair 269 155 384 280
+chair 406 178 531 289
+chair 182 256 320 401
+chair 319 273 465 434
+chair 468 268 615 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2173.JPEG
+chair 631 12 362 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11531.JPEG
+chair 580 455 23 24
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2243.JPEG
+chair 201 159 474 369
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3251.JPEG
+chair 544 4 127 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10545.JPEG
+chair 140 71 452 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6461.JPEG
+chair 240 117 464 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4240.JPEG
+chair 15 44 622 478
+chair 270 20 640 332
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13131.JPEG
+chair 18 13 162 216
+chair 129 5 239 220
+chair 224 6 325 222
+chair 306 8 419 210
+chair 416 17 511 209
+chair 491 4 597 223
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6418.JPEG
+chair 8 156 312 474
+chair 133 44 340 257
+chair 574 265 379 40
+chair 635 156 348 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_785.JPEG
+chair 276 192 383 332
+chair 328 259 551 476
+chair 431 193 569 339
+chair 380 199 462 274
+chair 174 200 270 312
+chair 40 225 178 320
+chair 156 405 1 240
+chair 163 479 4 408
+chair 173 166 231 226
+chair 637 243 546 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5222.JPEG
+chair 204 118 410 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9147.JPEG
+chair 48 8 621 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5398.JPEG
+chair 604 190 349 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4010.JPEG
+chair 180 101 567 318
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2697.JPEG
+chair 447 473 182 224
+chair 374 212 604 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1316.JPEG
+chair 640 461 29 44
+chair 436 257 9 40
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8531.JPEG
+chair 143 88 569 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13110.JPEG
+chair 624 479 340 320
+chair 127 320 346 476
+chair 171 480 5 320
+chair 204 280 340 340
+chair 327 279 452 346
+chair 445 280 569 338
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13499.JPEG
+chair 639 83 162 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9435.JPEG
+person 283 173 420 360
+car 364 164 608 295
+car 640 172 560 260
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5115.JPEG
+chair 50 210 336 468
+chair 321 214 612 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4180.JPEG
+chair 105 220 329 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5023.JPEG
+chair 76 4 585 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5722.JPEG
+chair 100 16 580 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_235.JPEG
+chair 17 3 611 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8561.JPEG
+chair 182 268 473 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8998.JPEG
+chair 600 471 348 48
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5203.JPEG
+chair 144 12 602 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12789.JPEG
+chair 636 480 8 0
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13693.JPEG
+chair 151 125 497 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13220.JPEG
+chair 3 159 173 475
+chair 132 159 308 472
+chair 311 168 461 475
+chair 479 168 636 476
+person 3 18 183 296
+person 159 8 308 316
+person 304 8 465 314
+person 460 4 614 296
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7127.JPEG
+chair 343 78 566 454
+chair 30 63 312 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1295.JPEG
+chair 640 480 36 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8406.JPEG
+chair 59 17 542 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3883.JPEG
+chair 48 12 596 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12786.JPEG
+chair 84 35 322 298
+chair 330 52 561 306
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12330.JPEG
+chair 128 236 342 477
+chair 380 236 563 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9355.JPEG
+chair 153 256 301 468
+chair 288 263 446 452
+chair 438 260 592 475
+chair 460 158 577 288
+chair 353 159 459 293
+chair 233 163 361 280
+chair 132 162 253 269
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8596.JPEG
+chair 124 186 390 413
+chair 622 467 374 220
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13481.JPEG
+chair 439 473 1 2
+person 589 478 180 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9838.JPEG
+person 228 52 301 250
+person 515 102 640 309
+person 434 132 474 164
+person 406 136 428 160
+person 360 128 414 164
+person 82 96 192 267
+person 179 116 235 172
+chair 141 148 454 262
+chair 223 467 4 183
+chair 640 356 407 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_525.JPEG
+chair 6 2 632 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1246.JPEG
+chair 47 72 604 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2142.JPEG
+chair 4 22 563 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5523.JPEG
+chair 574 457 60 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12249.JPEG
+chair 171 47 583 426
+chair 225 414 1 57
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13020.JPEG
+chair 25 80 637 346
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_222.JPEG
+chair 16 6 571 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8919.JPEG
+chair 110 4 615 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1369.JPEG
+chair 20 194 632 380
+chair 152 120 498 209
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_614.JPEG
+chair 135 5 518 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9421.JPEG
+chair 275 96 599 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6847.JPEG
+chair 632 468 3 45
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1436.JPEG
+chair 68 18 523 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4071.JPEG
+chair 285 277 502 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10064.JPEG
+chair 117 8 628 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3711.JPEG
+chair 92 170 312 452
+chair 270 160 482 420
+chair 417 146 600 358
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_893.JPEG
+chair 14 25 247 424
+chair 226 31 464 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3839.JPEG
+chair 32 14 611 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9588.JPEG
+chair 49 54 538 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8996.JPEG
+chair 23 0 458 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5146.JPEG
+chair 27 4 604 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8198.JPEG
+chair 225 35 479 466
+chair 638 44 452 472
+chair 23 39 306 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9380.JPEG
+chair 410 287 536 416
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1413.JPEG
+chair 133 62 477 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12649.JPEG
+chair 51 8 596 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11721.JPEG
+chair 16 33 632 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8307.JPEG
+chair 52 112 252 289
+chair 290 196 593 426
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_78.JPEG
+chair 56 5 380 316
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4712.JPEG
+chair 108 6 544 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2284.JPEG
+chair 632 475 12 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2027.JPEG
+chair 635 453 5 28
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8144.JPEG
+chair 636 204 195 447
+chair 486 301 173 146
+person 52 4 105 64
+person 100 2 146 60
+person 159 2 201 59
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12003.JPEG
+chair 192 62 418 392
+chair 424 82 623 432
+chair 23 72 214 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7788.JPEG
+chair 612 476 4 52
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3949.JPEG
+chair 258 191 350 252
+chair 260 229 326 273
+chair 256 270 317 312
+chair 255 308 321 356
+chair 257 355 312 399
+chair 257 397 309 444
+chair 351 184 397 225
+chair 344 216 398 258
+chair 341 257 405 300
+chair 346 291 405 337
+chair 438 229 484 272
+chair 430 191 484 230
+chair 436 163 481 198
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6626.JPEG
+chair 112 169 392 472
+person 168 125 323 338
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14163.JPEG
+chair 76 86 488 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5607.JPEG
+chair 197 161 572 465
+car 463 94 551 154
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6678.JPEG
+chair 248 127 479 444
+chair 0 144 387 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13279.JPEG
+chair 572 436 431 216
+chair 494 372 392 210
+chair 348 192 427 323
+chair 337 221 386 297
+chair 223 228 316 337
+chair 42 241 208 417
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5797.JPEG
+chair 14 75 473 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12892.JPEG
+chair 460 432 358 311
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3085.JPEG
+chair 624 468 6 7
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2098.JPEG
+chair 208 89 401 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8164.JPEG
+chair 611 477 11 75
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12798.JPEG
+chair 144 199 612 465
+chair 0 186 228 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5190.JPEG
+chair 22 78 416 394
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3146.JPEG
+chair 158 479 488 22
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2494.JPEG
+chair 105 99 563 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3946.JPEG
+chair 29 4 632 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8062.JPEG
+chair 37 2 552 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3879.JPEG
+chair 208 200 492 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13066.JPEG
+chair 636 246 420 476
+chair 125 253 346 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5149.JPEG
+chair 490 472 51 127
+bus 0 121 67 194
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3756.JPEG
+chair 496 468 228 359
+chair 10 383 238 469
+chair 399 392 198 242
+chair 4 250 193 389
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11047.JPEG
+chair 232 87 461 431
+person 260 0 260 0
+person 260 3 4 392
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3196.JPEG
+chair 618 460 100 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9103.JPEG
+chair 639 45 369 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6858.JPEG
+chair 20 31 431 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_164.JPEG
+chair 434 476 2 5
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6503.JPEG
+chair 639 1 3 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6715.JPEG
+chair 76 341 208 441
+chair 202 336 332 443
+chair 330 349 456 434
+chair 453 347 592 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2090.JPEG
+chair 103 12 549 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3267.JPEG
+chair 100 20 591 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4348.JPEG
+chair 16 5 629 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4090.JPEG
+chair 201 174 277 314
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8319.JPEG
+chair 91 24 500 415
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3920.JPEG
+chair 273 229 396 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1506.JPEG
+chair 72 30 627 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12841.JPEG
+chair 584 95 220 398
+chair 400 77 54 353
+chair 54 353 54 354
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_878.JPEG
+chair 403 58 639 454
+chair 370 100 454 329
+chair 26 52 257 438
+chair 220 108 276 294
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_28.JPEG
+chair 541 455 91 51
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_257.JPEG
+chair 14 8 617 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9559.JPEG
+chair 4 0 634 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_376.JPEG
+chair 228 112 612 436
+chair 377 476 0 132
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9704.JPEG
+chair 101 98 571 458
+chair 196 52 461 217
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14819.JPEG
+chair 6 17 417 475
+chair 628 8 326 381
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2780.JPEG
+chair 155 56 486 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_252.JPEG
+chair 359 240 421 308
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1964.JPEG
+chair 601 396 416 85
+chair 276 76 464 408
+chair 118 59 297 392
+chair 155 410 7 70
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1160.JPEG
+chair 147 165 286 365
+chair 332 101 460 305
+chair 249 63 379 226
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8974.JPEG
+chair 52 58 472 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5965.JPEG
+chair 28 97 316 385
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_582.JPEG
+chair 16 0 637 478
+person 105 2 640 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9709.JPEG
+chair 109 242 249 477
+chair 230 255 372 476
+chair 351 260 482 476
+chair 461 264 604 476
+chair 2 248 128 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4839.JPEG
+chair 486 416 12 24
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5886.JPEG
+chair 637 477 2 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6.JPEG
+chair 242 269 441 472
+chair 381 222 534 419
+chair 45 278 288 478
+chair 156 476 2 273
+person 29 136 167 312
+person 160 116 280 303
+person 248 158 408 427
+person 327 151 406 272
+person 388 220 480 376
+person 383 137 449 228
+person 476 161 551 264
+person 639 148 552 351
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8192.JPEG
+chair 80 60 328 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7039.JPEG
+chair 224 209 404 385
+chair 175 289 431 478
+chair 638 222 488 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_778.JPEG
+chair 73 9 534 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_292.JPEG
+chair 516 29 43 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8.JPEG
+bench 52 184 248 428
+bench 408 152 633 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7715.JPEG
+chair 498 480 1 6
+chair 303 6 639 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11650.JPEG
+chair 85 34 563 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8056.JPEG
+bench 64 211 569 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_847.JPEG
+chair 316 105 628 392
+chair 380 405 1 116
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2190.JPEG
+chair 150 100 408 346
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3780.JPEG
+chair 112 71 456 416
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_340.JPEG
+chair 85 61 572 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_244.JPEG
+chair 201 154 469 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1577.JPEG
+chair 379 99 599 454
+chair 174 72 375 324
+chair 494 480 171 212
+chair 10 144 197 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2684.JPEG
+chair 183 95 386 273
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5689.JPEG
+chair 629 10 27 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6684.JPEG
+chair 181 8 471 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9506.JPEG
+chair 582 458 294 173
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2555.JPEG
+chair 624 469 19 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12473.JPEG
+chair 482 30 231 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1496.JPEG
+chair 54 5 605 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_854.JPEG
+chair 280 211 475 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2668.JPEG
+chair 37 13 557 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6874.JPEG
+chair 86 2 571 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4938.JPEG
+chair 36 29 398 471
+chair 368 2 622 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10738.JPEG
+chair 103 69 436 355
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9330.JPEG
+chair 253 238 425 380
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7596.JPEG
+chair 368 215 464 361
+chair 434 225 552 403
+chair 638 246 531 464
+chair 305 163 363 259
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14029.JPEG
+chair 25 8 634 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_246.JPEG
+chair 617 68 116 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_710.JPEG
+chair 91 22 548 433
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9603.JPEG
+chair 189 183 265 298
+chair 278 179 355 297
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_804.JPEG
+chair 32 6 632 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3022.JPEG
+chair 107 8 558 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2253.JPEG
+chair 58 54 568 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2315.JPEG
+chair 4 42 628 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11074.JPEG
+chair 95 180 484 476
+person 110 9 524 361
+person 10 3 232 240
+person 636 0 424 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9661.JPEG
+chair 2 2 452 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6291.JPEG
+chair 143 212 380 452
+chair 310 198 554 452
+chair 634 196 477 438
+chair 1 218 174 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6036.JPEG
+chair 154 28 536 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5228.JPEG
+chair 24 117 341 451
+chair 633 452 339 132
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2186.JPEG
+chair 113 4 556 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13876.JPEG
+chair 483 473 6 13
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1937.JPEG
+chair 184 90 409 335
+chair 636 77 438 316
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14766.JPEG
+chair 5 177 140 310
+chair 109 178 210 284
+chair 394 150 508 285
+chair 484 159 625 301
+chair 183 75 412 275
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12167.JPEG
+chair 445 20 616 450
+chair 246 10 405 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_621.JPEG
+chair 217 88 444 456
+chair 640 132 316 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9219.JPEG
+chair 71 75 212 292
+bench 152 51 384 220
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2051.JPEG
+chair 244 288 392 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_277.JPEG
+chair 70 19 529 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12826.JPEG
+chair 121 29 464 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3014.JPEG
+chair 17 15 619 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13055.JPEG
+chair 65 275 200 403
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_328.JPEG
+chair 26 2 433 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_102.JPEG
+chair 277 86 632 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8603.JPEG
+chair 119 6 530 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12859.JPEG
+bench 479 174 268 365
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12927.JPEG
+chair 8 1 636 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1641.JPEG
+chair 80 29 444 387
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12704.JPEG
+chair 206 212 348 346
+chair 332 211 463 344
+chair 65 216 227 357
+chair 72 314 246 474
+chair 408 480 244 315
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5885.JPEG
+chair 8 18 634 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9302.JPEG
+chair 156 209 488 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6796.JPEG
+chair 54 11 565 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2270.JPEG
+chair 205 202 509 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2134.JPEG
+chair 56 147 322 443
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4846.JPEG
+chair 588 6 49 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5667.JPEG
+chair 529 449 112 19
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5234.JPEG
+chair 13 2 620 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13406.JPEG
+chair 29 80 285 452
+chair 269 116 408 394
+chair 372 200 600 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_936.JPEG
+chair 60 49 453 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5641.JPEG
+chair 17 15 605 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3088.JPEG
+chair 308 258 582 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9801.JPEG
+chair 406 474 35 64
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3445.JPEG
+chair 95 67 447 443
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5482.JPEG
+chair 48 57 388 373
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2812.JPEG
+chair 5 474 635 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8049.JPEG
+chair 48 153 617 448
+person 41 107 564 411
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1354.JPEG
+chair 374 2 8 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8901.JPEG
+chair 428 472 211 244
+chair 637 470 400 256
+chair 224 470 14 259
+chair 72 157 220 300
+chair 211 161 353 300
+chair 342 165 480 309
+chair 474 167 616 314
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10042.JPEG
+chair 13 15 608 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5048.JPEG
+chair 306 304 434 421
+chair 432 297 529 395
+person 212 56 276 144
+person 394 18 456 124
+person 334 64 392 128
+person 309 88 341 125
+person 272 97 322 152
+person 102 36 167 125
+person 54 68 137 132
+chair 186 360 325 473
+chair 108 332 235 469
+chair 74 383 212 478
+chair 352 388 489 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12663.JPEG
+chair 514 445 114 28
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1480.JPEG
+chair 14 126 268 413
+chair 632 452 392 124
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9008.JPEG
+chair 423 74 614 323
+chair 15 136 289 418
+chair 58 24 316 236
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7976.JPEG
+chair 196 156 360 278
+chair 351 208 531 305
+chair 432 173 583 263
+chair 149 114 280 188
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4156.JPEG
+chair 84 40 530 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8024.JPEG
+chair 192 165 313 347
+chair 420 164 552 358
+chair 15 157 140 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8124.JPEG
+chair 251 479 636 228
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1.JPEG
+chair 484 459 12 60
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10785.JPEG
+chair 230 70 477 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12762.JPEG
+chair 70 223 603 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3007.JPEG
+chair 611 479 36 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_865.JPEG
+chair 292 249 384 351
+chair 196 260 283 339
+chair 428 344 529 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5628.JPEG
+chair 562 20 44 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15022.JPEG
+chair 228 206 498 436
+chair 40 218 295 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1953.JPEG
+chair 638 56 306 475
+chair 1 63 283 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9158.JPEG
+chair 221 272 414 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14775.JPEG
+chair 552 24 16 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1920.JPEG
+chair 524 476 157 186
+chair 1 204 415 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8098.JPEG
+chair 420 347 275 189
+chair 548 368 381 199
+chair 320 325 188 180
+chair 123 171 249 303
+chair 434 109 550 220
+chair 364 109 466 218
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10679.JPEG
+chair 346 60 601 467
+chair 68 40 301 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3849.JPEG
+chair 199 148 333 314
+chair 332 143 456 316
+chair 96 161 216 295
+chair 2 168 105 302
+chair 425 160 567 304
+chair 535 154 639 298
+person 164 97 238 217
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7671.JPEG
+chair 572 402 362 232
+chair 124 182 312 329
+chair 400 168 540 261
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_896.JPEG
+chair 638 4 3 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4326.JPEG
+chair 412 231 639 423
+chair 282 211 400 318
+chair 2 297 155 453
+chair 3 238 163 359
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2013.JPEG
+chair 22 100 625 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9749.JPEG
+chair 560 448 100 5
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7967.JPEG
+chair 201 122 448 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12659.JPEG
+chair 90 96 502 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13063.JPEG
+chair 372 130 586 328
+chair 297 144 452 293
+chair 221 153 368 285
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1414.JPEG
+chair 104 68 531 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15103.JPEG
+chair 601 2 40 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3202.JPEG
+chair 450 8 52 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2364.JPEG
+chair 10 174 156 418
+chair 200 176 340 413
+chair 404 185 521 406
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14370.JPEG
+chair 86 28 432 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13727.JPEG
+chair 80 78 538 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12753.JPEG
+chair 140 1 637 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14555.JPEG
+chair 75 3 543 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2596.JPEG
+chair 241 30 605 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_298.JPEG
+chair 224 197 421 413
+person 252 168 387 428
+car -1 80 147 217
+car 0 180 58 308
+bus 210 19 425 120
+door 569 16 636 212
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_641.JPEG
+car 46 86 192 290
+chair 361 237 536 368
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12394.JPEG
+chair 559 420 11 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2466.JPEG
+chair 80 142 225 304
+chair 270 22 372 198
+chair 297 117 418 232
+chair 420 288 548 477
+chair 272 309 411 476
+chair 83 309 227 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1275.JPEG
+chair 116 6 511 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7580.JPEG
+chair 67 51 315 455
+chair 303 70 485 395
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8004.JPEG
+chair 20 3 636 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2021.JPEG
+chair 636 4 8 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9534.JPEG
+chair 128 152 568 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9908.JPEG
+chair 202 233 367 471
+chair 638 215 447 468
+chair 430 159 558 333
+chair 235 156 344 287
+chair 14 123 91 231
+chair 118 123 188 222
+chair 282 111 352 220
+chair 328 92 376 196
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13085.JPEG
+chair 23 25 352 264
+chair 602 80 306 369
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_696.JPEG
+chair 8 23 597 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9744.JPEG
+chair 634 366 10 5
+person 136 1 357 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9621.JPEG
+chair 281 78 589 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5299.JPEG
+chair 385 440 179 188
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2106.JPEG
+chair 572 478 69 17
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_528.JPEG
+chair 61 14 605 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12111.JPEG
+chair 256 242 418 364
+chair 268 177 409 264
+chair 400 182 544 257
+chair 415 241 590 355
+chair 92 237 263 360
+chair 449 480 230 344
+chair 629 344 436 475
+chair 5 340 230 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3916.JPEG
+chair 142 177 390 325
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2705.JPEG
+chair 8 2 633 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14104.JPEG
+chair 143 97 529 476
+chair 636 104 498 476
+chair 2 95 164 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11510.JPEG
+chair 13 16 332 464
+chair 352 53 618 382
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_72.JPEG
+chair 463 471 168 285
+chair 246 190 461 356
+chair 396 170 605 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9686.JPEG
+chair 631 478 312 49
+chair 23 7 273 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8705.JPEG
+chair 452 128 621 396
+chair 24 128 192 380
+chair 441 480 93 29
+person 208 145 359 360
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7300.JPEG
+chair 160 248 424 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15158.JPEG
+chair 87 7 534 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1134.JPEG
+chair 634 10 24 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3040.JPEG
+chair 21 4 336 473
+chair 336 6 592 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1533.JPEG
+person 104 52 379 428
+person 640 5 443 377
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12716.JPEG
+person 88 28 588 479
+chair 339 296 559 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7678.JPEG
+chair 576 419 32 74
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5106.JPEG
+chair 103 24 438 476
+chair 640 75 336 476
+chair 3 8 256 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2503.JPEG
+chair 1 3 635 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12434.JPEG
+chair 126 51 466 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3133.JPEG
+chair 192 8 528 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_171.JPEG
+chair 615 326 260 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15026.JPEG
+chair 81 13 489 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_806.JPEG
+chair 595 393 76 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2267.JPEG
+chair 9 128 208 458
+chair 104 141 368 477
+chair 633 464 412 131
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6007.JPEG
+chair 123 176 506 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14966.JPEG
+chair 58 5 540 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9026.JPEG
+chair 124 40 500 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6317.JPEG
+chair 97 20 516 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2552.JPEG
+chair 30 65 560 395
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1474.JPEG
+chair 168 1 518 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8599.JPEG
+chair 39 9 310 468
+chair 147 22 397 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1507.JPEG
+chair 624 480 14 16
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7655.JPEG
+chair 72 69 551 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5730.JPEG
+chair 99 8 548 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1525.JPEG
+chair 156 119 335 406
+chair 287 148 479 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4362.JPEG
+chair 224 232 347 370
+chair 329 222 424 354
+chair 420 217 500 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5424.JPEG
+chair 409 30 7 464
+chair 361 24 638 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13574.JPEG
+chair 447 314 257 150
+chair 49 200 277 365
+chair 588 252 405 116
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7294.JPEG
+chair 268 197 564 447
+chair 0 210 272 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2241.JPEG
+chair 36 36 579 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2325.JPEG
+chair 72 153 342 363
+chair 588 400 240 165
+chair 299 123 404 180
+chair 96 133 149 170
+chair 50 163 0 135
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11629.JPEG
+chair 12 44 216 310
+chair 231 42 416 316
+chair 424 52 628 308
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11658.JPEG
+chair 287 225 404 315
+chair 376 236 497 318
+chair 633 222 471 325
+chair 344 178 403 227
+chair 401 177 469 220
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_51.JPEG
+chair 144 1 515 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5136.JPEG
+chair 513 454 132 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6096.JPEG
+chair 386 237 556 342
+chair 569 292 333 475
+chair 548 480 356 381
+chair 231 476 2 316
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_271.JPEG
+chair 80 28 517 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9942.JPEG
+chair 248 244 489 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13053.JPEG
+chair 163 80 467 358
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12114.JPEG
+chair 192 182 428 405
+chair 391 162 560 361
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1101.JPEG
+chair 11 24 240 472
+chair 227 4 402 459
+chair 408 24 634 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13011.JPEG
+chair 333 26 633 474
+chair 342 16 48 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3796.JPEG
+chair 131 164 558 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13459.JPEG
+chair 298 128 639 473
+chair 1 199 330 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5626.JPEG
+chair 5 48 370 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2801.JPEG
+chair 572 455 48 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2560.JPEG
+chair 120 8 597 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5633.JPEG
+chair 266 180 372 276
+chair 357 180 467 276
+chair 167 182 274 276
+chair 267 254 418 421
+chair 393 248 556 416
+chair 130 256 285 416
+chair 2 264 133 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2377.JPEG
+chair 599 70 228 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9510.JPEG
+chair 172 212 408 401
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1844.JPEG
+chair 124 85 448 378
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1182.JPEG
+chair 120 239 341 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3823.JPEG
+chair 179 12 493 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9599.JPEG
+chair 196 96 528 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4518.JPEG
+chair 372 74 639 356
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4047.JPEG
+chair 580 140 367 430
+chair 86 270 280 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14623.JPEG
+chair 26 4 528 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3789.JPEG
+chair 637 130 86 361
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2666.JPEG
+chair 68 69 306 401
+chair 586 72 330 392
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1118.JPEG
+chair 638 2 0 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8247.JPEG
+chair 280 275 484 477
+chair 15 272 213 473
+car 213 181 312 244
+car 129 188 199 235
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2133.JPEG
+chair 488 469 105 14
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4099.JPEG
+chair 505 423 20 19
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1016.JPEG
+chair 68 14 632 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1407.JPEG
+chair 567 17 76 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_783.JPEG
+chair 23 23 462 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9439.JPEG
+chair 318 206 430 335
+chair 228 260 334 395
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_207.JPEG
+bench 108 222 372 355
+bench 464 265 512 316
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_652.JPEG
+chair 16 242 283 477
+chair 394 167 612 477
+person 610 451 405 52
+person 224 4 450 180
+person 93 6 259 194
+person 15 104 250 450
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5767.JPEG
+chair 84 13 592 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7311.JPEG
+chair 46 32 504 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4263.JPEG
+chair 253 323 416 432
+person 418 55 610 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9.JPEG
+chair 120 21 534 437
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6228.JPEG
+chair 463 224 504 269
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3447.JPEG
+chair 55 93 551 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5206.JPEG
+chair 331 261 399 324
+chair 213 264 283 331
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1051.JPEG
+chair 13 9 620 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4077.JPEG
+chair 85 18 551 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2635.JPEG
+chair 593 460 317 66
+chair 64 79 302 440
+car 634 76 544 181
+car 20 61 187 171
+car 48 179 1 67
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5975.JPEG
+chair 637 186 290 477
+chair 1 203 218 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5851.JPEG
+chair 592 23 3 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12569.JPEG
+chair 3 90 517 449
+person 80 3 632 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11997.JPEG
+chair 126 8 608 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3519.JPEG
+chair 616 356 415 173
+chair 208 172 427 344
+chair 234 345 23 173
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8084.JPEG
+chair 52 63 296 400
+chair 322 65 600 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3785.JPEG
+chair 617 20 40 410
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10931.JPEG
+chair 52 116 295 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5601.JPEG
+chair 8 11 628 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13505.JPEG
+chair 110 74 272 218
+chair 274 76 430 221
+chair 420 80 610 225
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2020.JPEG
+chair 2 175 324 460
+chair 157 166 436 388
+chair 304 185 548 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5436.JPEG
+chair 592 17 17 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11696.JPEG
+chair 613 97 390 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14019.JPEG
+chair 487 17 14 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1809.JPEG
+chair 316 55 585 447
+chair 164 19 453 473
+chair 9 7 281 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_983.JPEG
+chair 125 3 531 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5861.JPEG
+chair 21 195 563 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9378.JPEG
+chair 253 263 394 345
+chair 393 264 536 342
+chair 108 267 249 340
+chair 142 217 263 276
+chair 265 216 389 272
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7214.JPEG
+chair 50 52 264 456
+chair 329 78 485 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11686.JPEG
+chair 380 52 610 408
+chair 228 68 426 425
+chair 54 87 313 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_147.JPEG
+chair 164 8 497 452
+car 443 107 549 155
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2239.JPEG
+chair 29 180 160 378
+chair 202 263 331 372
+chair 376 225 514 378
+chair 514 205 617 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_153.JPEG
+chair 584 96 104 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11026.JPEG
+chair 56 76 332 280
+chair 638 107 388 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12129.JPEG
+chair 16 14 627 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3241.JPEG
+chair 177 88 466 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2399.JPEG
+chair 239 151 393 420
+chair 368 248 428 371
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8585.JPEG
+chair 569 360 229 49
+chair 11 68 409 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_842.JPEG
+chair 28 12 592 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1178.JPEG
+chair 636 1 1 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_278.JPEG
+chair 38 104 269 320
+chair 1 233 304 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9593.JPEG
+chair 30 7 596 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12696.JPEG
+chair 72 156 500 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5838.JPEG
+chair 168 10 433 400
+chair 413 8 636 382
+chair 208 460 3 32
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1431.JPEG
+chair 624 476 64 23
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_104.JPEG
+chair 523 29 52 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3763.JPEG
+chair 33 293 317 481
+chair 284 259 634 480
+person 184 207 382 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_788.JPEG
+chair 632 26 35 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_583.JPEG
+chair 112 246 404 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_616.JPEG
+chair 1 47 638 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3000.JPEG
+chair 608 44 12 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10132.JPEG
+chair 2 66 354 474
+chair 344 44 620 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1340.JPEG
+chair 21 193 544 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8298.JPEG
+chair 32 267 334 460
+person 319 152 524 304
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_60.JPEG
+chair 47 2 639 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4284.JPEG
+chair 31 5 557 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9323.JPEG
+chair 211 188 430 379
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2491.JPEG
+chair 423 478 199 159
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11936.JPEG
+chair 47 50 444 442
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12669.JPEG
+chair 288 71 487 361
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_701.JPEG
+chair 64 120 451 471
+person 533 460 151 26
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2012.JPEG
+chair 300 333 469 466
+door 142 76 355 398
+door 637 97 544 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3463.JPEG
+chair 112 101 508 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2657.JPEG
+chair 0 2 632 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14020.JPEG
+chair 72 21 484 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7073.JPEG
+chair 320 169 627 348
+chair 6 166 312 345
+chair -1 230 310 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1014.JPEG
+chair 44 9 620 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1256.JPEG
+chair 64 80 498 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7959.JPEG
+chair 83 52 352 391
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6793.JPEG
+chair 75 28 289 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3542.JPEG
+chair 526 6 64 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5504.JPEG
+chair 96 13 547 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3239.JPEG
+chair 9 44 316 452
+chair 310 4 627 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5656.JPEG
+chair 42 29 564 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9602.JPEG
+chair 44 19 588 475
+person 5 80 637 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7760.JPEG
+chair 4 373 388 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_906.JPEG
+chair 140 33 544 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4494.JPEG
+chair 216 129 606 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12732.JPEG
+chair 616 18 13 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6052.JPEG
+bench 132 164 308 216
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10169.JPEG
+chair 50 34 585 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6005.JPEG
+chair 144 106 376 463
+chair 375 96 608 411
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7355.JPEG
+chair 177 157 325 251
+chair 331 146 463 256
+chair 310 229 483 368
+chair 136 210 309 369
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1322.JPEG
+chair 554 475 124 11
+person 280 12 595 395
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11805.JPEG
+chair 622 476 100 148
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5141.JPEG
+chair 568 32 131 356
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_879.JPEG
+chair 8 31 256 451
+chair 630 50 359 458
+person 224 11 572 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3002.JPEG
+chair 1 71 345 478
+chair 175 60 413 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12118.JPEG
+chair 70 56 479 425
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12894.JPEG
+chair 177 188 426 377
+chair 4 231 222 476
+chair 281 266 640 462
+person 426 352 67 112
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9567.JPEG
+chair 301 90 3 164
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6173.JPEG
+chair 539 11 92 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6614.JPEG
+chair 600 478 4 228
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14214.JPEG
+chair 48 150 455 439
+person 69 62 535 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1164.JPEG
+chair 592 473 55 14
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2863.JPEG
+chair 479 20 216 444
+chair 77 11 277 381
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14157.JPEG
+chair 168 39 344 202
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3884.JPEG
+chair 86 179 192 307
+chair 215 163 316 324
+chair 324 179 419 319
+chair 466 184 568 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2716.JPEG
+chair 53 161 443 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12830.JPEG
+chair 625 1 38 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9767.JPEG
+chair 11 88 625 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2099.JPEG
+chair 45 31 604 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9361.JPEG
+chair 4 165 282 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7675.JPEG
+chair 81 132 449 445
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2513.JPEG
+chair 146 152 337 358
+chair 320 119 494 317
+chair 462 104 608 268
+chair 4 187 144 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2609.JPEG
+chair 25 60 402 481
+chair 630 27 345 362
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2175.JPEG
+chair 625 7 24 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12171.JPEG
+chair 102 72 542 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5407.JPEG
+chair 2 85 367 368
+chair 208 55 581 310
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11778.JPEG
+chair 45 68 294 418
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5897.JPEG
+chair 1 73 375 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5922.JPEG
+chair 520 475 145 227
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9376.JPEG
+chair 216 260 520 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10520.JPEG
+chair 22 174 131 427
+chair 120 180 229 426
+chair 220 188 323 428
+chair 322 188 429 432
+chair 417 187 536 425
+chair 538 192 636 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6001.JPEG
+chair 151 256 396 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13059.JPEG
+chair 619 12 29 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12671.JPEG
+chair 24 177 222 328
+chair 99 307 403 481
+chair 614 288 417 460
+person 225 159 484 306
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_256.JPEG
+chair 164 73 452 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1331.JPEG
+chair 27 54 235 356
+chair 248 30 425 329
+chair 627 87 380 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1392.JPEG
+chair 166 98 364 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7923.JPEG
+chair 108 47 581 393
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2476.JPEG
+chair 580 25 62 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10950.JPEG
+chair 579 19 39 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14670.JPEG
+chair 499 54 80 422
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8423.JPEG
+chair 442 75 24 458
+chair 570 58 215 327
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6611.JPEG
+chair 48 4 580 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7462.JPEG
+chair 210 187 388 392
+chair 376 185 495 369
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6351.JPEG
+chair 293 6 592 476
+chair 29 25 298 398
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5736.JPEG
+bench 114 225 552 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3073.JPEG
+chair 112 36 576 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2303.JPEG
+chair 224 103 369 231
+chair 232 253 380 430
+chair 3 271 158 425
+chair 3 57 108 196
+chair 127 53 249 198
+chair 496 81 599 215
+chair 499 287 612 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2529.JPEG
+chair 104 30 532 446
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9813.JPEG
+chair 348 475 140 227
+chair 377 228 581 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8396.JPEG
+chair 134 116 391 393
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2493.JPEG
+chair 555 20 38 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11835.JPEG
+chair 325 131 578 374
+person 106 102 407 468
+person 380 123 564 380
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8213.JPEG
+person 88 61 156 186
+person 250 117 383 304
+bicycle 474 91 546 180
+chair 176 124 429 367
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4199.JPEG
+chair 544 219 148 425
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3441.JPEG
+chair 0 2 634 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12994.JPEG
+chair 530 199 84 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3119.JPEG
+chair 640 2 306 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_15141.JPEG
+chair 1 240 362 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_402.JPEG
+chair 608 454 70 124
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9252.JPEG
+chair 352 14 623 212
+chair 168 228 472 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5403.JPEG
+chair 13 44 437 430
+person 124 12 605 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14828.JPEG
+chair 59 132 272 379
+chair 638 123 428 427
+chair 2 71 118 219
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7672.JPEG
+chair 225 363 293 403
+chair 304 372 398 408
+chair 54 379 154 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8358.JPEG
+chair 62 32 602 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11675.JPEG
+chair 288 224 4 480
+chair 313 248 550 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5362.JPEG
+chair 4 3 407 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1999.JPEG
+chair 54 10 607 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5870.JPEG
+chair 60 10 332 466
+chair 621 25 361 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11822.JPEG
+chair 235 233 383 304
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_464.JPEG
+chair 541 315 421 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9562.JPEG
+chair 59 10 581 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2092.JPEG
+chair 148 171 268 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3355.JPEG
+chair 44 209 500 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10214.JPEG
+chair 22 45 554 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5205.JPEG
+chair 3 108 401 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_921.JPEG
+chair 50 125 512 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2225.JPEG
+chair 546 26 81 406
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11595.JPEG
+chair 277 193 416 292
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6201.JPEG
+bench 259 259 476 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9212.JPEG
+chair 272 224 391 352
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_560.JPEG
+chair 43 14 597 481
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9286.JPEG
+chair 238 245 403 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8457.JPEG
+person 56 212 291 412
+person 144 194 229 271
+chair 296 267 580 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1043.JPEG
+chair 632 31 16 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8514.JPEG
+chair 42 3 610 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6470.JPEG
+chair 57 39 425 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1036.JPEG
+chair 629 468 3 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7786.JPEG
+chair 632 252 343 451
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12839.JPEG
+chair 111 171 292 439
+chair 329 172 533 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2150.JPEG
+chair 39 7 608 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_954.JPEG
+chair 87 133 380 476
+person 200 107 500 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2429.JPEG
+chair 632 8 13 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_467.JPEG
+chair 94 5 508 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4064.JPEG
+chair 0 104 416 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1378.JPEG
+chair 83 59 334 420
+chair 548 56 276 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12755.JPEG
+bench 81 323 364 452
+bench 435 304 532 416
+person 269 288 368 435
+person 387 275 494 396
+person 128 252 176 328
+person 187 257 244 339
+bench 115 275 240 336
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_786.JPEG
+chair 216 90 367 399
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6437.JPEG
+chair 573 21 79 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_818.JPEG
+chair 514 11 83 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7925.JPEG
+chair 328 6 593 456
+chair 42 11 308 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4285.JPEG
+chair 636 480 147 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12921.JPEG
+chair 551 26 93 413
+person 288 354 0 2
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4268.JPEG
+chair 372 260 9 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3198.JPEG
+chair 168 87 481 382
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1966.JPEG
+chair 457 16 24 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9722.JPEG
+chair 148 166 470 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_784.JPEG
+chair 0 4 564 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6517.JPEG
+chair 180 143 403 439
+chair 336 168 522 375
+chair 461 154 612 336
+person 5 172 124 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_917.JPEG
+chair 330 224 449 384
+chair 440 208 528 348
+chair 56 251 224 430
+chair 116 208 238 331
+chair 184 194 248 282
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13017.JPEG
+chair 528 377 258 92
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_933.JPEG
+chair 618 154 388 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5537.JPEG
+chair 607 458 100 12
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2208.JPEG
+chair 116 4 618 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3656.JPEG
+chair 279 200 436 471
+chair 433 228 617 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3195.JPEG
+chair 612 29 59 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1915.JPEG
+chair 623 36 116 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_275.JPEG
+chair 36 92 368 383
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11230.JPEG
+chair 140 196 540 470
+chair 640 118 446 319
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2707.JPEG
+chair 12 3 628 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9925.JPEG
+chair 28 9 571 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13652.JPEG
+chair 28 133 255 445
+chair 407 256 571 463
+person 87 30 358 448
+person 569 12 219 448
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2009.JPEG
+chair 10 2 631 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9841.JPEG
+chair 230 253 460 423
+chair 15 263 243 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_463.JPEG
+chair 324 105 609 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_548.JPEG
+chair 35 68 368 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4861.JPEG
+chair 616 23 30 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8892.JPEG
+chair 626 6 67 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9550.JPEG
+chair 239 111 434 439
+chair 1 53 102 358
+person 0 2 50 206
+person 613 389 381 149
+chair 208 5 356 236
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6236.JPEG
+chair 583 26 138 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5130.JPEG
+chair 589 8 86 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3120.JPEG
+chair 624 76 325 471
+chair 8 131 328 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3189.JPEG
+chair 145 13 532 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2229.JPEG
+chair 169 134 359 420
+chair 416 144 600 423
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9737.JPEG
+chair 108 144 308 397
+chair 632 164 329 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1456.JPEG
+chair 568 28 112 360
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12535.JPEG
+chair 597 468 171 65
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6294.JPEG
+chair 20 6 325 475
+chair 623 12 321 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1157.JPEG
+chair 125 26 532 427
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1357.JPEG
+chair 5 5 636 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5888.JPEG
+chair 611 15 8 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2566.JPEG
+chair 633 1 232 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6776.JPEG
+chair 59 71 572 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4012.JPEG
+chair 508 393 136 11
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8730.JPEG
+chair 32 152 372 310
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1068.JPEG
+chair 46 29 602 455
+person 218 44 482 282
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12128.JPEG
+chair 6 8 612 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6821.JPEG
+chair 110 48 530 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11224.JPEG
+chair 250 204 424 412
+chair 391 190 532 376
+chair 487 177 605 348
+chair 132 237 316 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5201.JPEG
+chair 128 102 475 413
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2463.JPEG
+chair 636 481 1 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1336.JPEG
+chair 253 262 349 358
+chair 176 267 266 352
+chair 66 263 163 351
+chair 5 267 89 350
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4069.JPEG
+chair 240 115 412 304
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10504.JPEG
+chair 304 105 636 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_759.JPEG
+chair 85 16 579 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3252.JPEG
+chair 60 9 587 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6232.JPEG
+chair 137 73 352 464
+chair 437 46 578 339
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14064.JPEG
+chair 41 4 494 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4979.JPEG
+chair 636 2 5 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1341.JPEG
+chair 10 10 586 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5600.JPEG
+chair 550 128 82 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13294.JPEG
+chair 630 24 16 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2804.JPEG
+chair 616 59 40 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5073.JPEG
+chair 538 452 117 10
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2316.JPEG
+chair 0 4 630 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_907.JPEG
+chair 111 49 408 432
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3366.JPEG
+chair 21 8 622 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6323.JPEG
+chair 175 48 351 464
+chair 328 48 491 442
+chair 472 50 625 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3495.JPEG
+chair 41 127 327 388
+chair 263 100 471 310
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7380.JPEG
+chair 10 120 196 288
+chair 212 121 420 304
+chair 420 121 614 300
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6169.JPEG
+chair 548 0 1 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4088.JPEG
+chair 113 132 500 470
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_154.JPEG
+chair 631 253 99 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11295.JPEG
+chair 357 195 109 420
+chair 262 66 77 278
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9416.JPEG
+chair 594 40 65 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8472.JPEG
+chair 557 462 209 300
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2168.JPEG
+chair 288 216 414 394
+chair 228 172 345 297
+chair 533 180 404 396
+car 25 182 130 260
+car 96 192 163 250
+car 135 193 199 244
+car 178 196 224 239
+car 236 144 311 235
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2042.JPEG
+chair 589 480 22 1
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6494.JPEG
+chair 587 477 12 4
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_845.JPEG
+chair 13 10 347 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13697.JPEG
+chair 302 196 438 421
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1396.JPEG
+chair 635 6 4 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_455.JPEG
+chair 77 91 280 368
+chair 282 73 476 381
+chair 636 80 477 372
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6264.JPEG
+chair 188 293 373 416
+chair 330 259 492 390
+chair 443 246 576 368
+chair 8 291 232 459
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3443.JPEG
+chair 66 26 356 328
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_400.JPEG
+chair 93 217 268 412
+person 69 62 152 240
+person 17 96 68 237
+person 504 70 572 232
+person 559 70 614 233
+person 471 124 527 233
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12972.JPEG
+chair 181 1 624 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6489.JPEG
+chair 362 51 552 172
+chair 210 68 407 221
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6721.JPEG
+chair 8 1 482 324
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4531.JPEG
+chair 47 16 560 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11648.JPEG
+chair 124 26 513 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6033.JPEG
+chair 121 213 398 462
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2144.JPEG
+chair 72 15 560 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11506.JPEG
+chair 125 57 549 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5837.JPEG
+chair 21 79 302 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5992.JPEG
+chair 14 4 300 463
+chair 630 6 323 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_366.JPEG
+chair 274 181 405 320
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8139.JPEG
+chair 40 40 472 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5394.JPEG
+chair 54 100 576 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9001.JPEG
+chair 29 12 605 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2480.JPEG
+chair 4 4 299 464
+chair 628 9 300 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9922.JPEG
+chair 199 120 501 273
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_510.JPEG
+chair 611 388 46 57
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8546.JPEG
+bench 640 129 14 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12828.JPEG
+car 149 170 286 269
+car 352 158 486 247
+chair 276 336 351 410
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5579.JPEG
+chair 29 69 288 294
+chair 316 91 572 288
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8946.JPEG
+chair 142 16 471 328
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11988.JPEG
+chair 69 8 572 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4538.JPEG
+chair 197 140 590 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1553.JPEG
+chair 606 46 81 435
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5491.JPEG
+chair 88 14 527 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2449.JPEG
+chair 547 10 124 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9036.JPEG
+chair 634 10 2 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4590.JPEG
+chair 597 464 37 7
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12399.JPEG
+chair 622 438 331 124
+chair 375 132 48 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2022.JPEG
+chair 268 271 488 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11376.JPEG
+chair 335 186 552 434
+person 305 16 108 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5088.JPEG
+chair 159 147 310 388
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6322.JPEG
+chair 194 68 376 460
+chair 371 112 521 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_849.JPEG
+chair 637 132 168 480
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11750.JPEG
+chair 638 274 0 8
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9688.JPEG
+chair 129 211 342 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6242.JPEG
+chair 219 28 423 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6676.JPEG
+chair 630 9 35 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8699.JPEG
+chair 621 12 48 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7239.JPEG
+chair 532 68 52 428
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_702.JPEG
+chair 581 6 60 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14453.JPEG
+chair 624 16 9 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4229.JPEG
+chair 537 63 37 420
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6147.JPEG
+chair 284 116 445 269
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8296.JPEG
+chair 548 9 2 401
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3170.JPEG
+chair 625 0 165 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_671.JPEG
+chair 25 6 630 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7531.JPEG
+chair 167 132 232 178
+chair 228 134 299 188
+chair 293 139 362 188
+chair 361 140 425 185
+chair 424 141 488 184
+chair 437 224 507 264
+chair 370 229 440 266
+chair 296 226 371 264
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2394.JPEG
+chair 293 174 555 456
+chair 30 198 248 363
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_10955.JPEG
+chair 624 24 104 477
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11957.JPEG
+chair 201 93 565 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8846.JPEG
+chair 234 170 575 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6471.JPEG
+chair 324 100 525 413
+chair 113 223 380 479
+chair 113 15 259 268
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5933.JPEG
+chair 611 26 25 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8866.JPEG
+chair 338 109 576 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8673.JPEG
+chair 2 89 599 386
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_179.JPEG
+chair 4 12 451 308
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11862.JPEG
+chair 1 44 594 436
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11870.JPEG
+chair 483 27 120 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11486.JPEG
+chair 220 88 581 266
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8644.JPEG
+chair 535 1 16 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_601.JPEG
+chair 477 14 100 233
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12866.JPEG
+chair 80 207 492 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9465.JPEG
+chair 235 159 420 404
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5981.JPEG
+chair 91 132 284 288
+chair 332 144 535 308
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11465.JPEG
+chair 503 44 115 441
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12792.JPEG
+chair 263 204 534 447
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3337.JPEG
+chair 176 25 8 376
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1203.JPEG
+chair 167 15 524 441
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2929.JPEG
+chair 96 160 298 348
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1170.JPEG
+chair 177 94 334 359
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11701.JPEG
+chair 164 191 258 357
+chair 240 201 340 360
+chair 336 203 434 352
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3821.JPEG
+chair 188 90 607 438
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3111.JPEG
+chair 613 20 248 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9377.JPEG
+chair 338 250 570 437
+chair 77 282 336 428
+person 216 172 417 300
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9239.JPEG
+chair 439 227 296 367
+chair 410 173 301 294
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1420.JPEG
+chair 533 26 131 301
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_287.JPEG
+chair 503 6 55 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1820.JPEG
+chair 179 246 358 384
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7853.JPEG
+chair 636 6 7 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_296.JPEG
+chair 568 71 76 456
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11662.JPEG
+chair 351 269 476 435
+chair 117 258 259 403
+chair 343 203 417 288
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2914.JPEG
+chair 8 2 628 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1527.JPEG
+chair 620 11 35 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13073.JPEG
+chair 200 198 391 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1434.JPEG
+bench 84 214 476 407
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12886.JPEG
+chair 440 43 226 414
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13378.JPEG
+chair 84 2 305 358
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9799.JPEG
+chair 84 3 454 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11948.JPEG
+chair 192 59 391 409
+chair 607 70 398 423
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5725.JPEG
+chair 140 1 583 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7110.JPEG
+chair 85 107 429 288
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7171.JPEG
+chair 99 36 419 476
+chair 364 0 589 325
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9293.JPEG
+chair 628 473 4 3
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11400.JPEG
+chair 587 463 80 13
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3451.JPEG
+chair 237 24 636 283
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13095.JPEG
+chair 548 478 342 337
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12066.JPEG
+chair 7 110 410 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7475.JPEG
+chair 1 208 556 479
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6877.JPEG
+chair 156 92 468 437
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7804.JPEG
+chair 92 238 614 479
+person 526 137 628 280
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13092.JPEG
+chair 476 59 80 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_929.JPEG
+chair 193 213 349 423
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5353.JPEG
+chair 28 42 279 298
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1984.JPEG
+chair 365 8 597 464
+person 156 30 285 274
+person 227 35 307 244
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8266.JPEG
+chair 611 18 49 455
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11867.JPEG
+chair 531 48 40 431
+person 9 348 210 6
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11699.JPEG
+chair 498 40 198 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13355.JPEG
+chair 211 141 570 474
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9213.JPEG
+chair 379 164 9 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13371.JPEG
+chair 244 232 348 320
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2417.JPEG
+chair 578 102 31 464
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9695.JPEG
+chair 76 254 246 449
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5071.JPEG
+chair 636 476 6 21
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8073.JPEG
+chair 48 178 548 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2387.JPEG
+chair 548 40 36 476
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9663.JPEG
+chair 79 44 533 426
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_838.JPEG
+chair 41 4 578 478
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14048.JPEG
+chair 451 34 240 377
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12821.JPEG
+chair 542 59 304 414
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5692.JPEG
+chair 545 465 85 9
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4797.JPEG
+chair 99 76 561 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_511.JPEG
+chair 23 39 622 417
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1115.JPEG
+chair 32 344 321 466
+chair 319 352 604 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13731.JPEG
+chair 84 237 294 360
+chair 279 238 489 356
+chair 436 232 636 337
+chair 307 333 631 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12941.JPEG
+chair 188 136 339 296
+chair 332 140 484 301
+chair 495 144 634 296
+chair 29 128 177 286
+chair 175 295 381 461
+chair 376 303 611 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8899.JPEG
+chair 121 29 264 268
+chair 400 30 517 289
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9024.JPEG
+chair 72 8 412 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12609.JPEG
+chair 116 93 555 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11774.JPEG
+chair 136 188 228 361
+chair 457 192 553 366
+chair 27 184 123 366
+chair 562 192 635 366
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_326.JPEG
+chair 6 4 626 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11830.JPEG
+chair 195 9 532 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_674.JPEG
+chair 158 266 505 452
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9807.JPEG
+chair 77 267 360 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2061.JPEG
+chair 5 12 636 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9021.JPEG
+chair 56 232 236 440
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5176.JPEG
+chair 18 4 464 453
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2422.JPEG
+chair 7 15 629 429
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12580.JPEG
+chair 8 39 221 454
+chair 414 38 631 458
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9714.JPEG
+chair 211 191 463 360
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11630.JPEG
+chair 32 137 597 439
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4335.JPEG
+chair 217 69 427 343
+chair 4 56 205 414
+chair 464 46 632 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1387.JPEG
+chair 44 112 450 444
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_491.JPEG
+chair 40 3 614 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_3360.JPEG
+chair 12 4 587 434
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9464.JPEG
+chair 144 74 320 272
+chair 328 68 510 260
+chair 76 43 190 151
+chair 207 36 327 142
+chair 326 38 447 142
+chair 457 40 572 147
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1493.JPEG
+chair 12 2 479 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11828.JPEG
+chair 120 34 565 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12987.JPEG
+chair 22 89 612 415
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14244.JPEG
+chair 120 1 602 379
+chair 42 2 431 285
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5754.JPEG
+chair 39 167 250 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_534.JPEG
+chair 101 130 245 386
+chair 230 137 391 396
+chair 376 140 531 396
+chair 508 148 636 388
+chair 7 128 111 412
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5194.JPEG
+chair 102 215 335 457
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12517.JPEG
+chair 76 4 628 251
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9784.JPEG
+chair 28 76 542 472
+chair 36 9 572 463
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8826.JPEG
+chair 8 8 636 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1221.JPEG
+chair 137 149 546 473
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5994.JPEG
+chair 79 32 508 460
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_637.JPEG
+chair 24 20 616 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_7163.JPEG
+chair 12 7 631 472
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_5296.JPEG
+chair 100 28 326 366
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9502.JPEG
+chair 336 201 616 468
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6306.JPEG
+chair 162 9 634 467
+chair 3 32 99 275
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2386.JPEG
+chair 30 44 492 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12991.JPEG
+chair 236 14 408 469
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_120.JPEG
+chair 16 20 307 384
+chair 244 56 612 471
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_334.JPEG
+chair 60 70 356 464
+chair 335 32 600 402
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_168.JPEG
+chair 102 262 625 459
+chair 53 155 412 430
+chair 312 40 497 136
+chair 504 168 636 364
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13105.JPEG
+chair 468 252 584 448
+chair 573 285 639 410
+chair 103 256 155 352
+chair 289 271 385 408
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1342.JPEG
+chair 236 254 433 424
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1293.JPEG
+chair 55 12 597 467
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11528.JPEG
+chair 14 10 255 458
+chair 360 12 581 465
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_4236.JPEG
+chair 15 40 248 428
+chair 213 37 453 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9145.JPEG
+chair 12 179 390 466
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2231.JPEG
+chair 366 26 589 186
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13376.JPEG
+chair 14 80 548 425
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9314.JPEG
+chair 213 309 456 404
+chair 453 314 634 396
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_8374.JPEG
+chair 28 151 218 401
+chair 232 234 439 432
+chair 407 136 596 356
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_13543.JPEG
+chair 232 212 415 385
+chair 439 52 565 230
+chair 73 174 282 429
+chair 256 261 473 461
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_2014.JPEG
+chair 305 14 554 325
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1094.JPEG
+chair 25 176 632 274
+chair 36 311 632 467
+chair 9 92 630 160
+chair 6 33 628 87
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_1352.JPEG
+chair 5 208 121 399
+chair 136 215 256 394
+chair 267 216 383 394
+chair 395 225 514 398
+chair 520 223 639 398
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_12630.JPEG
+chair 92 108 488 375
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_14635.JPEG
+chair 222 208 504 401
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_11749.JPEG
+chair 74 98 241 465
+chair 230 108 408 462
+chair 389 112 578 454
+chair 578 454 578 454
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_6464.JPEG
+chair 54 240 160 417
+chair 171 245 268 422
+chair 274 252 368 416
+chair 368 255 480 416
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_9730.JPEG
+chair 44 10 614 475
+
+http://140.115.152.223:7001/data/dataset/chair/n03002096_719.JPEG
+chair 36 32 624 454

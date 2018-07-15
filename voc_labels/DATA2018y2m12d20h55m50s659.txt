@@ -1,0 +1,1294 @@
+﻿http://140.115.152.223:7001/data/dataset/door/n04153025_15220.JPEG
+person 195 23 445 477
+door 422 11 636 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17399.JPEG
+door 11 10 632 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7736.JPEG
+door 115 26 542 462
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8450.JPEG
+door 291 58 467 399
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11629.JPEG
+cat 172 55 628 445
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5589.JPEG
+door 170 34 362 440
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9427.JPEG
+door 1 2 638 474
+cat 331 177 500 331
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18381.JPEG
+door 218 40 447 298
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10417.JPEG
+door 35 41 170 426
+door 137 34 294 414
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17955.JPEG
+door 392 479 4 2
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15948.JPEG
+door 20 4 626 468
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_136.JPEG
+door 143 79 344 303
+door 360 85 522 299
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15279.JPEG
+door 624 8 71 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3678.JPEG
+door 109 476 15 33
+door 634 9 498 475
+person 183 85 477 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19650.JPEG
+door 29 8 547 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3570.JPEG
+door 131 5 425 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10922.JPEG
+door 217 83 387 431
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10848.JPEG
+door 399 71 504 470
+door 507 107 537 428
+door 564 146 612 366
+door 206 6 4 477
+door 173 5 374 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14700.JPEG
+door 400 13 33 480
+chair 635 479 554 347
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2025.JPEG
+person 89 19 423 461
+cat 365 92 564 251
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17262.JPEG
+door 205 2 627 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19019.JPEG
+door 53 47 493 408
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11704.JPEG
+person 376 94 156 356
+person 354 91 484 356
+person 59 91 166 353
+door 575 1 7 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6363.JPEG
+person 53 239 235 438
+door 592 5 389 477
+chair 149 43 343 276
+chair 314 104 438 273
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8237.JPEG
+door 318 139 227 455
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14352.JPEG
+door 285 2 519 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19975.JPEG
+door 204 233 423 465
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16604.JPEG
+door 93 14 519 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5482.JPEG
+door 3 479 112 4
+door 112 5 499 459
+person 209 154 465 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19539.JPEG
+person 350 184 497 473
+person 558 187 634 330
+chair 495 269 637 362
+door 107 11 372 476
+bench 50 477 288 396
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14477.JPEG
+door 216 117 443 375
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10022.JPEG
+door 51 4 481 471
+dog 186 249 298 344
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5094.JPEG
+door 144 2 466 458
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7280.JPEG
+door 3 2 127 441
+cat 220 338 330 400
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15895.JPEG
+door 636 5 217 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3182.JPEG
+door 126 8 618 393
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5797.JPEG
+door 115 5 390 276
+person 134 111 324 450
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12555.JPEG
+door 104 16 379 470
+door 325 22 556 462
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20609.JPEG
+door 58 2 417 430
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17268.JPEG
+door 201 47 444 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15532.JPEG
+door 123 72 435 461
+person 254 121 375 414
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9323.JPEG
+door 74 30 560 422
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11082.JPEG
+door 378 471 6 8
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7277.JPEG
+door 69 29 516 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13326.JPEG
+door 6 2 622 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11078.JPEG
+person 218 30 306 429
+person 320 97 387 240
+dog 287 257 388 433
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8160.JPEG
+door 95 56 276 431
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2675.JPEG
+door 3 7 457 457
+person 159 61 366 408
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5774.JPEG
+cat 255 129 355 381
+door 150 4 486 243
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20621.JPEG
+door 136 5 605 458
+dog 186 258 393 403
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12169.JPEG
+door 207 129 449 403
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16514.JPEG
+door 166 68 429 382
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1539.JPEG
+door 541 41 640 476
+door 216 46 575 473
+diningtable 291 261 408 328
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15565.JPEG
+door 131 38 483 450
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12081.JPEG
+door 448 1 9 471
+person 127 259 321 440
+person 589 182 353 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4420.JPEG
+door 98 2 477 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20319.JPEG
+person 462 143 240 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4308.JPEG
+cat 11 89 382 421
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6735.JPEG
+door 36 51 556 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7353.JPEG
+door 175 83 490 451
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7353.JPEG
+door 183 83 478 454
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16574.JPEG
+door 291 74 485 380
+person 249 118 366 386
+door 391 83 459 371
+door 192 61 83 380
+door 467 73 587 381
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14731.JPEG
+door 64 5 547 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11805.JPEG
+door 5 7 187 477
+door 158 10 594 480
+car 352 167 520 218
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3289.JPEG
+cat 117 129 451 417
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8819.JPEG
+door 41 2 483 457
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2121.JPEG
+door 376 64 263 374
+person 312 215 418 405
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7052.JPEG
+door 149 154 470 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6425.JPEG
+door 70 91 386 444
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3840.JPEG
+door 207 119 399 407
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_232.JPEG
+door 637 5 449 454
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15848.JPEG
+door 188 98 447 365
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8412.JPEG
+door 183 77 457 473
+car 549 179 465 389
+person 304 154 330 241
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8128.JPEG
+door 109 44 484 473
+door 209 200 284 303
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8128.JPEG
+door 543 298 543 298
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7798.JPEG
+door 136 29 513 455
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17345.JPEG
+door 139 14 499 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5615.JPEG
+door 134 44 474 456
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1041.JPEG
+door 71 51 340 432
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7314.JPEG
+door 174 64 278 355
+bench 328 210 543 299
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8064.JPEG
+door 67 18 284 450
+door 516 28 257 443
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7168.JPEG
+door 212 85 414 337
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12365.JPEG
+door 52 14 593 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6928.JPEG
+door 118 13 533 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11342.JPEG
+door 172 95 449 405
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3395.JPEG
+person 197 109 578 351
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6496.JPEG
+door 74 79 434 453
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11146.JPEG
+door 122 13 518 401
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2292.JPEG
+door 282 130 386 470
+person 2 476 68 206
+person 239 191 329 389
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6040.JPEG
+person 197 164 315 389
+tree 334 45 617 353
+tree 11 114 146 319
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17463.JPEG
+door 7 8 635 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9653.JPEG
+door 77 107 203 399
+door 182 113 294 384
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9558.JPEG
+door 259 185 335 359
+tree 406 4 532 155
+tree 499 20 614 395
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4082.JPEG
+door 0 2 639 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18399.JPEG
+door 250 29 486 477
+person 228 131 338 408
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9452.JPEG
+door 338 43 511 431
+door 145 17 348 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6202.JPEG
+door 516 71 363 428
+door 3 63 227 455
+tree 551 112 629 245
+tree 567 106 509 242
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12036.JPEG
+door 178 74 472 365
+person 257 158 389 333
+door 461 77 634 368
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_149.JPEG
+cat 206 154 387 440
+chair 523 101 641 181
+cat 95 98 158 128
+tree 171 5 293 68
+car 153 47 237 76
+door 4 8 639 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4199.JPEG
+door 25 2 599 456
+person 113 46 386 206
+person 83 193 278 464
+dog 323 122 638 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3357.JPEG
+door 346 78 603 396
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17914.JPEG
+door 188 95 361 428
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8050.JPEG
+door 1 4 150 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4972.JPEG
+cat 88 170 546 321
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19623.JPEG
+door 33 9 301 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10478.JPEG
+door 296 2 611 440
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15098.JPEG
+door 159 4 401 453
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15003.JPEG
+door 572 4 422 477
+cat 312 293 458 475
+tree 152 9 423 144
+door 84 4 437 410
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19937.JPEG
+door 32 13 593 480
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16754.JPEG
+door 156 73 539 452
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18929.JPEG
+door 208 3 554 480
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17101.JPEG
+door 62 17 635 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17214.JPEG
+door 531 116 134 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5596.JPEG
+door 146 77 358 396
+door 323 74 536 399
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16035.JPEG
+door 122 35 480 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4053.JPEG
+door 174 4 449 437
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4892.JPEG
+door 5 13 160 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10832.JPEG
+person 205 8 519 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13119.JPEG
+door 128 13 516 477
+person 319 118 477 420
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13148.JPEG
+door 350 2 550 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20194.JPEG
+door 133 0 499 450
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6874.JPEG
+door 29 4 617 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6924.JPEG
+door 488 49 637 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10688.JPEG
+door 104 5 624 460
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8185.JPEG
+door 291 102 407 352
+bench 31 272 317 421
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13527.JPEG
+door 245 90 544 461
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12798.JPEG
+door 2 477 599 2
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15026.JPEG
+door 618 6 -1 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1366.JPEG
+door 31 136 234 320
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5966.JPEG
+door 23 27 398 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2974.JPEG
+door 170 82 422 408
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16294.JPEG
+door 170 73 440 425
+door 421 52 636 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11915.JPEG
+door 8 15 302 460
+door 270 54 571 404
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8067.JPEG
+door 263 44 429 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4051.JPEG
+door 2 3 143 481
+door 2 4 445 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12066.JPEG
+cat 492 158 239 425
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5786.JPEG
+door 130 4 507 379
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3294.JPEG
+door 219 110 457 403
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11489.JPEG
+door 52 4 577 416
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6146.JPEG
+door 442 474 9 9
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6235.JPEG
+cat 301 227 465 407
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15101.JPEG
+door 140 3 455 472
+door 423 5 638 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19918.JPEG
+door 170 14 450 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_324.JPEG
+door 11 10 626 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16995.JPEG
+door 5 3 639 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5920.JPEG
+door 641 474 17 6
+cat 102 45 495 339
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15255.JPEG
+door 101 16 467 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14544.JPEG
+door 494 2 230 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6166.JPEG
+door 328 65 504 480
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5500.JPEG
+door 260 86 519 378
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12676.JPEG
+cat 167 56 357 344
+door 2 0 156 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12676.JPEG
+door 2 7 165 474
+cat 167 62 357 332
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12676.JPEG
+cat 167 58 362 338
+door 2 4 159 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10822.JPEG
+door 136 28 488 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17666.JPEG
+door 222 67 389 466
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16406.JPEG
+door 173 148 565 421
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4866.JPEG
+door 99 125 333 459
+door 307 129 550 446
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15604.JPEG
+door 109 84 275 448
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4595.JPEG
+door 155 3 416 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3469.JPEG
+door 7 6 363 481
+door 358 3 635 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9454.JPEG
+door 204 30 450 467
+person 530 75 307 448
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14113.JPEG
+door 253 10 448 449
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20350.JPEG
+cat 119 88 528 332
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17313.JPEG
+door 50 439 593 54
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7074.JPEG
+cat 482 292 226 404
+cat 555 280 467 452
+door 4 10 264 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14368.JPEG
+cat 503 116 107 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15034.JPEG
+door 638 395 485 135
+door 260 127 509 386
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_726.JPEG
+door 186 144 328 392
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2206.JPEG
+door 130 0 440 429
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14801.JPEG
+door 4 1 624 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5874.JPEG
+door 237 61 365 338
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5915.JPEG
+cat 212 31 404 349
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18713.JPEG
+door 112 28 330 451
+door 293 72 495 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3520.JPEG
+door 575 0 166 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10647.JPEG
+door 211 7 528 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9876.JPEG
+door 59 18 411 469
+person 576 157 365 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9876.JPEG
+person 610 212 610 212
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9876.JPEG
+person 592 294 592 294
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9971.JPEG
+door 46 57 345 456
+door 287 51 588 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8887.JPEG
+door 627 404 27 106
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19949.JPEG
+door 249 60 516 456
+door 143 32 244 456
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13963.JPEG
+door 275 149 501 417
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9722.JPEG
+door 110 6 344 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15950.JPEG
+door 101 6 444 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12138.JPEG
+door 456 0 154 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4659.JPEG
+door 6 5 342 471
+door 369 24 606 453
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15637.JPEG
+door 395 6 255 454
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11668.JPEG
+door 191 63 436 405
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13281.JPEG
+door 174 21 501 388
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5365.JPEG
+door 290 3 604 363
+cat 436 270 538 346
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6998.JPEG
+door 231 65 418 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9221.JPEG
+door 69 99 231 463
+door 205 107 414 433
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20037.JPEG
+door 221 108 449 403
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14818.JPEG
+door 45 9 585 463
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9612.JPEG
+door 195 82 480 463
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16417.JPEG
+door 432 11 185 423
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19757.JPEG
+door 153 6 473 462
+door 459 5 631 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1791.JPEG
+door 27 6 606 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10813.JPEG
+door 68 0 573 477
+person 156 239 435 451
+person 324 78 512 376
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13578.JPEG
+door 165 105 470 450
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10636.JPEG
+door 216 54 417 319
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13958.JPEG
+door 210 139 417 370
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9115.JPEG
+door 126 0 271 316
+door 249 3 306 373
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15382.JPEG
+door 24 6 637 466
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12786.JPEG
+door 159 32 483 345
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1320.JPEG
+door 329 479 3 1
+door 322 472 639 7
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4846.JPEG
+door 15 4 478 449
+cat 247 161 408 394
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3432.JPEG
+door 91 472 91 472
+door 411 1 95 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3432.JPEG
+door 106 459 415 8
+door 369 53 219 427
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3432.JPEG
+door 101 469 408 5
+door 358 423 225 59
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12209.JPEG
+cat 595 298 111 481
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15388.JPEG
+door 32 27 375 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14381.JPEG
+door 116 131 558 472
+cat 234 160 333 308
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6973.JPEG
+door 99 5 552 450
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18097.JPEG
+cat 104 101 510 440
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16870.JPEG
+person 116 72 471 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12349.JPEG
+door 277 10 639 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12398.JPEG
+door 209 81 342 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16519.JPEG
+door 242 40 509 371
+person 162 115 351 400
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20937.JPEG
+door 360 114 486 316
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9950.JPEG
+door 140 12 499 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10593.JPEG
+door 306 46 471 404
+door 129 57 336 428
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1694.JPEG
+door 60 46 355 460
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1627.JPEG
+door 46 3 332 451
+person 219 156 315 430
+person 351 20 432 322
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16682.JPEG
+door 581 9 186 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7225.JPEG
+person 318 211 444 446
+person 450 77 601 472
+door 60 31 186 433
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18217.JPEG
+door 98 40 305 417
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14258.JPEG
+cat 332 77 472 375
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2212.JPEG
+person 417 64 219 392
+chair 423 210 499 309
+diningtable 351 211 432 287
+tree 87 3 240 326
+tree 485 88 595 184
+tree 5 1 90 196
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16642.JPEG
+door 41 2 381 394
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2000.JPEG
+door 72 49 582 466
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8004.JPEG
+door 132 27 525 437
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12776.JPEG
+door 212 79 388 386
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5782.JPEG
+person 341 55 546 449
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5442.JPEG
+door 140 18 482 461
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9326.JPEG
+door 563 3 68 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10174.JPEG
+door 87 105 287 415
+door 266 78 500 457
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18111.JPEG
+person 119 15 270 472
+door 243 1 477 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8395.JPEG
+door 34 6 303 462
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10447.JPEG
+door 290 172 378 358
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20901.JPEG
+cat 137 251 403 464
+cat 297 184 535 387
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13395.JPEG
+door 641 463 498 59
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2160.JPEG
+door 36 35 36 35
+door 23 14 314 458
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15638.JPEG
+door 201 42 411 465
+person 86 77 217 473
+person 465 163 607 460
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2486.JPEG
+door 21 3 198 244
+door 258 8 389 223
+door 462 286 578 478
+door 636 202 551 15
+door 245 246 348 441
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18951.JPEG
+door 176 40 551 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19635.JPEG
+person 306 36 486 440
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19479.JPEG
+door 60 4 564 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17610.JPEG
+door 38 4 342 476
+door 318 2 608 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16582.JPEG
+door 242 36 435 289
+chair 6 285 148 425
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14977.JPEG
+door 150 64 306 417
+door 462 41 557 452
+person 249 143 388 443
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15843.JPEG
+door 11 3 327 475
+door 318 4 619 481
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16390.JPEG
+person 81 72 263 427
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14538.JPEG
+door 35 4 634 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18682.JPEG
+person 252 43 555 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10377.JPEG
+door 338 71 429 281
+door 403 68 554 261
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4985.JPEG
+chair 430 212 264 404
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3557.JPEG
+cat 199 89 313 326
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20406.JPEG
+door 11 3 318 467
+door 636 6 279 458
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13293.JPEG
+person 235 22 484 472
+door 636 474 462 18
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16538.JPEG
+door 77 2 495 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16982.JPEG
+door 636 10 396 466
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19449.JPEG
+door 469 464 129 93
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1304.JPEG
+cat 185 174 357 368
+cat 317 221 475 381
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11575.JPEG
+dog 54 4 553 479
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_593.JPEG
+dog 175 122 492 463
+chair 456 269 633 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1133.JPEG
+door 150 5 621 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17490.JPEG
+door 47 5 452 470
+door 452 470 452 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16769.JPEG
+door 53 9 299 434
+person 309 168 427 409
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14831.JPEG
+door 202 29 402 310
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19614.JPEG
+door 186 34 639 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2998.JPEG
+door 101 3 522 480
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17516.JPEG
+door 148 6 250 474
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14903.JPEG
+door 74 64 268 468
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10448.JPEG
+person 260 151 507 430
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18388.JPEG
+door 159 236 544 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10555.JPEG
+dog 222 177 358 341
+dog 358 341 358 341
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6376.JPEG
+door 105 69 388 426
+door 354 69 628 438
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9204.JPEG
+door 200 7 631 468
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19744.JPEG
+door 160 77 503 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11228.JPEG
+person 238 54 393 316
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9964.JPEG
+door 640 472 441 9
+bench 30 247 343 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8837.JPEG
+person 624 8 354 432
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13858.JPEG
+door 5 5 634 435
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2106.JPEG
+cat 567 62 74 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20110.JPEG
+door 150 39 443 394
+person 588 246 419 459
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_165.JPEG
+cat 402 142 171 472
+person 150 82 255 205
+person 331 65 483 214
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17847.JPEG
+door 155 3 589 480
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5506.JPEG
+door 186 103 420 421
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8960.JPEG
+cat 138 187 318 424
+cat 323 148 489 425
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2046.JPEG
+person 296 174 432 406
+door 201 70 491 433
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10013.JPEG
+door 69 6 574 481
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_15384.JPEG
+person 383 132 524 468
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20017.JPEG
+door 225 3 450 478
+door 437 9 636 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5629.JPEG
+door 2 9 624 481
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2763.JPEG
+door 172 41 465 421
+door 637 476 468 11
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10559.JPEG
+door 131 70 486 463
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3153.JPEG
+door 96 12 276 480
+door 234 20 538 436
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7307.JPEG
+dog 229 45 423 387
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_583.JPEG
+person 270 217 499 470
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2427.JPEG
+door 45 9 291 474
+door 201 29 564 457
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12270.JPEG
+door 80 9 296 456
+door 308 29 557 429
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20218.JPEG
+door 66 9 507 376
+person 156 129 367 375
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7242.JPEG
+door 329 189 451 430
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_278.JPEG
+door 263 107 423 326
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8028.JPEG
+door 594 473 262 0
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1427.JPEG
+door 604 5 372 394
+cat 281 132 402 359
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16119.JPEG
+door 403 23 538 385
+door 283 39 423 352
+chair 224 259 469 464
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5828.JPEG
+door 215 477 5 5
+cat 360 136 600 428
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19939.JPEG
+dog 338 226 519 472
+door 9 6 156 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_6018.JPEG
+door 122 48 322 436
+door 291 54 493 414
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5997.JPEG
+door 99 60 372 447
+door 354 60 624 442
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18167.JPEG
+door 45 3 468 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_3617.JPEG
+dog 146 253 367 472
+chair 176 130 283 268
+chair 446 121 338 244
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14906.JPEG
+dog 399 78 589 434
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11338.JPEG
+door 53 32 352 471
+door 315 44 555 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16767.JPEG
+door 104 11 555 477
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1692.JPEG
+door 271 8 619 435
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5613.JPEG
+door 35 2 267 478
+door 232 28 545 471
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13791.JPEG
+door 255 48 613 429
+door 6 71 315 411
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_286.JPEG
+door 33 32 270 440
+door 236 55 450 408
+door 637 436 407 43
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7349.JPEG
+door 99 3 321 469
+door 471 4 636 388
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8460.JPEG
+door 13 4 624 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9367.JPEG
+door 101 4 514 413
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11795.JPEG
+door 167 73 439 399
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11574.JPEG
+diningtable 633 119 3 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7192.JPEG
+person 26 67 169 336
+person 146 59 475 257
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12581.JPEG
+door 128 1 492 467
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7655.JPEG
+door 240 37 497 463
+door 473 78 621 427
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_425.JPEG
+door 183 126 363 359
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13475.JPEG
+cat 228 100 442 369
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13985.JPEG
+door 566 7 68 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5266.JPEG
+door 140 60 465 389
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14742.JPEG
+door 258 196 391 439
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_1972.JPEG
+cat 222 70 390 268
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14344.JPEG
+door 522 479 146 95
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_18533.JPEG
+door 127 22 216 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17562.JPEG
+person 71 64 229 431
+person 294 84 411 377
+door 382 25 535 404
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10835.JPEG
+door 96 10 483 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12489.JPEG
+door 201 139 459 408
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7758.JPEG
+door 591 27 222 473
+door 2 33 247 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7377.JPEG
+door 171 54 531 424
+door 3 30 282 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13201.JPEG
+door 150 43 426 457
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7750.JPEG
+door 108 7 537 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13628.JPEG
+door 129 16 485 476
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9064.JPEG
+door 246 18 486 472
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20404.JPEG
+door 339 4 594 473
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_16007.JPEG
+door 144 1 450 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17043.JPEG
+person 137 81 372 444
+person 410 187 577 443
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19008.JPEG
+person 258 107 390 338
+door 125 74 291 400
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_19245.JPEG
+door 237 65 436 473
+bench 99 277 240 404
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_9613.JPEG
+person 58 217 246 416
+person 218 148 337 321
+person 364 229 541 422
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_408.JPEG
+door 147 11 531 444
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_588.JPEG
+person 167 29 399 469
+door 638 475 417 6
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_7596.JPEG
+door 71 88 294 380
+door 349 85 581 396
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8010.JPEG
+door 119 44 456 446
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17131.JPEG
+door 161 92 423 378
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_12092.JPEG
+door 77 39 379 400
+door 326 14 507 387
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_4182.JPEG
+door 490 3 252 475
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17690.JPEG
+door 173 90 348 445
+person 419 181 610 457
+person 427 193 315 362
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_13583.JPEG
+door 66 15 405 465
+person 568 99 378 469
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_14502.JPEG
+door 144 17 418 468
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_17731.JPEG
+cat 299 60 532 461
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_20668.JPEG
+door 236 53 417 417
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_8417.JPEG
+door 590 3 15 481
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_5642.JPEG
+door 6 0 621 478
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_2240.JPEG
+door 57 26 577 457
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_10486.JPEG
+person 341 133 220 427
+
+http://140.115.152.223:7001/data/dataset/door/n04153025_11927.JPEG
+door 636 0 282 464

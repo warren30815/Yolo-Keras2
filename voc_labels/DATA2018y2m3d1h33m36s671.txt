@@ -1,0 +1,3290 @@
+﻿http://140.115.152.223:7001/data/dataset/busstop/n08517676_11311.JPEG
+bus 48 25 301 344
+bicycle 402 252 503 379
+bicycle 540 252 617 449
+person 407 256 303 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24609.JPEG
+person 220 269 145 359
+person 441 231 398 271
+bench 124 326 455 442
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29460.JPEG
+person 121 178 58 364
+car 501 214 587 271
+car 488 232 488 232
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20011.JPEG
+car 199 375 199 375
+person 464 200 625 463
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19491.JPEG
+person 475 211 419 254
+person 444 232 391 370
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2976.JPEG
+person 368 242 343 326
+bicycle 318 269 374 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1456.JPEG
+person 127 92 55 431
+person 254 84 139 426
+person 327 112 256 452
+person 417 93 330 444
+person 510 72 437 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15465.JPEG
+person 503 125 439 394
+person 246 220 161 285
+person 343 116 288 179
+person 540 96 462 340
+person 104 251 10 453
+person 589 104 529 297
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1231.JPEG
+person 434 101 281 473
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8672.JPEG
+person 284 138 142 442
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11869.JPEG
+person 209 336 118 475
+person 296 346 255 420
+person 408 331 351 446
+car 580 335 616 360
+car 558 331 585 348
+car 614 332 634 346
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22175.JPEG
+bench 361 419 111 363
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8117.JPEG
+bus 154 115 13 295
+person 444 233 394 301
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16514.JPEG
+bus 577 28 171 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12824.JPEG
+bus 370 46 9 478
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19147.JPEG
+bus 475 116 105 445
+bus 454 248 632 338
+person 80 261 5 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23245.JPEG
+car 146 227 80 271
+car 510 227 399 274
+car 66 238 7 288
+car 217 220 167 252
+car 331 225 287 268
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10702.JPEG
+person 200 194 93 461
+person 295 193 199 443
+person 395 183 290 451
+person 473 191 389 461
+person 589 95 481 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25980.JPEG
+person 168 240 92 463
+person 60 266 1 478
+bus 544 443 116 125
+bus 29 191 107 294
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23000.JPEG
+person 113 174 66 302
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25845.JPEG
+person 196 147 46 404
+person 472 159 381 331
+bus 337 19 638 291
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18748.JPEG
+person 504 97 237 413
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_911.JPEG
+bicycle 368 276 168 442
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20372.JPEG
+person 176 286 118 382
+person 233 294 176 394
+person 511 285 447 421
+bench 433 346 312 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19457.JPEG
+person 288 237 219 421
+bus 554 117 81 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15514.JPEG
+bus 292 40 624 411
+person 123 215 44 474
+person 251 230 181 413
+person 315 234 275 408
+person 274 220 220 350
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_897.JPEG
+person 607 225 564 347
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26486.JPEG
+person 490 361 462 445
+person 519 369 495 442
+car 318 358 236 389
+car 69 340 32 363
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19024.JPEG
+bench 351 275 212 347
+bench 486 255 377 316
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8472.JPEG
+bench 247 320 194 351
+bench 134 328 89 349
+person 107 301 44 378
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4703.JPEG
+person 195 299 100 472
+person 284 302 204 464
+person 405 306 333 457
+person 502 310 433 457
+person 558 304 514 436
+person 560 333 632 471
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22978.JPEG
+bus 58 77 355 380
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25595.JPEG
+person 158 268 341 442
+person 267 209 346 328
+person 375 217 437 307
+person 413 214 462 295
+person 455 198 493 245
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31264.JPEG
+person 546 225 572 269
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16584.JPEG
+bus 179 165 529 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18280.JPEG
+person 213 173 401 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4251.JPEG
+person 134 210 183 413
+person 225 221 282 454
+person 310 232 347 444
+person 377 184 423 461
+person 446 232 505 447
+bus 268 70 19 429
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19797.JPEG
+bus 103 59 372 441
+person 343 271 402 458
+person 563 293 624 459
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3813.JPEG
+bench 167 365 8 287
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28147.JPEG
+person 202 230 138 331
+person 282 205 220 321
+person 322 238 280 316
+person 370 242 328 313
+person 412 241 364 330
+person 565 198 501 333
+person 607 208 564 310
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13077.JPEG
+person 356 149 254 438
+person 551 85 374 450
+bench 11 199 569 390
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25090.JPEG
+person 468 315 428 395
+person 389 311 355 377
+person 33 317 3 396
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_756.JPEG
+person 30 270 3 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12851.JPEG
+person 472 165 355 434
+person 310 281 211 416
+person 581 251 474 434
+bench 262 368 605 442
+car 329 262 173 197
+car 557 242 427 195
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16497.JPEG
+bus 53 137 556 402
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2626.JPEG
+bus 402 51 7 456
+person 438 346 383 208
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30215.JPEG
+person 263 161 148 467
+person 154 202 31 473
+person 361 168 274 472
+person 507 238 387 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31323.JPEG
+car 28 190 188 285
+chair 457 422 408 333
+chair 338 305 398 390
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6723.JPEG
+bench 219 259 363 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11093.JPEG
+bench 160 392 304 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18990.JPEG
+bus 267 81 530 362
+person 107 249 26 421
+chair 95 366 31 437
+chair 105 314 83 340
+chair 121 285 96 300
+chair 133 266 107 277
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6191.JPEG
+chair 415 292 365 355
+chair 360 291 321 343
+bicycle 372 234 445 310
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10136.JPEG
+bench 243 349 26 467
+person 281 440 200 290
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10272.JPEG
+bench 540 456 457 350
+bus 441 357 102 157
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11376.JPEG
+bench 120 324 277 435
+bench 305 331 549 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4659.JPEG
+person 381 199 575 425
+car 15 182 204 308
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25559.JPEG
+person 198 228 154 333
+bench 310 278 496 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6985.JPEG
+person 257 404 201 232
+person 304 396 245 230
+person 334 394 279 240
+person 388 234 329 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16570.JPEG
+person 395 144 323 305
+car 388 155 548 233
+car 305 150 240 201
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24801.JPEG
+person 253 411 163 165
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4719.JPEG
+bench 369 301 489 341
+bench 257 296 137 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2929.JPEG
+person 285 168 341 467
+person 332 197 407 430
+person 412 195 485 458
+person 471 175 527 447
+person 292 181 236 391
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30533.JPEG
+bench 340 393 197 303
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15363.JPEG
+bus 5 144 578 382
+person 437 419 397 200
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10929.JPEG
+person 186 430 83 166
+person 216 385 152 203
+person 342 400 273 252
+person 587 405 532 198
+bench 325 397 128 338
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23722.JPEG
+person 436 432 340 179
+person 607 392 490 220
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19200.JPEG
+person 240 29 581 439
+person 258 160 48 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20605.JPEG
+bus 461 327 268 126
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10499.JPEG
+car 132 364 12 247
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31285.JPEG
+person 283 281 399 469
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23155.JPEG
+person 378 155 546 400
+bench 321 370 35 273
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26050.JPEG
+person 334 467 130 279
+person 254 256 408 459
+person 495 191 584 457
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19890.JPEG
+person 417 142 538 357
+bench 81 219 491 276
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10794.JPEG
+bench 234 270 496 397
+person 113 354 45 188
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8963.JPEG
+bench 183 298 309 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13075.JPEG
+person 409 308 376 232
+person 434 304 404 243
+person 310 315 271 246
+car 550 239 606 292
+car 518 248 550 274
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13308.JPEG
+person 402 366 316 190
+person 461 360 414 232
+person 498 355 452 220
+person 549 393 480 283
+bus 378 76 5 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7931.JPEG
+person 215 275 146 429
+person 278 281 216 381
+person 354 281 280 356
+person 521 282 460 338
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13410.JPEG
+bench 311 355 529 469
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15276.JPEG
+bench 333 332 457 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26506.JPEG
+person 289 46 528 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20811.JPEG
+bench 387 328 151 268
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28469.JPEG
+tree 596 388 348 19
+tree 137 404 29 26
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27421.JPEG
+car 304 401 70 251
+car 18 217 125 327
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1752.JPEG
+bench 451 330 283 258
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7650.JPEG
+person 517 162 605 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8595.JPEG
+bicycle 379 321 530 385
+bus 288 248 556 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19208.JPEG
+bus 128 180 617 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3251.JPEG
+busstop 66 36 519 435
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27792.JPEG
+busstop 334 173 571 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21506.JPEG
+bus 211 151 542 365
+bus 531 19 623 466
+person 256 402 200 231
+person 188 364 128 226
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5054.JPEG
+busstop 280 98 15 460
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9221.JPEG
+busstop 566 55 33 465
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9966.JPEG
+busstop 567 45 85 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14363.JPEG
+busstop 415 191 242 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22270.JPEG
+car 494 137 226 11
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17107.JPEG
+busstop 562 38 35 324
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25264.JPEG
+bus 523 398 70 113
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15639.JPEG
+busstop 147 45 540 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20895.JPEG
+busstop 569 70 29 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_770.JPEG
+busstop 438 55 37 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6762.JPEG
+busstop 433 116 184 220
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19222.JPEG
+busstop 499 122 181 383
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17543.JPEG
+bus 541 402 129 123
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30788.JPEG
+bus 465 337 40 133
+busstop 292 397 3 95
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30825.JPEG
+busstop 172 436 10 122
+bus 509 400 222 67
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19308.JPEG
+bus 589 340 393 137
+busstop 300 388 62 49
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8798.JPEG
+busstop 359 170 605 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15055.JPEG
+person 562 340 222 57
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23616.JPEG
+busstop 120 178 617 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26353.JPEG
+busstop 275 80 139 465
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8519.JPEG
+busstop 597 31 37 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12425.JPEG
+busstop 400 126 40 396
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21408.JPEG
+busstop 534 82 47 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12648.JPEG
+bus 60 126 594 403
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28500.JPEG
+busstop 584 427 20 69
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_299.JPEG
+busstop 184 185 359 347
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27988.JPEG
+busstop 252 204 516 402
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24384.JPEG
+busstop 517 207 389 336
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12277.JPEG
+busstop 403 59 240 119
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26913.JPEG
+busstop 236 139 617 393
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19504.JPEG
+person 243 460 39 201
+person 445 429 300 194
+person 583 398 425 169
+bench 585 279 39 449
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20075.JPEG
+bench 271 317 188 377
+person 338 428 195 175
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23331.JPEG
+busstop 49 12 580 380
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31033.JPEG
+busstop 449 174 621 441
+bus 452 390 86 49
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26563.JPEG
+busstop 391 356 173 182
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13567.JPEG
+busstop 603 459 86 12
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16474.JPEG
+busstop 322 461 65 95
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5931.JPEG
+busstop 46 24 604 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17193.JPEG
+busstop 42 108 570 368
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18906.JPEG
+busstop 436 370 32 17
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15796.JPEG
+busstop 613 453 119 10
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10823.JPEG
+busstop 17 43 619 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11974.JPEG
+busstop 590 43 37 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12842.JPEG
+busstop 71 196 263 342
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8970.JPEG
+busstop 58 91 553 413
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2656.JPEG
+busstop 335 106 16 357
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12699.JPEG
+busstop 80 130 615 435
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12310.JPEG
+bus 392 25 569 219
+car 265 140 368 231
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12114.JPEG
+busstop 255 174 348 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_157.JPEG
+busstop 45 171 542 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20061.JPEG
+busstop 59 100 614 397
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15367.JPEG
+busstop 314 39 615 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19842.JPEG
+busstop 580 36 69 342
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21755.JPEG
+person 345 123 465 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_919.JPEG
+busstop 22 11 352 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30308.JPEG
+busstop 238 40 24 377
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17708.JPEG
+busstop 91 42 482 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17720.JPEG
+busstop 332 21 593 387
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11617.JPEG
+busstop 571 434 42 20
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3739.JPEG
+busstop 102 210 482 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3906.JPEG
+busstop 167 119 507 317
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4488.JPEG
+busstop 494 34 50 371
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14327.JPEG
+busstop 151 115 602 387
+person 186 372 130 203
+person 427 379 325 254
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24600.JPEG
+person 97 224 232 473
+person 387 182 532 460
+bus 286 351 34 30
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24521.JPEG
+busstop 64 174 615 386
+person 318 338 268 271
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27866.JPEG
+busstop 143 27 569 309
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13686.JPEG
+busstop 61 61 456 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4600.JPEG
+person 73 134 203 445
+person 383 178 453 432
+person 498 170 593 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25918.JPEG
+busstop 374 164 555 335
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7527.JPEG
+busstop 257 190 547 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18818.JPEG
+person 104 65 26 313
+person 147 71 75 235
+person 183 66 101 334
+person 218 50 176 237
+person 328 73 231 347
+person 277 90 193 287
+person 476 29 402 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31489.JPEG
+busstop 59 59 566 476
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21485.JPEG
+busstop 254 155 499 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25431.JPEG
+bus 432 64 617 269
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13745.JPEG
+busstop 22 119 608 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25475.JPEG
+busstop 131 83 563 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22969.JPEG
+busstop 595 69 46 453
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1785.JPEG
+busstop 273 341 27 166
+bus 344 27 622 412
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25770.JPEG
+person 238 167 359 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20208.JPEG
+busstop 292 150 555 367
+busstop 195 189 300 276
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25180.JPEG
+busstop 576 103 32 422
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4634.JPEG
+person 290 156 153 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21251.JPEG
+busstop 418 46 607 321
+bus 404 132 200 401
+bus 198 145 12 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24207.JPEG
+busstop 174 147 513 412
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20183.JPEG
+bus 577 179 474 305
+person 251 232 200 394
+person 160 226 114 359
+person 566 228 509 367
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11019.JPEG
+person 256 141 153 386
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24401.JPEG
+person 283 174 184 392
+bus 243 39 18 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18008.JPEG
+busstop 56 60 548 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25794.JPEG
+person 332 301 177 446
+person 443 287 335 392
+busstop 61 116 539 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23764.JPEG
+busstop 365 80 603 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25350.JPEG
+person 246 162 115 457
+person 325 97 235 405
+person 382 111 507 457
+person 512 97 614 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14815.JPEG
+person 331 242 279 384
+person 405 235 339 408
+person 269 122 198 351
+busstop 28 35 614 426
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12486.JPEG
+busstop 193 166 538 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16055.JPEG
+busstop 120 227 588 455
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13418.JPEG
+busstop 107 84 633 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7240.JPEG
+busstop 125 138 537 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12633.JPEG
+busstop 58 42 548 369
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23816.JPEG
+busstop 573 96 188 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22686.JPEG
+busstop 567 47 112 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5564.JPEG
+busstop 443 36 41 469
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_667.JPEG
+busstop 396 104 26 435
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12253.JPEG
+busstop 68 5 554 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20351.JPEG
+bus 457 63 203 360
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19077.JPEG
+busstop 97 68 568 367
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15855.JPEG
+busstop 284 450 10 15
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28176.JPEG
+busstop 185 20 624 453
+bench 281 339 637 428
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11548.JPEG
+busstop 114 127 470 415
+person 423 253 354 469
+person 549 267 483 455
+person 230 80 162 251
+person 115 161 68 334
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25703.JPEG
+bus 27 259 127 355
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16314.JPEG
+person 317 219 400 480
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23356.JPEG
+person 199 119 126 472
+person 153 124 69 318
+person 389 157 307 417
+bus 601 406 57 13
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18321.JPEG
+bus 404 365 227 234
+bus 565 359 434 239
+bus 8 245 244 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8508.JPEG
+person 24 159 106 421
+person 76 170 144 407
+person 151 157 216 444
+person 214 194 295 413
+person 269 160 382 422
+person 373 190 491 435
+person 523 156 631 414
+busstop 197 46 623 377
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21693.JPEG
+busstop 124 196 482 365
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23358.JPEG
+busstop 119 169 555 364
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28919.JPEG
+person 247 225 143 368
+person 364 228 314 301
+person 410 227 397 262
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13054.JPEG
+bicycle 418 456 168 296
+busstop 98 24 611 435
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31344.JPEG
+busstop 26 16 612 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16488.JPEG
+busstop 24 56 485 434
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10361.JPEG
+busstop 261 68 608 300
+person 212 249 152 154
+person 264 257 211 173
+bus 169 79 18 329
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11912.JPEG
+bus 487 201 294 416
+person 198 274 237 421
+person 111 299 157 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27098.JPEG
+person 398 220 438 366
+busstop 163 110 409 374
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24800.JPEG
+busstop 75 108 585 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25924.JPEG
+car 365 257 517 389
+car 502 219 590 294
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13841.JPEG
+busstop 207 121 479 379
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24716.JPEG
+person 340 265 265 463
+person 417 228 358 350
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11606.JPEG
+busstop 105 36 516 415
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11319.JPEG
+busstop 34 53 569 368
+bench 128 250 446 338
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8217.JPEG
+person 169 106 223 389
+busstop 176 32 541 349
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14742.JPEG
+busstop 24 34 591 457
+person 292 217 207 436
+bench 364 256 170 394
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30054.JPEG
+bench 382 331 331 378
+busstop 225 175 440 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5670.JPEG
+person 111 182 191 471
+person 324 173 210 471
+person 590 113 482 458
+person 485 189 412 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11774.JPEG
+person 459 189 406 360
+busstop 201 45 613 324
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8436.JPEG
+busstop 286 152 541 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13555.JPEG
+busstop 577 43 159 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24265.JPEG
+busstop 582 57 137 432
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14936.JPEG
+car 534 193 426 259
+car 355 201 280 238
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31475.JPEG
+busstop 134 48 600 434
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_727.JPEG
+busstop 209 35 569 399
+person 544 231 424 469
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14036.JPEG
+bus 289 57 618 417
+person 82 260 56 159
+person 121 254 84 160
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24140.JPEG
+person 612 256 550 445
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17491.JPEG
+person 559 31 444 475
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23967.JPEG
+bus 272 275 120 85
+bus 121 71 16 151
+bus 199 40 135 83
+bus 344 38 264 102
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14814.JPEG
+person 242 101 359 459
+person 233 104 118 452
+person 81 170 11 464
+person 384 104 597 448
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20332.JPEG
+busstop 71 23 535 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6696.JPEG
+busstop 38 23 621 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4468.JPEG
+busstop 61 42 452 402
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25183.JPEG
+person 431 360 389 227
+person 234 347 180 214
+person 76 346 20 240
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13455.JPEG
+bench 206 284 334 382
+person 124 382 52 222
+person 202 399 134 226
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16735.JPEG
+person 245 200 332 481
+bus 391 103 621 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16511.JPEG
+busstop 122 22 619 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22758.JPEG
+person 193 153 335 472
+person 336 115 490 446
+bench 188 359 546 448
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26917.JPEG
+busstop 47 17 456 428
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16470.JPEG
+person 158 87 31 449
+person 268 120 196 352
+person 332 90 431 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29682.JPEG
+bus 85 114 443 386
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21234.JPEG
+busstop 56 79 514 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12232.JPEG
+busstop 138 4 614 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1699.JPEG
+bus 82 57 603 372
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19966.JPEG
+busstop 192 104 540 396
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_345.JPEG
+busstop 300 65 593 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11968.JPEG
+busstop 186 78 581 471
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15296.JPEG
+bus 288 207 615 396
+bus 179 246 304 333
+bus 89 234 179 321
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26943.JPEG
+bus 113 53 541 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5637.JPEG
+busstop 25 25 577 465
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17122.JPEG
+busstop 229 268 623 465
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9993.JPEG
+bus 263 183 566 403
+person 167 412 107 281
+busstop 92 232 280 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17446.JPEG
+bus 37 95 526 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11799.JPEG
+busstop 14 65 624 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10672.JPEG
+busstop 201 195 421 393
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16696.JPEG
+busstop 238 157 477 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3280.JPEG
+bus 237 151 618 470
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11927.JPEG
+busstop 138 26 455 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_982.JPEG
+busstop 110 129 597 387
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22323.JPEG
+busstop 548 25 71 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7532.JPEG
+busstop 111 139 445 448
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30230.JPEG
+busstop 96 113 513 449
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25189.JPEG
+person 420 425 215 44
+chair 507 241 261 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6633.JPEG
+busstop 23 32 618 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4067.JPEG
+busstop 476 88 226 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7834.JPEG
+busstop 599 15 35 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17621.JPEG
+busstop 442 125 168 339
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2519.JPEG
+busstop 618 161 259 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20700.JPEG
+person 332 83 616 459
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21518.JPEG
+busstop 130 89 613 337
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19080.JPEG
+busstop 547 47 269 247
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26453.JPEG
+busstop 11 15 623 391
+person 123 168 36 438
+person 258 185 156 383
+person 382 131 281 402
+person 461 161 547 386
+person 570 147 613 395
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17818.JPEG
+person 485 170 388 407
+busstop 23 51 577 394
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27344.JPEG
+busstop 280 36 48 346
+person 384 141 508 466
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3588.JPEG
+busstop 590 12 25 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29171.JPEG
+bus 109 48 480 410
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2265.JPEG
+person 217 111 84 409
+person 298 124 186 411
+person 432 129 310 407
+person 533 132 415 395
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9758.JPEG
+bus 560 80 200 345
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14022.JPEG
+busstop 51 26 563 446
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15066.JPEG
+busstop 441 155 300 346
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11409.JPEG
+busstop 134 52 582 365
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30899.JPEG
+busstop 510 64 153 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1159.JPEG
+busstop 229 139 503 434
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8654.JPEG
+busstop 63 28 633 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10243.JPEG
+busstop 461 113 166 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11140.JPEG
+busstop 33 39 601 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25548.JPEG
+person 159 265 87 415
+person 191 290 319 462
+person 589 285 541 353
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9893.JPEG
+person 269 292 228 398
+person 209 312 172 427
+busstop 53 111 454 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26819.JPEG
+person 226 168 175 402
+person 400 194 354 328
+busstop 311 34 595 356
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6199.JPEG
+busstop 214 100 25 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6821.JPEG
+busstop 280 119 19 288
+busstop 336 127 600 265
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22135.JPEG
+busstop 349 80 620 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15612.JPEG
+bus 533 52 116 323
+person 208 447 66 242
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29685.JPEG
+person 415 234 316 455
+person 482 245 392 391
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12118.JPEG
+person 367 201 309 385
+person 438 204 390 392
+person 508 217 459 377
+person 586 186 538 359
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1579.JPEG
+person 187 315 70 468
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14324.JPEG
+bus 137 60 554 364
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16753.JPEG
+person 438 155 307 274
+person 580 56 444 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9063.JPEG
+person 311 223 231 415
+busstop 619 408 47 11
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25912.JPEG
+busstop 526 102 86 420
+person 356 149 433 475
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16507.JPEG
+busstop 445 437 57 224
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11484.JPEG
+person 325 281 454 436
+busstop 232 12 550 231
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31307.JPEG
+busstop 426 145 71 459
+motorcycle 389 297 319 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14348.JPEG
+bus 313 140 604 333
+busstop 169 51 21 162
+person 347 228 246 442
+person 207 219 107 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26115.JPEG
+busstop 86 22 240 437
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11427.JPEG
+busstop 67 73 510 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1352.JPEG
+person 282 85 386 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5284.JPEG
+busstop 124 166 592 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12190.JPEG
+busstop 244 75 46 389
+person 170 464 109 281
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16524.JPEG
+person 578 94 498 459
+person 242 145 164 375
+person 411 176 310 360
+bicycle 202 228 1 409
+bicycle 383 188 517 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14676.JPEG
+person 240 133 441 398
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12685.JPEG
+busstop 246 100 540 370
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11386.JPEG
+busstop 17 89 616 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9662.JPEG
+busstop 508 34 24 393
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23915.JPEG
+busstop 60 86 597 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14495.JPEG
+busstop 215 315 31 12
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10559.JPEG
+busstop 130 57 419 291
+person 212 115 103 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3748.JPEG
+busstop 55 140 314 362
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11788.JPEG
+busstop 261 92 344 349
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1829.JPEG
+busstop 24 50 597 468
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28303.JPEG
+busstop 164 171 468 324
+busstop 160 193 52 299
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11490.JPEG
+busstop 104 80 564 441
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1786.JPEG
+busstop 82 71 21 128
+bus 307 60 619 377
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24931.JPEG
+busstop 138 162 469 330
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23284.JPEG
+busstop 117 13 546 225
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25915.JPEG
+bench 327 357 617 469
+person 390 269 518 470
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12590.JPEG
+chair 225 307 71 422
+chair 326 214 209 316
+chair 410 170 318 243
+chair 521 131 422 184
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25314.JPEG
+person 26 83 217 444
+person 391 103 554 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13121.JPEG
+busstop 176 53 620 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12830.JPEG
+bus 93 74 506 434
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24191.JPEG
+bench 462 98 151 449
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26592.JPEG
+bus 235 431 35 29
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31727.JPEG
+bus 476 340 229 206
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_850.JPEG
+busstop 86 55 566 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11564.JPEG
+busstop 20 29 629 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13762.JPEG
+busstop 124 37 584 433
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12280.JPEG
+busstop 64 19 550 376
+person 507 177 436 427
+person 584 190 509 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8141.JPEG
+person 329 208 424 477
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14717.JPEG
+busstop 145 105 587 279
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17427.JPEG
+bus 193 54 588 395
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13039.JPEG
+bus 132 80 443 318
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30863.JPEG
+busstop 62 29 548 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11443.JPEG
+bus 248 177 507 286
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6999.JPEG
+busstop 20 25 585 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17266.JPEG
+person 58 39 179 445
+person 309 73 398 387
+person 436 62 593 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24779.JPEG
+busstop 76 36 597 432
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12566.JPEG
+person 184 145 74 418
+person 478 157 352 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18941.JPEG
+person 76 201 32 451
+person 453 179 385 341
+person 218 173 139 381
+person 267 198 198 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22413.JPEG
+busstop 168 47 117 111
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26256.JPEG
+person 246 114 85 329
+person 305 142 214 313
+person 406 106 314 336
+person 508 115 387 416
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2563.JPEG
+busstop 533 298 311 10
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10815.JPEG
+person 88 180 136 344
+person 138 184 204 337
+person 194 205 236 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_327.JPEG
+busstop 52 156 326 369
+busstop 331 203 500 312
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28090.JPEG
+person 66 258 224 471
+person 153 197 272 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2055.JPEG
+busstop 481 322 211 140
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23326.JPEG
+busstop 16 13 600 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13436.JPEG
+person 134 90 301 282
+person 309 110 477 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27341.JPEG
+bus 211 19 629 262
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8712.JPEG
+busstop 17 60 611 415
+person 153 189 52 441
+person 311 247 255 392
+person 406 253 347 389
+person 506 194 417 429
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19825.JPEG
+person 412 127 200 467
+person 499 106 364 333
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_122.JPEG
+bus 311 400 103 43
+busstop 364 115 412 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6340.JPEG
+busstop 172 163 545 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19005.JPEG
+busstop 34 17 596 437
+person 223 443 119 172
+person 548 253 631 441
+bench 231 336 594 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11478.JPEG
+bus 272 151 619 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9064.JPEG
+busstop 610 21 64 391
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4353.JPEG
+busstop 443 90 618 426
+bus 274 148 31 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25542.JPEG
+busstop 95 111 356 445
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13111.JPEG
+person 281 81 141 420
+person 530 65 300 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24049.JPEG
+person 427 185 309 333
+person 581 216 471 369
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_735.JPEG
+busstop 57 81 573 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3750.JPEG
+busstop 278 131 422 279
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10637.JPEG
+busstop 67 189 332 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5247.JPEG
+bus 129 44 353 405
+busstop 426 145 369 369
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6634.JPEG
+person 464 116 520 463
+person 217 94 115 446
+person 357 92 230 379
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12732.JPEG
+person 467 234 540 440
+busstop 265 125 32 435
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20837.JPEG
+busstop 245 171 113 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9538.JPEG
+busstop 249 69 557 304
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_147.JPEG
+busstop 157 57 504 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11036.JPEG
+car 394 343 310 264
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20515.JPEG
+bus 425 333 328 150
+busstop 130 152 218 405
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7006.JPEG
+bus 168 22 415 422
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15158.JPEG
+person 347 106 275 418
+person 516 82 369 468
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28368.JPEG
+busstop 418 436 215 24
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_636.JPEG
+busstop 355 217 74 391
+busstop 412 171 324 228
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14415.JPEG
+busstop 65 79 597 339
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11230.JPEG
+busstop 45 66 517 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5909.JPEG
+busstop 0 68 518 363
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11647.JPEG
+person 286 300 225 448
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1636.JPEG
+busstop 121 28 498 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29716.JPEG
+person 463 437 275 184
+person 464 174 590 403
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_198.JPEG
+person 128 242 217 415
+busstop 57 95 589 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_773.JPEG
+busstop 186 188 567 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25086.JPEG
+person 170 167 15 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20913.JPEG
+bus 445 73 16 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3545.JPEG
+busstop 9 242 308 473
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13479.JPEG
+busstop 21 17 594 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26654.JPEG
+bus 304 54 21 331
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2661.JPEG
+busstop 152 15 469 367
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10228.JPEG
+busstop 68 263 351 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6442.JPEG
+busstop 38 69 476 352
+person 307 218 224 448
+person 419 216 323 439
+person 480 206 415 358
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5298.JPEG
+person 352 119 268 319
+person 108 43 17 348
+bus 507 269 217 11
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27109.JPEG
+bus 279 185 -1 337
+dog 466 324 312 436
+person 397 212 269 407
+person 364 205 469 397
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20753.JPEG
+busstop 117 100 591 441
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15279.JPEG
+busstop 118 15 253 116
+person 272 184 475 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22591.JPEG
+busstop 109 36 513 383
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16754.JPEG
+person 495 133 369 446
+person 267 132 145 441
+person 152 127 26 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_120.JPEG
+busstop 438 35 19 382
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24969.JPEG
+busstop 64 59 525 407
+person 318 198 242 449
+person 354 227 312 424
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10780.JPEG
+bus 15 188 304 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17974.JPEG
+person 513 180 475 354
+person 440 138 393 312
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18357.JPEG
+busstop 111 55 548 457
+chair 433 265 302 429
+chair 274 289 190 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17256.JPEG
+busstop 96 74 625 432
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17817.JPEG
+bus 36 179 195 381
+bus 168 189 283 379
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15811.JPEG
+busstop 140 131 606 428
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9027.JPEG
+bench 390 276 329 345
+bench 415 384 342 425
+car 153 240 70 300
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31594.JPEG
+busstop 86 49 571 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10901.JPEG
+person 447 251 344 470
+person 473 200 613 428
+person 233 289 188 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25300.JPEG
+busstop 171 73 600 427
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4857.JPEG
+person 353 265 258 422
+busstop 175 40 336 189
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12157.JPEG
+bus 77 71 356 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12120.JPEG
+person 281 32 386 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4202.JPEG
+car 409 362 187 217
+busstop 253 71 46 445
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24499.JPEG
+busstop 143 175 362 377
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26235.JPEG
+busstop 146 128 427 357
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14222.JPEG
+busstop 83 100 580 288
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23894.JPEG
+bus 380 27 22 412
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11928.JPEG
+car 273 297 38 416
+busstop 138 116 532 305
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16018.JPEG
+busstop 79 87 586 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3824.JPEG
+bus 34 179 542 318
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4056.JPEG
+person 499 251 363 470
+bus 437 152 35 433
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15281.JPEG
+busstop 48 71 406 352
+car 382 180 590 317
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14377.JPEG
+busstop 111 61 565 402
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4027.JPEG
+bus 357 100 621 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11955.JPEG
+busstop 36 51 586 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19784.JPEG
+car 496 414 276 224
+car 496 229 631 337
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4219.JPEG
+busstop 95 77 484 413
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12423.JPEG
+trafficlight 210 96 56 13
+bench 525 357 418 311
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24583.JPEG
+person 310 208 121 455
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7528.JPEG
+person 394 283 330 411
+busstop 266 145 621 414
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27548.JPEG
+busstop 43 20 551 367
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30486.JPEG
+busstop 71 117 582 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13530.JPEG
+bench 449 186 212 387
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14659.JPEG
+busstop 459 181 167 13
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9796.JPEG
+person 413 194 274 474
+person 270 152 169 443
+person 529 284 617 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2098.JPEG
+person 268 12 24 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14577.JPEG
+person 456 70 205 290
+bench 91 150 605 316
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21929.JPEG
+bus 329 48 619 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26352.JPEG
+person 537 130 366 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11002.JPEG
+busstop 95 243 592 426
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14272.JPEG
+person 208 126 33 438
+person 354 80 495 408
+person 544 127 614 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12845.JPEG
+bus 360 91 615 302
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12306.JPEG
+person 136 244 293 462
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9720.JPEG
+busstop 130 80 344 331
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14482.JPEG
+chair 212 332 65 271
+chair 260 311 166 274
+chair 292 299 214 258
+chair 342 292 282 260
+chair 385 287 335 254
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16604.JPEG
+bus 93 139 507 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1408.JPEG
+busstop 95 13 559 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12642.JPEG
+person 503 226 580 413
+car 264 212 201 282
+car 365 231 319 273
+car 105 228 37 274
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5746.JPEG
+person 344 73 425 459
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25101.JPEG
+busstop 223 145 320 315
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21674.JPEG
+bus 417 321 580 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25734.JPEG
+bus 229 153 380 285
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31578.JPEG
+person 157 98 63 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8534.JPEG
+busstop 469 36 617 223
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17315.JPEG
+bus 131 136 590 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17589.JPEG
+busstop 100 39 528 304
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10833.JPEG
+busstop 55 28 235 383
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20448.JPEG
+busstop 69 173 581 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30930.JPEG
+person 296 443 196 200
+person 496 175 610 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6973.JPEG
+busstop 296 51 533 265
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11545.JPEG
+bus 153 229 465 331
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28660.JPEG
+person 593 458 154 78
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14090.JPEG
+bus 198 150 458 332
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8279.JPEG
+busstop 75 100 281 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10705.JPEG
+busstop 103 145 498 349
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14434.JPEG
+busstop 138 152 574 351
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9338.JPEG
+busstop 81 122 471 395
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27447.JPEG
+busstop 171 182 424 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30062.JPEG
+busstop 99 98 510 386
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7583.JPEG
+busstop 51 149 544 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20894.JPEG
+busstop 61 109 342 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3608.JPEG
+busstop 137 38 238 123
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12558.JPEG
+busstop 60 85 581 384
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23194.JPEG
+busstop 200 108 523 444
+person 389 244 485 462
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28682.JPEG
+busstop 59 36 599 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29133.JPEG
+person 212 108 367 462
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9206.JPEG
+busstop 99 28 393 397
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21115.JPEG
+busstop 68 27 585 450
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28760.JPEG
+busstop 242 227 332 302
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2668.JPEG
+busstop 30 237 331 477
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31043.JPEG
+person 571 208 500 445
+person 492 210 441 423
+person 363 260 312 412
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2119.JPEG
+busstop 115 70 565 365
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1145.JPEG
+person 414 174 520 413
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28935.JPEG
+person 376 73 434 180
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30880.JPEG
+person 331 48 125 410
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31288.JPEG
+busstop 93 114 592 477
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25299.JPEG
+busstop 139 134 628 355
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15584.JPEG
+bus 83 73 475 380
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27706.JPEG
+bus 128 84 496 375
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18991.JPEG
+bus 206 103 530 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7361.JPEG
+person 360 172 286 450
+person 212 214 118 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25296.JPEG
+busstop 264 167 354 283
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14143.JPEG
+bus 163 141 392 317
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14942.JPEG
+busstop 211 104 514 320
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28877.JPEG
+busstop 18 87 581 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22607.JPEG
+busstop 66 76 243 426
+bus 580 197 429 318
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29577.JPEG
+person 267 272 169 393
+person 432 242 368 378
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16198.JPEG
+person 360 231 62 452
+person 485 135 611 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11375.JPEG
+bus 200 41 451 199
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25533.JPEG
+busstop 400 33 234 473
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7585.JPEG
+busstop 357 148 607 295
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5544.JPEG
+busstop 260 81 25 442
+bus 370 118 620 351
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7295.JPEG
+bench 144 311 565 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15720.JPEG
+busstop 49 38 607 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11873.JPEG
+busstop 229 222 453 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14035.JPEG
+person 484 128 357 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1850.JPEG
+busstop 61 21 491 456
+person 263 148 390 452
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24945.JPEG
+bus 234 66 527 323
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11077.JPEG
+busstop 53 87 546 400
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4063.JPEG
+busstop 19 114 513 431
+person 313 267 193 442
+person 543 191 453 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13569.JPEG
+busstop 90 160 489 441
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29410.JPEG
+bus 109 173 303 268
+car 85 215 4 277
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11872.JPEG
+person 365 214 452 456
+person 457 217 601 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19362.JPEG
+busstop 75 16 387 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11361.JPEG
+bus 354 181 492 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23078.JPEG
+busstop 445 59 44 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11614.JPEG
+busstop 263 178 195 121
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30699.JPEG
+bus 358 116 570 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23606.JPEG
+bus 167 27 512 309
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21466.JPEG
+person 211 135 42 450
+person 307 110 156 464
+person 387 155 445 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31297.JPEG
+busstop 111 195 416 359
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14809.JPEG
+busstop 80 85 590 425
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25374.JPEG
+bus 127 40 474 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13153.JPEG
+busstop 165 103 536 305
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19179.JPEG
+busstop 153 44 583 432
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31100.JPEG
+busstop 55 15 569 388
+bicycle 310 254 102 367
+bicycle 436 253 562 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13018.JPEG
+busstop 566 398 89 39
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_221.JPEG
+busstop 229 243 489 397
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10720.JPEG
+car 254 424 138 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11196.JPEG
+person 233 409 151 154
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29753.JPEG
+busstop 81 38 463 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21338.JPEG
+person 385 444 197 205
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25004.JPEG
+person 173 111 423 453
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18903.JPEG
+person 213 75 68 422
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8688.JPEG
+person 247 93 348 415
+person 210 136 153 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21009.JPEG
+person 347 189 549 386
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17690.JPEG
+busstop 74 52 573 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25937.JPEG
+person 463 268 530 467
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27637.JPEG
+car 173 256 443 364
+person 512 318 476 197
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18843.JPEG
+busstop 115 43 494 398
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25747.JPEG
+busstop 101 13 556 395
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19987.JPEG
+bus 222 410 26 11
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24884.JPEG
+busstop 58 67 559 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13968.JPEG
+person 191 43 434 468
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15505.JPEG
+busstop 555 396 59 13
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25045.JPEG
+person 390 315 160 80
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27940.JPEG
+person 326 246 582 470
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30925.JPEG
+bus 278 117 491 299
+busstop 264 340 56 106
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26715.JPEG
+busstop 479 311 144 120
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22115.JPEG
+busstop 85 26 512 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13769.JPEG
+busstop 45 18 590 378
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20072.JPEG
+busstop 188 112 575 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13214.JPEG
+busstop 85 202 604 433
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10054.JPEG
+busstop 159 126 37 29
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18033.JPEG
+busstop 45 65 488 426
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11559.JPEG
+busstop 293 91 626 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18111.JPEG
+busstop 104 94 431 331
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11247.JPEG
+person 358 184 526 396
+busstop 315 104 114 28
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9317.JPEG
+busstop 345 90 239 169
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30904.JPEG
+person 342 394 244 155
+person 485 440 395 230
+person 592 433 511 266
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6705.JPEG
+person 362 434 172 122
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16520.JPEG
+busstop 272 79 335 178
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_707.JPEG
+bus 189 19 432 367
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27422.JPEG
+busstop 56 77 591 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11787.JPEG
+busstop 199 266 292 393
+bus 351 201 633 451
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19131.JPEG
+person 368 350 270 149
+busstop 62 37 581 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5594.JPEG
+busstop 129 29 480 416
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6745.JPEG
+busstop 170 28 489 397
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7871.JPEG
+bus 192 75 606 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14270.JPEG
+busstop 63 120 616 459
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2334.JPEG
+busstop 63 137 470 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9492.JPEG
+busstop 77 66 399 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5000.JPEG
+person 458 451 222 67
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16779.JPEG
+busstop 40 146 506 336
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16415.JPEG
+bus 463 377 176 136
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16093.JPEG
+busstop 206 152 447 372
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11453.JPEG
+busstop 386 119 589 358
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23191.JPEG
+busstop 188 100 602 432
+bicycle 257 430 151 313
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17714.JPEG
+busstop 111 94 585 353
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26615.JPEG
+person 426 240 294 432
+person 257 190 145 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_633.JPEG
+person 444 206 252 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21161.JPEG
+busstop 115 138 575 325
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31321.JPEG
+busstop 196 99 497 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22112.JPEG
+busstop 110 68 473 444
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20467.JPEG
+busstop 60 56 546 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1588.JPEG
+busstop 105 144 383 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23950.JPEG
+person 348 107 112 466
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30534.JPEG
+busstop 162 115 408 371
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19240.JPEG
+busstop 43 20 480 343
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20155.JPEG
+person 449 463 221 17
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17674.JPEG
+person 174 358 115 144
+person 328 403 236 121
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20518.JPEG
+busstop 392 55 499 315
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21831.JPEG
+busstop 35 18 578 370
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14728.JPEG
+person 408 338 334 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13804.JPEG
+busstop 164 16 595 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6228.JPEG
+busstop 504 27 588 164
+person 458 219 570 416
+person 324 310 258 469
+person 244 304 169 443
+busstop 30 155 384 449
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27950.JPEG
+busstop 318 87 419 271
+bench 307 278 162 445
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11456.JPEG
+busstop 209 271 351 404
+busstop 142 305 27 369
+tree 248 428 94 41
+tree 493 408 364 132
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27860.JPEG
+bus 62 27 385 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6683.JPEG
+busstop 198 28 313 215
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24480.JPEG
+busstop 156 268 528 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24042.JPEG
+person 277 394 239 233
+person 357 378 305 222
+person 424 397 384 242
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30574.JPEG
+bus 206 224 108 289
+bus 550 185 306 314
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27205.JPEG
+person 516 169 403 378
+person 442 163 251 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31749.JPEG
+bus 63 155 562 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24230.JPEG
+bus 43 67 390 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11042.JPEG
+busstop 59 83 579 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19221.JPEG
+busstop 228 172 609 365
+person 316 274 240 420
+person 397 282 334 406
+person 478 285 407 407
+person 222 276 148 421
+person 425 140 300 190
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14373.JPEG
+busstop 107 48 600 427
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2807.JPEG
+busstop 17 17 580 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3928.JPEG
+busstop 114 104 519 428
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25021.JPEG
+busstop 624 446 26 14
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16060.JPEG
+bus 89 29 489 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24123.JPEG
+bus 128 85 578 270
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25768.JPEG
+car 532 311 394 268
+car 439 323 323 277
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5248.JPEG
+person 306 183 198 393
+person 456 159 311 411
+busstop 615 445 34 7
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14202.JPEG
+person 187 241 152 314
+person 245 240 185 372
+person 495 234 406 430
+person 574 219 503 378
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12983.JPEG
+person 439 161 363 464
+person 269 154 156 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1270.JPEG
+bus 379 364 109 126
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_543.JPEG
+busstop 142 29 564 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20355.JPEG
+busstop 87 52 505 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9957.JPEG
+busstop 551 309 147 150
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27414.JPEG
+busstop 87 36 590 384
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9698.JPEG
+busstop 63 53 605 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26188.JPEG
+person 85 427 26 239
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18471.JPEG
+busstop 49 128 595 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21425.JPEG
+bicycle 166 268 33 356
+bicycle 340 279 492 379
+bicycle 445 257 578 372
+person 359 307 321 203
+person 327 351 277 229
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17192.JPEG
+busstop 202 148 565 325
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31163.JPEG
+busstop 77 17 575 381
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11439.JPEG
+person 495 261 222 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12260.JPEG
+bus 186 149 515 273
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24311.JPEG
+person 223 448 45 239
+busstop 411 89 549 285
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7600.JPEG
+busstop 309 97 456 280
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22105.JPEG
+person 248 415 217 250
+person 295 400 244 246
+person 370 412 333 253
+person 153 390 104 269
+person 113 406 48 257
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20201.JPEG
+busstop 63 66 577 270
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_790.JPEG
+person 308 326 167 234
+person 374 275 321 215
+person 414 256 373 196
+person 442 265 416 158
+car 512 225 465 181
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27237.JPEG
+bus 206 120 607 394
+busstop 355 141 276 32
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30343.JPEG
+bus 590 362 348 69
+bus 93 111 325 280
+person 311 203 273 437
+person 252 229 231 365
+person 206 214 172 379
+person 156 213 100 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23.JPEG
+person 359 228 313 334
+bus 236 318 39 125
+busstop 350 147 602 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6874.JPEG
+busstop 94 162 580 353
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18002.JPEG
+busstop 33 140 595 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3352.JPEG
+busstop 76 41 562 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11500.JPEG
+busstop 342 29 34 335
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1535.JPEG
+person 335 179 227 431
+person 209 94 119 443
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24551.JPEG
+person 432 73 81 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11306.JPEG
+busstop 20 12 619 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12044.JPEG
+person 200 210 123 391
+person 334 201 256 366
+person 570 256 301 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24076.JPEG
+person 263 178 216 374
+person 323 187 254 359
+person 209 191 146 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30805.JPEG
+bus 111 63 335 405
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10801.JPEG
+busstop 31 24 519 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14257.JPEG
+busstop 75 89 554 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3902.JPEG
+busstop 185 55 550 377
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29927.JPEG
+person 401 466 201 200
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16920.JPEG
+bus 196 90 593 324
+busstop 58 112 198 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12177.JPEG
+busstop 96 81 569 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14954.JPEG
+busstop 503 440 389 248
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14205.JPEG
+busstop 392 390 63 85
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8784.JPEG
+busstop 471 431 116 55
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1937.JPEG
+bus 172 173 519 351
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12658.JPEG
+person 298 337 250 187
+person 322 190 369 357
+busstop 131 64 542 332
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21334.JPEG
+busstop 326 87 609 376
+busstop 104 74 26 128
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11148.JPEG
+busstop 146 110 439 432
+person 256 369 203 205
+person 349 212 424 372
+bench 408 334 165 274
+bench 117 372 17 298
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17670.JPEG
+bus 612 411 228 18
+person 191 162 83 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11297.JPEG
+busstop 163 70 495 369
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13842.JPEG
+busstop 231 69 86 412
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15478.JPEG
+busstop 385 207 122 380
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4542.JPEG
+busstop 41 53 604 312
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9610.JPEG
+busstop 71 70 590 459
+bicycle 172 317 383 405
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24781.JPEG
+bus 58 24 606 442
+person 460 457 379 273
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13127.JPEG
+car 243 206 130 326
+car 116 207 38 267
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11035.JPEG
+busstop 65 109 506 410
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29121.JPEG
+busstop 296 202 296 202
+bus 470 370 327 196
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4987.JPEG
+busstop 239 50 533 329
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25560.JPEG
+busstop 164 114 319 187
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25527.JPEG
+busstop 56 75 536 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11186.JPEG
+busstop 313 127 583 410
+person 525 253 454 393
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30435.JPEG
+bus 50 63 345 384
+person 600 417 516 155
+person 449 376 380 191
+person 504 354 433 205
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27129.JPEG
+person 308 405 238 183
+person 248 405 170 194
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28213.JPEG
+person 344 382 249 214
+person 236 350 171 209
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24715.JPEG
+person 150 370 92 199
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29486.JPEG
+person 225 451 132 221
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29062.JPEG
+busstop 133 142 530 452
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10753.JPEG
+busstop 75 136 503 358
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14551.JPEG
+busstop 145 79 33 199
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22518.JPEG
+person 366 440 135 59
+person 371 22 576 408
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10350.JPEG
+bench 506 170 100 302
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23541.JPEG
+busstop 41 69 616 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1891.JPEG
+busstop 148 120 566 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5949.JPEG
+busstop 45 47 585 282
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_402.JPEG
+busstop 175 153 522 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25376.JPEG
+busstop 262 148 485 247
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22866.JPEG
+busstop 345 137 611 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17319.JPEG
+busstop 92 112 452 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15398.JPEG
+bus 49 48 403 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14547.JPEG
+busstop 45 9 576 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6921.JPEG
+busstop 149 108 291 242
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30257.JPEG
+busstop 193 162 555 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3417.JPEG
+bus 437 422 142 30
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10535.JPEG
+busstop 395 335 110 150
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11329.JPEG
+person 191 434 142 347
+person 381 428 321 340
+person 459 431 424 370
+person 469 428 457 363
+person 529 439 492 360
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13071.JPEG
+person 433 402 287 177
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_99.JPEG
+busstop 523 134 409 25
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9018.JPEG
+busstop 77 30 606 374
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6120.JPEG
+busstop 70 46 624 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11528.JPEG
+busstop 88 70 458 442
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10668.JPEG
+busstop 211 51 548 399
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27911.JPEG
+busstop 235 293 408 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21094.JPEG
+busstop 119 76 485 386
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7474.JPEG
+busstop 60 112 546 383
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25954.JPEG
+person 479 420 331 110
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6523.JPEG
+busstop 170 61 552 404
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30274.JPEG
+busstop 255 40 600 356
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9703.JPEG
+busstop 67 75 544 361
+person 159 466 93 333
+person 205 451 143 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21727.JPEG
+bus 573 320 15 83
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12102.JPEG
+bus 583 402 89 55
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26246.JPEG
+bus 82 20 619 281
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25627.JPEG
+bus 56 95 571 387
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7117.JPEG
+bus 65 97 528 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3848.JPEG
+busstop 102 36 592 204
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1494.JPEG
+busstop 126 13 585 436
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_683.JPEG
+busstop 162 33 621 448
+person 508 421 449 261
+person 577 402 547 217
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_34.JPEG
+person 312 131 163 356
+person 572 130 351 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17381.JPEG
+busstop 99 24 492 390
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17985.JPEG
+busstop 82 243 300 347
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10515.JPEG
+busstop 99 102 567 437
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14334.JPEG
+busstop 152 68 550 375
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27281.JPEG
+person 461 48 214 432
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15818.JPEG
+person 71 256 6 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12723.JPEG
+person 360 95 218 418
+person 205 185 79 411
+person 539 113 414 408
+busstop 55 20 568 415
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26197.JPEG
+busstop 41 156 592 438
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26166.JPEG
+person 188 441 74 122
+person 425 82 521 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18354.JPEG
+person 369 38 593 460
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13644.JPEG
+busstop 540 330 257 113
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7353.JPEG
+busstop 128 64 541 406
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13323.JPEG
+busstop 188 129 425 340
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17605.JPEG
+person 82 31 296 465
+person 303 32 434 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17026.JPEG
+busstop 83 90 453 339
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_273.JPEG
+busstop 86 136 506 337
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28157.JPEG
+person 471 425 336 127
+person 550 374 426 120
+person 565 302 484 50
+bench 26 297 493 403
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28937.JPEG
+busstop 181 89 591 405
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19595.JPEG
+busstop 74 82 497 424
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5076.JPEG
+busstop 388 45 571 163
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12790.JPEG
+busstop 182 77 578 376
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1023.JPEG
+busstop 87 172 197 369
+bus 469 333 191 107
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24309.JPEG
+busstop 49 42 571 429
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8665.JPEG
+busstop 170 85 421 302
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12800.JPEG
+busstop 250 217 502 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3405.JPEG
+bus 382 380 207 119
+busstop 412 200 552 372
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4652.JPEG
+person 445 194 375 422
+person 304 170 245 392
+person 222 206 197 437
+person 138 182 73 380
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3438.JPEG
+busstop 136 231 360 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31625.JPEG
+busstop 296 166 479 281
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15780.JPEG
+person 132 127 334 461
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25740.JPEG
+busstop 369 113 474 241
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1413.JPEG
+busstop 389 158 89 445
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4336.JPEG
+busstop 341 140 85 354
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17117.JPEG
+busstop 522 206 174 361
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11155.JPEG
+busstop 444 57 50 284
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8872.JPEG
+busstop 412 131 40 441
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13154.JPEG
+busstop 435 125 161 351
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3088.JPEG
+busstop 434 113 127 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8434.JPEG
+busstop 526 101 232 426
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22798.JPEG
+car 617 370 448 262
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11192.JPEG
+busstop 427 175 117 327
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16147.JPEG
+car 150 332 33 252
+car 181 275 253 313
+bus 588 390 342 188
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24708.JPEG
+person 286 164 518 417
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8993.JPEG
+person 394 302 334 447
+person 510 251 446 440
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6146.JPEG
+person 365 171 266 392
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7164.JPEG
+busstop 248 120 597 368
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7604.JPEG
+busstop 42 92 582 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18454.JPEG
+busstop 558 40 83 398
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20059.JPEG
+bus 311 28 593 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7249.JPEG
+car 390 157 564 300
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13669.JPEG
+busstop 81 91 464 354
+person 371 352 290 194
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12050.JPEG
+person 240 194 169 352
+busstop 66 118 196 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11240.JPEG
+busstop 377 86 58 413
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8043.JPEG
+busstop 522 48 116 407
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14220.JPEG
+person 180 438 72 106
+person 234 132 303 386
+person 307 63 409 406
+person 443 93 547 375
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25854.JPEG
+bus 549 324 125 129
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_5677.JPEG
+person 184 393 124 290
+person 277 422 199 277
+person 377 417 318 306
+person 482 406 433 281
+person 544 389 505 284
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22860.JPEG
+person 489 390 444 236
+busstop 166 36 505 352
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10717.JPEG
+busstop 527 135 300 11
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28501.JPEG
+bus 530 98 221 372
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16839.JPEG
+busstop 163 31 538 249
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11040.JPEG
+busstop 410 43 195 358
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15230.JPEG
+busstop 568 183 122 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7021.JPEG
+busstop 553 65 417 149
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19143.JPEG
+person 331 439 79 131
+person 369 141 540 370
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18283.JPEG
+chair 372 331 213 189
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10549.JPEG
+busstop 146 172 476 322
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29392.JPEG
+busstop 365 235 552 421
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24836.JPEG
+busstop 548 138 33 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30309.JPEG
+busstop 499 105 301 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2592.JPEG
+person 77 70 164 310
+person 155 121 213 303
+person 476 112 547 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_18765.JPEG
+person 324 184 421 470
+person 190 163 263 409
+busstop 116 33 525 297
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12833.JPEG
+busstop 95 108 558 403
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4331.JPEG
+busstop 117 40 572 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31181.JPEG
+bus 68 77 502 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17541.JPEG
+busstop 218 36 544 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7517.JPEG
+busstop 194 111 450 447
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30447.JPEG
+bus 313 80 609 409
+bicycle 427 263 567 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26184.JPEG
+person 515 342 361 456
+person 365 196 271 463
+person 213 316 92 456
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8113.JPEG
+person 581 198 456 402
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12755.JPEG
+busstop 73 61 605 427
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13353.JPEG
+bus 163 168 475 318
+person 216 411 95 210
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14980.JPEG
+bus 561 112 86 357
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29070.JPEG
+busstop 367 295 286 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7133.JPEG
+person 159 409 90 157
+person 252 407 175 177
+person 331 392 242 172
+person 477 408 370 187
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28879.JPEG
+busstop 242 419 173 201
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29940.JPEG
+person 70 185 186 446
+person 283 195 423 443
+person 481 181 625 438
+busstop 283 152 116 17
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21011.JPEG
+busstop 333 128 113 352
+busstop 451 43 349 108
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12795.JPEG
+busstop 497 57 123 433
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12274.JPEG
+busstop 184 94 608 455
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30252.JPEG
+busstop 85 27 548 429
+person 364 203 451 384
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_10868.JPEG
+person 443 197 516 356
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12000.JPEG
+busstop 24 29 595 435
+chair 448 431 233 325
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25886.JPEG
+bench 482 431 170 392
+person 146 263 68 405
+person 241 296 155 422
+busstop 210 104 137 181
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17629.JPEG
+bus 240 96 615 403
+person 309 407 244 192
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15700.JPEG
+bus 225 98 16 336
+bus 544 84 220 289
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2909.JPEG
+car 301 326 55 246
+busstop 259 66 609 447
+person 381 442 335 216
+person 492 450 419 292
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15042.JPEG
+busstop 53 61 468 361
+bus 471 67 614 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12109.JPEG
+person 252 232 344 390
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13028.JPEG
+bus 86 97 600 391
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_9006.JPEG
+busstop 372 435 42 18
+busstop 385 145 517 317
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11028.JPEG
+person 479 84 374 436
+person 185 257 82 435
+person 261 237 202 420
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7982.JPEG
+busstop 34 20 419 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24918.JPEG
+person 86 210 186 440
+person 279 72 365 332
+person 158 120 224 356
+person 426 44 485 329
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28842.JPEG
+busstop 127 90 265 362
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11503.JPEG
+bus 87 116 496 394
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24367.JPEG
+busstop 163 284 348 423
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11272.JPEG
+bus 257 56 617 401
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22467.JPEG
+busstop 93 107 462 415
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14239.JPEG
+bench 121 246 493 478
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3500.JPEG
+busstop 102 183 459 439
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31251.JPEG
+person 230 341 126 168
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2344.JPEG
+bus 113 197 383 322
+person 166 362 127 268
+person 358 337 320 249
+person 541 343 487 265
+person 553 360 528 257
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19567.JPEG
+bus 499 173 16 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27088.JPEG
+busstop 247 78 583 422
+car 280 350 166 250
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25733.JPEG
+busstop 130 125 460 330
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_20024.JPEG
+busstop 32 128 265 436
+bus 430 255 264 172
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_3917.JPEG
+busstop 135 94 532 297
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1076.JPEG
+busstop 185 132 554 366
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16876.JPEG
+busstop 413 132 585 375
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_21160.JPEG
+busstop 149 19 612 446
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2839.JPEG
+busstop 218 10 478 430
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29806.JPEG
+person 329 228 536 443
+bench 270 310 606 371
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12353.JPEG
+busstop 90 11 520 428
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12397.JPEG
+busstop 190 64 516 363
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8915.JPEG
+busstop 159 142 413 370
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25936.JPEG
+busstop 128 55 515 371
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_2371.JPEG
+busstop 596 422 23 54
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_30506.JPEG
+person 268 209 447 450
+person 424 135 568 356
+person 537 81 618 296
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_15868.JPEG
+busstop 207 194 416 398
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19845.JPEG
+busstop 72 33 438 358
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14388.JPEG
+person 296 442 201 196
+person 368 446 281 174
+person 437 162 556 454
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_17499.JPEG
+person 226 226 343 401
+busstop 145 18 544 397
+car 463 211 593 342
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25059.JPEG
+busstop 42 37 447 431
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_227.JPEG
+busstop 337 28 27 429
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_27235.JPEG
+busstop 517 50 106 365
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24607.JPEG
+bus 526 49 205 299
+person 470 166 380 427
+person 325 224 268 409
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14070.JPEG
+busstop 450 67 38 372
+person 320 168 210 360
+person 582 162 492 297
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_23599.JPEG
+person 118 158 242 402
+person 259 148 340 411
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7795.JPEG
+busstop 352 17 618 437
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_26522.JPEG
+busstop 32 19 492 400
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16421.JPEG
+bus 340 48 584 373
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24497.JPEG
+busstop 113 33 564 419
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_22610.JPEG
+busstop 44 88 591 311
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_14095.JPEG
+bus 199 138 513 356
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28136.JPEG
+busstop 415 43 531 338
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12497.JPEG
+person 326 440 199 252
+busstop 105 31 538 388
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28507.JPEG
+busstop 239 269 13 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8888.JPEG
+busstop 103 15 482 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25602.JPEG
+bus 299 103 34 368
+person 333 349 277 186
+person 462 322 395 229
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31680.JPEG
+busstop 154 91 494 411
+person 270 385 194 228
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_28297.JPEG
+busstop 565 146 39 410
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12734.JPEG
+bus 347 21 604 214
+cat 354 274 599 473
+cat 128 280 275 417
+cat 35 39 258 171
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29941.JPEG
+busstop 345 83 606 317
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1198.JPEG
+bus 534 354 336 116
+busstop 48 18 326 360
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_29981.JPEG
+busstop 361 29 464 260
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13763.JPEG
+busstop 353 104 537 429
+bus 180 80 327 327
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12403.JPEG
+person 364 60 539 441
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31079.JPEG
+bus 143 105 502 424
+person 78 457 -1 252
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12873.JPEG
+busstop 138 25 478 418
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_6057.JPEG
+person 514 399 446 328
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_25808.JPEG
+busstop 522 387 362 223
+car 167 312 31 263
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_31308.JPEG
+busstop 112 138 542 385
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_12730.JPEG
+bench 255 206 587 464
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_13620.JPEG
+busstop 144 66 566 281
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_4109.JPEG
+busstop 47 24 589 347
+person 142 395 89 174
+person 220 396 166 202
+person 548 379 491 177
+person 474 379 421 160
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_16149.JPEG
+busstop 160 108 255 355
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_7744.JPEG
+bus 183 205 556 375
+busstop 29 198 166 378
+person 332 384 287 255
+person 194 358 164 265
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_19688.JPEG
+busstop 160 67 462 375
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_1660.JPEG
+busstop 467 426 112 12
+person 218 149 404 453
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_8445.JPEG
+bus 380 161 129 363
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_11311.JPEG
+bus 294 351 45 28
+
+http://140.115.152.223:7001/data/dataset/busstop/n08517676_24609.JPEG
+bench 115 325 457 444
+person 222 357 148 269

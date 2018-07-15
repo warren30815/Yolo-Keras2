@@ -1,0 +1,214 @@
+﻿http://140.115.152.223:7001/data/dataset/car/n02960352_996.JPEG
+car 64 151 565 425
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_15061.JPEG
+car 46 47 625 466
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_2904.JPEG
+car 15 99 398 436
+car 15 21 494 400
+car 24 11 586 341
+car 115 22 622 332
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11896.JPEG
+car 10 95 636 463
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11789.JPEG
+car 15 110 633 438
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_4428.JPEG
+car 401 314 602 454
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_10055.JPEG
+car 8 116 284 428
+car 282 74 631 417
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_4458.JPEG
+car 26 133 617 470
+person 209 107 445 466
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8026.JPEG
+car 100 41 582 361
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_4253.JPEG
+car 17 33 627 372
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8236.JPEG
+car 11 107 608 417
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_3571.JPEG
+car 35 81 608 443
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_7294.JPEG
+car 27 5 626 472
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11368.JPEG
+car 18 109 591 401
+person 527 72 619 318
+person 9 92 72 251
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11706.JPEG
+car 93 111 618 464
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_2927.JPEG
+car 19 148 633 449
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_6406.JPEG
+car 57 78 618 447
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11692.JPEG
+car 35 4 537 474
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_9667.JPEG
+car 10 6 618 460
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_6431.JPEG
+car 60 193 629 465
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12586.JPEG
+car 19 133 631 414
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_2430.JPEG
+car 42 104 584 392
+person 317 64 455 396
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_1928.JPEG
+person 407 57 573 441
+car 14 122 554 440
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12326.JPEG
+car 16 23 636 464
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_9132.JPEG
+car 47 69 605 448
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11181.JPEG
+car 3 75 639 429
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_13899.JPEG
+car 46 79 547 430
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_9906.JPEG
+car 5 173 614 453
+car 329 3 639 154
+car 7 10 319 146
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_1286.JPEG
+car 64 187 604 444
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12457.JPEG
+car 43 68 582 459
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_15024.JPEG
+car 65 133 582 372
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11020.JPEG
+car 35 140 539 471
+car 1 114 574 389
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_3029.JPEG
+car 15 101 572 469
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11281.JPEG
+car 38 79 629 461
+person 43 109 202 423
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_14998.JPEG
+car 67 22 615 440
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8643.JPEG
+car 9 11 629 468
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12345.JPEG
+car 12 40 630 450
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12351.JPEG
+car 5 9 637 468
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_6663.JPEG
+car 3 5 640 466
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_12398.JPEG
+car 18 2 537 472
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_13675.JPEG
+car 4 3 572 475
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8079.JPEG
+car 15 84 632 419
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_14667.JPEG
+car 34 109 637 444
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_10999.JPEG
+car 215 280 396 375
+car 376 289 519 368
+car 9 277 209 388
+car 192 294 337 354
+person 316 291 364 373
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_13148.JPEG
+car 53 90 571 399
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_5895.JPEG
+car 31 32 635 453
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8929.JPEG
+car 15 75 631 476
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8131.JPEG
+car 24 103 634 462
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_567.JPEG
+car 6 128 622 368
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_14955.JPEG
+car 28 34 623 450
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_2548.JPEG
+car 24 67 635 323
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_11010.JPEG
+car 17 80 629 405
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_4378.JPEG
+car 336 166 586 333
+car 11 146 358 457
+person 294 161 354 285
+car 218 156 314 248
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_155.JPEG
+car 26 67 540 449
+car 447 74 633 239
+car 159 10 534 156
+car 5 73 299 216
+person 83 161 274 451
+person 354 117 467 247
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_7027.JPEG
+car 50 83 635 440
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_2015.JPEG
+car 6 9 638 472
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_137.JPEG
+car 4 2 627 466
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_8694.JPEG
+car 8 54 560 462
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_1058.JPEG
+car 9 25 626 466
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_15141.JPEG
+car 205 69 557 440
+person 149 22 329 474
+person 139 27 252 416
+person 86 30 219 364
+person 4 3 145 405
+
+http://140.115.152.223:7001/data/dataset/car/n02960352_13143.JPEG
+person 44 133 257 394
+person 38 106 350 443
+person 379 88 555 418
+person 477 106 633 465

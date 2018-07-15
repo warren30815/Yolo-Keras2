@@ -1,0 +1,1579 @@
+﻿http://140.115.152.223:7001/data/dataset/toilet/n04446276_89465.JPEG
+toilet 253 369 426 475
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7103.JPEG
+toilet 320 352 541 452
+toilet 55 341 249 460
+sink 42 208 374 326
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80319.JPEG
+toilet 627 166 296 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10878.JPEG
+toilet 170 152 321 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_37327.JPEG
+toilet 217 35 491 235
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7837.JPEG
+toilet 560 277 437 354
+sink 635 345 422 443
+sink 226 265 71 421
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32153.JPEG
+toilet 62 165 389 434
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_55236.JPEG
+toilet 22 313 144 443
+toilet 124 295 216 391
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_92774.JPEG
+toilet 14 15 191 316
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_47674.JPEG
+toilet 338 296 185 475
+sink 181 326 15 477
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7886.JPEG
+toilet 112 166 332 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11269.JPEG
+toilet 172 127 500 297
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_75647.JPEG
+toilet 308 304 535 479
+door 335 478 5 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2791.JPEG
+sink 620 230 353 440
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33744.JPEG
+toilet 107 158 390 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_6071.JPEG
+toilet 113 112 493 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_77627.JPEG
+cat 319 133 418 321
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_61126.JPEG
+toilet 471 7 164 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_83274.JPEG
+toilet 638 103 323 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_4475.JPEG
+toilet 141 63 395 334
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_57957.JPEG
+toilet 17 10 600 395
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9851.JPEG
+toilet 77 241 362 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9851.JPEG
+sink 631 91 410 266
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_65114.JPEG
+toilet 237 308 492 465
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_62110.JPEG
+toilet 551 19 217 398
+cat 115 106 390 312
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_94662.JPEG
+toilet 71 62 551 440
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28035.JPEG
+toilet 332 212 550 440
+door 229 479 6 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32439.JPEG
+toilet 188 187 408 435
+door 5 1 182 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1997.JPEG
+toilet 3 478 635 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_38969.JPEG
+toilet 166 58 440 425
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2990.JPEG
+toilet 59 237 174 424
+toilet 431 220 554 394
+sink 254 175 392 251
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36299.JPEG
+toilet 632 276 349 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8719.JPEG
+toilet 221 232 504 469
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_47277.JPEG
+toilet 158 112 439 400
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2296.JPEG
+toilet 130 76 503 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3194.JPEG
+toilet 96 62 273 449
+sink 384 191 558 431
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19871.JPEG
+toilet 67 33 594 442
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_90414.JPEG
+toilet 538 13 122 343
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9876.JPEG
+toilet 351 219 597 419
+sink 41 220 366 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_100495.JPEG
+toilet 161 97 577 431
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_4805.JPEG
+toilet 22 394 242 480
+sink 483 353 638 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19116.JPEG
+toilet 106 1 481 409
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25949.JPEG
+toilet 116 69 503 448
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_84642.JPEG
+toilet 569 146 345 390
+sink 127 105 408 218
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_61356.JPEG
+toilet 123 259 408 442
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3682.JPEG
+cat 512 24 50 389
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_77953.JPEG
+toilet 103 15 610 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_4947.JPEG
+toilet 443 210 543 379
+sink 225 179 72 329
+door 507 467 634 6
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_98497.JPEG
+toilet 166 233 466 479
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_40805.JPEG
+toilet 46 257 270 468
+toilet 271 258 461 456
+toilet 455 279 638 459
+toilet 7 128 151 252
+toilet 113 121 218 213
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_84924.JPEG
+toilet 380 224 569 410
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25806.JPEG
+toilet 618 154 205 450
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_85260.JPEG
+toilet 149 284 433 459
+person 494 85 307 348
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73679.JPEG
+toilet 554 476 216 289
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26565.JPEG
+toilet 27 223 518 448
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30063.JPEG
+toilet 101 333 415 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_15241.JPEG
+sink 278 13 641 194
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33760.JPEG
+toilet 106 88 495 314
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18610.JPEG
+toilet 71 217 236 447
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26479.JPEG
+toilet 71 58 591 416
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_34230.JPEG
+toilet 442 406 636 478
+sink 275 250 2 387
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10308.JPEG
+toilet 16 24 559 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_60730.JPEG
+toilet 119 148 293 368
+toilet 418 147 579 372
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_12085.JPEG
+toilet 131 10 509 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20541.JPEG
+toilet 130 100 384 400
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10624.JPEG
+toilet 155 325 266 446
+sink 11 361 132 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10624.JPEG
+door 365 92 578 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11603.JPEG
+toilet 453 80 10 381
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19137.JPEG
+toilet 56 12 485 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8065.JPEG
+sink 233 67 513 343
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_77834.JPEG
+toilet 167 3 506 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_17465.JPEG
+door 205 73 458 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5612.JPEG
+cat 639 16 205 338
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23785.JPEG
+sink 327 276 624 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5369.JPEG
+toilet 149 279 419 462
+person 283 5 615 369
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2166.JPEG
+person 145 12 596 367
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3628.JPEG
+person 279 164 380 263
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11575.JPEG
+toilet 119 266 374 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3731.JPEG
+toilet 311 283 68 444
+sink 374 248 627 360
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_4275.JPEG
+toilet 198 241 371 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24124.JPEG
+toilet 145 244 425 437
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_22694.JPEG
+toilet 204 224 480 407
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_45901.JPEG
+sink 169 221 314 314
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_94315.JPEG
+toilet 64 10 576 454
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68039.JPEG
+toilet 267 162 501 340
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68411.JPEG
+toilet 172 386 366 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_38644.JPEG
+toilet 97 178 249 435
+toilet 379 192 492 438
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28071.JPEG
+toilet 633 233 333 452
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10796.JPEG
+toilet 353 254 569 464
+toilet 296 248 148 464
+toilet 402 169 254 317
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_58344.JPEG
+toilet 167 245 474 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_40560.JPEG
+person 462 37 83 347
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_51768.JPEG
+toilet 121 65 455 383
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_84804.JPEG
+toilet 116 160 470 365
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_79196.JPEG
+toilet 2 4 401 463
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14754.JPEG
+person 227 330 413 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7449.JPEG
+person 16 5 350 350
+cat 119 149 566 375
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19522.JPEG
+toilet 81 12 401 445
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_38430.JPEG
+toilet 7 198 210 457
+sink 281 87 517 249
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18542.JPEG
+toilet 26 127 575 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_86741.JPEG
+toilet 150 93 470 418
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1929.JPEG
+toilet 233 183 370 460
+sink 344 239 543 411
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26284.JPEG
+toilet 500 123 45 450
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_58099.JPEG
+toilet 316 245 635 462
+sink 369 159 2 396
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80038.JPEG
+toilet 572 75 106 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30183.JPEG
+toilet 124 20 506 454
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27655.JPEG
+toilet 76 102 457 442
+door 638 4 411 445
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26180.JPEG
+cat 155 6 447 447
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_79279.JPEG
+toilet 139 150 502 463
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11755.JPEG
+toilet 611 11 2 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5855.JPEG
+sink 311 75 618 295
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82682.JPEG
+toilet 42 454 429 76
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_58932.JPEG
+toilet 124 218 469 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68847.JPEG
+sink 518 297 239 419
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19627.JPEG
+toilet 4 12 632 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_85088.JPEG
+toilet 139 192 327 472
+door 635 471 465 18
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24659.JPEG
+toilet 334 291 490 472
+cat 268 228 420 315
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7032.JPEG
+car 10 380 296 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33472.JPEG
+toilet 146 239 454 465
+sink 176 255 1 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26911.JPEG
+sink 7 258 249 355
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_35662.JPEG
+toilet 252 296 440 411
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_78011.JPEG
+toilet 546 400 360 478
+sink 321 307 103 423
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_78636.JPEG
+toilet 51 243 437 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3587.JPEG
+toilet 289 304 470 388
+sink 184 332 380 435
+sink 243 248 47 355
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18092.JPEG
+toilet 83 20 558 465
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_38298.JPEG
+toilet 223 246 392 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_17118.JPEG
+toilet 31 101 261 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_17118.JPEG
+sink 641 252 441 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68219.JPEG
+sink 215 309 332 344
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41117.JPEG
+toilet 65 128 221 397
+toilet 340 165 501 292
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_987.JPEG
+toilet 41 120 252 379
+toilet 401 126 599 298
+person 329 83 212 466
+person 330 74 435 478
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16340.JPEG
+person 549 30 338 445
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7251.JPEG
+toilet 37 140 300 411
+sink 3 477 242 389
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25623.JPEG
+toilet 46 17 495 396
+cat 229 150 422 291
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36443.JPEG
+toilet 531 176 251 446
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18466.JPEG
+cat 195 224 540 362
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26532.JPEG
+toilet 137 38 530 439
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_13691.JPEG
+toilet 47 33 494 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14353.JPEG
+toilet 137 47 551 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_101842.JPEG
+toilet 5 189 287 468
+sink 634 201 491 356
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_77733.JPEG
+toilet 116 134 471 416
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32806.JPEG
+toilet 11 474 635 13
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_64573.JPEG
+toilet 145 19 477 437
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41978.JPEG
+toilet 79 307 182 446
+toilet 182 287 245 380
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27335.JPEG
+toilet 65 16 545 478
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8255.JPEG
+toilet 199 404 329 480
+sink 29 315 201 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25285.JPEG
+toilet 596 185 239 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19595.JPEG
+sink 148 268 558 423
+door 637 9 544 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_61463.JPEG
+door 641 2 469 477
+toilet 166 353 446 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_6356.JPEG
+toilet 311 157 582 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9557.JPEG
+toilet 77 122 297 420
+door 636 8 524 475
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5937.JPEG
+door 467 7 639 478
+toilet 332 356 518 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_31560.JPEG
+toilet 146 127 497 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19367.JPEG
+toilet 148 15 503 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_57768.JPEG
+sink 123 17 595 343
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_70978.JPEG
+toilet 164 219 515 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_34177.JPEG
+toilet 5 344 243 468
+sink 580 343 443 437
+door 635 4 538 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9800.JPEG
+door 637 10 482 451
+toilet 333 218 458 407
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_441.JPEG
+toilet 125 101 503 464
+sink 136 13 504 157
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_64458.JPEG
+sink 202 65 481 165
+toilet 166 111 464 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14254.JPEG
+toilet 298 260 512 449
+cat 402 227 131 420
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82265.JPEG
+toilet 502 5 35 395
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19832.JPEG
+sink 76 268 450 464
+sink 302 208 563 358
+door 517 47 592 400
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14060.JPEG
+toilet 153 13 490 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_59999.JPEG
+toilet 134 41 489 420
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14964.JPEG
+toilet 581 7 118 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20102.JPEG
+toilet 222 45 377 259
+sink 414 55 639 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1889.JPEG
+toilet 74 191 342 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_37067.JPEG
+toilet 121 42 416 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14919.JPEG
+toilet 154 22 462 380
+person 638 105 329 450
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27653.JPEG
+toilet 494 31 122 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_45079.JPEG
+toilet 62 329 264 473
+sink 635 342 341 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82789.JPEG
+toilet 159 9 638 464
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20931.JPEG
+toilet 254 295 407 468
+door 292 475 51 34
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10821.JPEG
+door 635 7 431 462
+toilet 287 404 396 480
+sink 199 230 28 381
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_29690.JPEG
+toilet 8 15 558 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_93848.JPEG
+toilet 197 85 534 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68004.JPEG
+toilet 128 277 519 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_309.JPEG
+toilet 527 3 253 433
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_85343.JPEG
+toilet 227 85 402 382
+toilet 2 85 128 406
+toilet 391 125 507 325
+toilet 480 139 572 298
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_84226.JPEG
+toilet 241 200 342 329
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_101154.JPEG
+toilet 588 27 244 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24996.JPEG
+toilet 155 254 269 353
+door 337 85 392 409
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3259.JPEG
+toilet 630 205 346 470
+person 24 416 495 38
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23593.JPEG
+door 128 6 371 407
+door 332 18 472 370
+door 461 18 590 347
+door 2 5 142 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_86691.JPEG
+door 635 476 485 127
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24981.JPEG
+toilet 622 202 444 464
+person 246 127 565 384
+door 143 4 4 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_96936.JPEG
+toilet 56 130 250 455
+toilet 373 139 528 446
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32841.JPEG
+toilet 614 80 107 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16543.JPEG
+toilet 14 38 623 440
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_57010.JPEG
+door 322 458 118 17
+door 324 26 487 444
+door 636 41 490 449
+door 2 8 140 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_92228.JPEG
+toilet 399 268 524 461
+sink 63 235 225 352
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30313.JPEG
+toilet 311 219 557 412
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24058.JPEG
+person 110 34 576 332
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_34775.JPEG
+toilet 61 172 260 368
+toilet 233 191 401 377
+toilet 407 230 554 359
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28449.JPEG
+person 176 71 532 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41445.JPEG
+toilet 11 19 452 243
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73789.JPEG
+toilet 185 91 455 348
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_29825.JPEG
+toilet 528 20 76 452
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16266.JPEG
+toilet 521 56 283 348
+cat 326 185 402 245
+cat 227 181 317 309
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5591.JPEG
+toilet 119 236 420 431
+sink 325 188 579 345
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_22502.JPEG
+toilet 115 303 558 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14560.JPEG
+sink 566 237 309 380
+door 89 4 174 328
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11294.JPEG
+toilet 373 68 515 345
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5889.JPEG
+person 535 193 599 323
+door 115 97 292 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28991.JPEG
+toilet 170 255 321 353
+sink 432 310 262 437
+sink 405 229 630 431
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9160.JPEG
+toilet 112 7 536 397
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_64746.JPEG
+toilet 139 82 510 394
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33396.JPEG
+toilet 74 85 218 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18274.JPEG
+toilet 145 289 476 419
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_98866.JPEG
+sink 153 133 451 417
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80444.JPEG
+toilet 251 155 533 397
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_64674.JPEG
+toilet 358 237 497 320
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_15432.JPEG
+person 46 86 546 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30897.JPEG
+toilet 113 218 281 368
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_31914.JPEG
+toilet 89 149 215 339
+person 229 68 438 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_61124.JPEG
+toilet 13 193 113 335
+toilet 146 187 237 333
+toilet 277 194 357 341
+toilet 398 187 485 335
+toilet 524 190 608 327
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_89404.JPEG
+toilet 608 44 190 437
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20140.JPEG
+person 360 191 485 450
+person 99 231 219 438
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3211.JPEG
+toilet 107 179 549 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80837.JPEG
+toilet 102 19 544 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73860.JPEG
+toilet 604 134 212 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_31054.JPEG
+toilet 260 218 377 404
+toilet 38 323 224 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_101279.JPEG
+toilet 34 73 378 450
+person 506 116 253 441
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_45739.JPEG
+toilet 381 221 147 405
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_13961.JPEG
+toilet 134 223 447 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_87213.JPEG
+toilet 128 26 476 456
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_40335.JPEG
+toilet 632 4 347 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2493.JPEG
+toilet 78 67 487 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8696.JPEG
+toilet 280 257 546 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30567.JPEG
+toilet 286 238 375 396
+sink 157 242 28 417
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_58826.JPEG
+toilet 482 285 208 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33718.JPEG
+toilet 44 185 380 420
+person 193 40 481 411
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3808.JPEG
+toilet 115 248 242 393
+door 628 55 344 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_38183.JPEG
+toilet 566 79 278 476
+sink 5 395 225 38
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36440.JPEG
+toilet 512 481 199 98
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16477.JPEG
+toilet 68 76 343 410
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_99476.JPEG
+toilet 596 161 2 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_21200.JPEG
+toilet 324 269 620 459
+sink 10 232 285 371
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_35897.JPEG
+toilet 133 49 502 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2612.JPEG
+toilet 197 23 468 425
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_76918.JPEG
+toilet 197 235 443 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14096.JPEG
+toilet 190 161 420 450
+sink 361 19 621 150
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_67766.JPEG
+toilet 163 292 197 344
+toilet 257 286 300 359
+toilet 365 292 389 357
+door 407 210 446 380
+door 515 214 566 380
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_65443.JPEG
+toilet 596 160 467 416
+toilet 434 142 317 395
+toilet 288 125 183 377
+toilet 183 170 62 336
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_68865.JPEG
+toilet 17 10 537 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_86885.JPEG
+toilet 98 239 165 345
+toilet 156 228 216 321
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_83553.JPEG
+toilet 240 60 641 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_42892.JPEG
+toilet 215 230 393 408
+person 292 28 563 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_77427.JPEG
+toilet 584 19 170 296
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36291.JPEG
+toilet 486 214 332 457
+toilet 329 130 203 358
+toilet 217 116 128 292
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23311.JPEG
+toilet 453 475 153 238
+sink 161 111 491 266
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2484.JPEG
+person 98 20 273 441
+person 400 97 533 395
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_42430.JPEG
+toilet 161 211 455 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36319.JPEG
+toilet 218 298 398 468
+door 1 4 157 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11951.JPEG
+toilet 481 116 268 386
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23037.JPEG
+person 587 40 226 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19702.JPEG
+toilet 133 213 224 342
+toilet 256 208 365 341
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_58046.JPEG
+toilet 206 124 489 377
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8934.JPEG
+toilet 95 10 523 468
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_56051.JPEG
+toilet 318 7 118 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_74680.JPEG
+toilet 177 224 478 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_71037.JPEG
+toilet 29 49 597 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_89373.JPEG
+toilet 259 260 438 407
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_21672.JPEG
+toilet 518 61 275 306
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_13242.JPEG
+toilet 125 17 542 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1102.JPEG
+toilet 161 171 503 468
+sink 173 77 474 182
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_56910.JPEG
+sink 356 31 549 158
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_12866.JPEG
+toilet 92 86 548 378
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36148.JPEG
+toilet 557 76 65 456
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_78687.JPEG
+toilet 251 298 387 383
+door 639 4 434 400
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_67378.JPEG
+toilet 139 14 608 469
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_177.JPEG
+toilet 152 45 529 437
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41866.JPEG
+toilet 271 144 418 329
+door 626 7 488 468
+sink 140 109 11 270
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_81324.JPEG
+toilet 605 197 347 471
+toilet 467 240 350 341
+toilet 437 137 265 336
+toilet 351 133 211 281
+toilet 288 115 173 252
+toilet 218 122 119 225
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7137.JPEG
+toilet 563 98 94 440
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_71281.JPEG
+toilet 379 322 596 471
+toilet 62 309 248 434
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11365.JPEG
+person 597 14 116 459
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_46188.JPEG
+toilet 164 255 625 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25878.JPEG
+toilet 324 12 544 411
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27592.JPEG
+toilet 402 63 139 420
+sink 617 66 365 304
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_88626.JPEG
+toilet 132 113 548 463
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19952.JPEG
+toilet 437 384 251 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_4594.JPEG
+toilet 74 17 630 376
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5240.JPEG
+toilet 160 64 440 340
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5942.JPEG
+toilet 635 174 261 468
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_96067.JPEG
+toilet 386 204 476 391
+toilet 202 312 288 367
+door 629 7 473 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_71300.JPEG
+sink 317 111 629 262
+person 43 31 365 422
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41822.JPEG
+toilet 269 294 446 379
+sink 157 293 366 427
+sink 2 234 183 306
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27146.JPEG
+toilet 398 84 555 412
+toilet 202 86 408 423
+toilet 34 88 229 409
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11823.JPEG
+toilet 180 135 599 445
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1128.JPEG
+toilet 95 233 426 444
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_96090.JPEG
+toilet 122 135 311 445
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5065.JPEG
+toilet 461 279 91 459
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7051.JPEG
+toilet 122 14 608 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_67227.JPEG
+toilet 176 108 509 438
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_37939.JPEG
+toilet 217 10 454 470
+door 641 477 503 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_53180.JPEG
+toilet 251 162 429 358
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30360.JPEG
+toilet 118 69 510 438
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19518.JPEG
+toilet 22 2 635 477
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7900.JPEG
+toilet 68 77 325 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1132.JPEG
+toilet 97 34 556 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73517.JPEG
+toilet 202 232 479 428
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_70310.JPEG
+toilet 64 197 169 432
+sink 529 77 635 288
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9326.JPEG
+sink 283 72 477 219
+toilet 143 173 332 332
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33730.JPEG
+toilet 151 113 364 317
+sink 426 117 636 348
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5467.JPEG
+toilet 140 242 459 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41293.JPEG
+toilet 40 17 289 459
+toilet 386 6 625 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32719.JPEG
+toilet 447 397 207 480
+sink 463 288 614 370
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_47442.JPEG
+toilet 107 155 506 375
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_71516.JPEG
+toilet 311 70 611 397
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_33487.JPEG
+toilet 161 52 615 402
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_72578.JPEG
+toilet 614 269 201 450
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36675.JPEG
+toilet 217 126 398 363
+sink 19 123 219 276
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_61153.JPEG
+toilet 173 256 450 422
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_65043.JPEG
+toilet 217 126 499 358
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10271.JPEG
+toilet 229 245 506 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_37611.JPEG
+toilet 503 196 17 475
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_96902.JPEG
+toilet 479 365 612 471
+sink 131 219 312 337
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_66259.JPEG
+toilet 152 56 512 429
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_67850.JPEG
+toilet 151 94 528 373
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23154.JPEG
+toilet 1 120 299 466
+sink 635 389 323 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_48556.JPEG
+toilet 46 71 597 416
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_76465.JPEG
+toilet 611 13 110 388
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_27266.JPEG
+toilet 540 13 82 460
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14281.JPEG
+toilet 86 6 507 470
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_54496.JPEG
+toilet 107 216 348 470
+sink 401 200 570 398
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16158.JPEG
+toilet 91 128 517 480
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_72849.JPEG
+toilet 362 472 169 232
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_56047.JPEG
+toilet 572 263 338 458
+sink 275 151 1 431
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14751.JPEG
+toilet 185 315 434 479
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_29940.JPEG
+toilet 221 35 635 447
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_34668.JPEG
+toilet 182 173 447 437
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7152.JPEG
+door 633 2 451 479
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11554.JPEG
+toilet 594 283 445 392
+sink 91 186 283 328
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20238.JPEG
+person 86 166 198 356
+person 380 9 630 460
+sink 398 394 140 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10879.JPEG
+toilet 69 112 363 441
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_53933.JPEG
+toilet 35 19 294 404
+toilet 628 23 341 387
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_69462.JPEG
+toilet 464 77 89 417
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82483.JPEG
+toilet 350 10 128 382
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3495.JPEG
+toilet 174 164 520 476
+cat 124 101 557 179
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14050.JPEG
+toilet 52 29 621 464
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_56500.JPEG
+toilet 221 110 478 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_62337.JPEG
+toilet 503 217 132 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_9073.JPEG
+toilet 11 229 266 467
+sink 626 232 379 438
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_96535.JPEG
+toilet 3 472 219 162
+toilet 492 217 305 413
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_72009.JPEG
+toilet 188 23 437 479
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_11380.JPEG
+sink 163 314 4 374
+sink 33 284 180 321
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1974.JPEG
+toilet 545 233 397 444
+sink 97 334 240 443
+sink 142 218 250 288
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_41727.JPEG
+sink 221 189 480 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_57303.JPEG
+sink 185 58 539 434
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_48764.JPEG
+sink -1 13 612 465
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1060.JPEG
+person 56 155 612 468
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_59423.JPEG
+toilet 166 80 482 398
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73061.JPEG
+toilet 624 274 299 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_6486.JPEG
+toilet 362 284 536 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_64409.JPEG
+toilet 326 266 172 437
+sink 224 71 504 204
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7285.JPEG
+toilet 445 477 257 316
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7705.JPEG
+toilet 104 161 546 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1713.JPEG
+toilet 26 1 288 460
+toilet 315 10 563 401
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_79307.JPEG
+person 137 37 322 398
+toilet 437 162 280 315
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2385.JPEG
+toilet 154 99 521 454
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14969.JPEG
+person 1 146 145 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_60316.JPEG
+toilet 179 369 428 478
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_84427.JPEG
+toilet -1 203 200 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_16864.JPEG
+toilet 167 69 482 417
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2917.JPEG
+toilet 82 268 188 390
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_3737.JPEG
+toilet 633 9 226 459
+cat 16 68 519 349
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_53256.JPEG
+toilet 296 200 509 363
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36366.JPEG
+sink 557 245 20 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25054.JPEG
+toilet 8 300 284 472
+sink 635 328 504 236
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_86079.JPEG
+toilet 617 233 303 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_94729.JPEG
+toilet 1 11 555 450
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_15256.JPEG
+toilet 432 29 204 361
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5410.JPEG
+person 200 77 486 373
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_92968.JPEG
+toilet 88 7 584 441
+cat 236 177 401 285
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_12204.JPEG
+toilet 1 51 597 396
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_73478.JPEG
+toilet 11 28 404 384
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_17489.JPEG
+toilet 636 236 493 459
+sink 21 240 255 420
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2047.JPEG
+toilet 623 240 440 402
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10721.JPEG
+toilet 472 21 136 477
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80374.JPEG
+toilet 182 50 497 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_100420.JPEG
+toilet 89 240 479 442
+sink 219 33 546 187
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_34409.JPEG
+toilet 636 4 64 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24202.JPEG
+toilet 617 287 367 472
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5586.JPEG
+toilet 142 193 589 449
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_15506.JPEG
+toilet 164 142 533 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5703.JPEG
+toilet 128 470 363 338
+sink 301 318 623 431
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_31266.JPEG
+sink 78 229 249 359
+sink 224 241 339 315
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_49909.JPEG
+toilet 561 227 497 347
+toilet 434 241 356 335
+toilet 295 235 217 332
+toilet 137 235 55 341
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26883.JPEG
+toilet 593 17 16 473
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82164.JPEG
+toilet 176 78 540 474
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_31522.JPEG
+toilet 422 224 563 444
+sink 284 290 420 443
+sink 90 197 288 318
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_6033.JPEG
+sink 395 265 612 453
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28845.JPEG
+toilet 85 23 624 425
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_13949.JPEG
+toilet 127 67 245 266
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_62951.JPEG
+toilet 79 46 584 419
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_66400.JPEG
+toilet 67 176 393 456
+person 214 57 480 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80711.JPEG
+toilet 209 204 439 449
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_23730.JPEG
+toilet 186 472 621 187
+person 238 9 557 358
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_94654.JPEG
+toilet 37 32 581 465
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32639.JPEG
+toilet 8 5 410 453
+person 207 109 618 468
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_80292.JPEG
+toilet 218 7 476 461
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18650.JPEG
+toilet 539 211 355 476
+sink 266 181 22 428
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_8436.JPEG
+toilet 74 341 341 471
+person 347 61 630 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_83150.JPEG
+toilet 5 341 233 480
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_94434.JPEG
+toilet 482 90 174 371
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25514.JPEG
+toilet 188 185 467 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_18443.JPEG
+toilet 4 53 321 462
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26985.JPEG
+toilet 40 174 254 423
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_49929.JPEG
+toilet 25 119 383 458
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_95817.JPEG
+toilet 322 185 47 389
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_24446.JPEG
+toilet 101 51 543 423
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_89663.JPEG
+toilet 27 3 596 478
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28951.JPEG
+toilet 47 16 564 443
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_25057.JPEG
+toilet 94 61 539 457
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_1016.JPEG
+toilet 212 90 446 298
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_79889.JPEG
+toilet 131 138 540 466
+sink 102 38 574 167
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36953.JPEG
+toilet 158 70 560 464
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_55918.JPEG
+toilet 512 170 220 407
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26364.JPEG
+toilet 62 43 228 372
+toilet 502 194 626 360
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_70599.JPEG
+toilet 113 290 279 377
+sink 55 311 212 438
+door 636 475 497 4
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_74892.JPEG
+toilet 316 263 414 380
+sink 38 308 276 407
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_91717.JPEG
+sink 51 40 587 187
+toilet 492 466 118 298
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_14272.JPEG
+toilet 140 218 452 479
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26469.JPEG
+toilet 482 4 133 316
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_5345.JPEG
+sink 434 185 639 338
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_22980.JPEG
+toilet 387 262 212 362
+sink 415 218 564 289
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26952.JPEG
+toilet 147 6 531 415
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_35913.JPEG
+toilet 158 178 537 469
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_37783.JPEG
+toilet 469 378 283 464
+sink 421 298 612 438
+door 2 0 137 476
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_55587.JPEG
+toilet 212 329 476 456
+sink 382 158 522 230
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_30157.JPEG
+toilet 226 248 537 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_17901.JPEG
+toilet 528 38 49 423
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_20293.JPEG
+toilet 488 307 618 467
+person 428 23 7 467
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_21338.JPEG
+toilet 119 91 495 426
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_26355.JPEG
+sink 370 325 617 467
+sink 373 271 200 357
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_241.JPEG
+toilet 71 37 551 466
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_49631.JPEG
+toilet 520 353 617 462
+sink 10 284 312 410
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_36302.JPEG
+toilet 110 85 467 435
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_32043.JPEG
+toilet 244 276 380 410
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_82663.JPEG
+sink 640 242 424 104
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_83378.JPEG
+toilet 149 95 475 441
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_29827.JPEG
+sink 220 205 444 313
+sink 110 254 211 324
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_28711.JPEG
+sink 2 140 248 468
+sink 164 194 396 366
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2560.JPEG
+toilet 117 7 534 454
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_21281.JPEG
+toilet 182 368 276 432
+door 344 2 524 455
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_10770.JPEG
+toilet 218 130 462 395
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_42246.JPEG
+toilet 215 212 458 399
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_92865.JPEG
+toilet 302 172 434 364
+person 410 20 134 471
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_2984.JPEG
+toilet 114 140 585 465
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_69820.JPEG
+toilet 154 89 500 446
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_97202.JPEG
+toilet 345 127 88 323
+door 419 3 636 254
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_15912.JPEG
+toilet 4 7 633 442
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_341.JPEG
+toilet 482 184 257 454
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19152.JPEG
+door 5 50 194 468
+door 206 77 332 429
+door 344 75 427 389
+door 434 97 503 347
+door 504 97 563 321
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_7913.JPEG
+toilet 516 7 241 446
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_19016.JPEG
+toilet 205 177 461 478
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_83007.JPEG
+toilet 2 3 386 272
+
+http://140.115.152.223:7001/data/dataset/toilet/n04446276_35591.JPEG
+person 125 77 383 458

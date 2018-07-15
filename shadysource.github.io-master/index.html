@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="javascripts/min/filesaver.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="icon" href="images/blacktocat.png">
+
+    <title>An annotating image TOOL</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <h1>shadySource.GitHub.io</h1>
+        <h2>by Alec Graves</h2>
+
+        <section id="gitLink">
+          <a href="https://github.com/shadySource" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h3>
+<!--
+<a id="welcome-to-github-page" class="anchor" href="#welcome-to-github-page" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to my GitHub Page!</h3>
+<p>This is a page that I created to facilitate the distribution of labor-intensive tasks. I have created a lightweight javascript app for this site that will allow people to volunteer their time and label data. Once a sufficient number of data labels have been submitted, I will begin training a <a href="https://github.com/shadySource/yolo-keras">neural network</a> to find patterns in the labeled data.</p>
+-->
+<h3>
+<a id="data-labeling" class="anchor" href="#data-labeling" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Labeler</h3>
+<div class="dropdown">
+  <button id='dataBtn' class="dropbtn" type="button" data-toggle="dropdown">Choose Dataset</button>
+  <div id="dataList" class="dropdown-content">
+    <!--<a id="link1" href="#">Link 1</a>
+    <a id="link2" href="#">Link 2</a>
+    <a id="link3" href="#">Link 3</a>-->
+  </div>
+</div>
+<canvas id="pictureCanvas" width="640" height="480" style="border:1px solid #000000;"></canvas>
+<p id="canvasDescription"></p>
+<button id="PersonBtn" class="btn">Person</button>
+<button id="BicycleBtn" class="btn">Bicycle</button>
+<button id="MotorcycleBtn" class="btn">Motorcycle</button>
+<button id="CarBtn" class="btn">Car</button>
+<button id="BusBtn" class="btn">Bus</button>
+<button id="TrafficlightBtn" class="btn">Trafficlight</button>
+<button id="BusStopBtn" class="btn">BusStop</button>
+<button id="PotholeBtn" class="btn">Pothole</button>
+<button id="BenchBtn" class="btn">Bench</button>
+<button id="ChairBtn" class="btn">Chair</button>
+<button id="DogBtn" class="btn">Dog</button>
+<button id="CatBtn" class="btn">Cat</button>
+<button id="TreeBtn" class="btn">Tree</button>
+<button id="DiningtableBtn" class="btn">Diningtable</button>
+<button id="SinkBtn" class="btn">Sink</button>
+<button id="ToiletBtn" class="btn">Toilet</button>
+<button id="DoorBtn" class="btn">Door</button>
+<p><button id="undoButton" class="btn">undo</button>
+<button id="clearButton" class="btn">clear</button>
+<button id="submitButton" class="btn">Submit</button>
+<button id="unSubmitButton" class="btn">unSubmit</button>
+<button id="newImageButton" class="btn">New Image</button></p>
+<!-- <p>Name: <input type="text" id="nameBox" placeholder="( If you want credit )"> -->
+<button id="downloadButton" class="btn">download</button>
+<!-- <button id="emailButton" class="btn">email</button></p> -->
+<script src="javascripts/box_labels.js"></script></p>
+<p>Label some data, submit and download the file</p>
+<h3>
+<a id="contact" class="anchor" href="#contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact</h3>
+<p>If you would like to contact me or view my source, check out my <a href="https://github.com/shadySource/">GitHub profile</a>.
+      </section>
+    </div>
+
+
+  </body>
+</html>

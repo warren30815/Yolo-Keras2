@@ -1,0 +1,4530 @@
+﻿http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4573.JPEG
+bicycle 47 184 447 470
+bicycle 377 176 635 292
+person 204 63 461 420
+person 491 89 599 296
+car 16 108 208 195
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9221.JPEG
+motorcycle 209 50 544 440
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12279.JPEG
+bicycle 24 16 612 403
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11114.JPEG
+bicycle 51 13 608 410
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4351.JPEG
+bicycle 248 304 423 436
+person 103 203 164 339
+door 470 137 578 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3757.JPEG
+motorcycle 253 161 625 463
+bicycle 45 106 187 195
+bicycle 137 159 375 350
+person 141 40 168 115
+person 126 51 153 124
+car 32 29 82 92
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5772.JPEG
+bicycle 4 129 419 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_469.JPEG
+bicycle 15 82 295 349
+bicycle 299 87 561 312
+bicycle 419 240 628 443
+bicycle 10 252 282 443
+person 252 251 420 440
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10227.JPEG
+bicycle 213 119 605 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2336.JPEG
+bicycle 156 236 476 420
+bicycle 26 233 168 399
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5571.JPEG
+bicycle 10 8 630 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12487.JPEG
+bicycle 239 240 395 414
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_58917.JPEG
+bicycle 21 22 602 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6571.JPEG
+person 41 65 197 397
+person 421 39 564 419
+bicycle 11 235 251 450
+bicycle 280 244 593 453
+person 212 303 247 383
+person 257 300 293 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4015.JPEG
+person 220 8 415 418
+bicycle 97 222 474 470
+car 41 89 158 164
+car 153 99 236 152
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3987.JPEG
+person 130 9 407 468
+person 329 35 487 388
+bicycle 117 219 375 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6420.JPEG
+bicycle 61 142 595 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9405.JPEG
+bicycle 84 31 269 348
+bicycle 293 23 634 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8709.JPEG
+bicycle 58 230 357 395
+bicycle 474 154 612 420
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3976.JPEG
+bicycle 53 181 457 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5061.JPEG
+bicycle 316 135 605 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10536.JPEG
+bicycle 311 332 465 472
+person 340 142 453 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5761.JPEG
+bicycle 224 216 511 399
+tree 383 33 610 390
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11645.JPEG
+bicycle 72 14 599 371
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4568.JPEG
+bicycle 66 219 468 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5895.JPEG
+bicycle 50 69 533 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_59395.JPEG
+person 229 184 273 265
+person 322 184 348 243
+person 178 196 198 267
+person 191 210 218 257
+car 9 221 194 322
+bicycle 329 292 429 470
+bicycle 417 321 511 475
+bicycle 499 300 628 475
+bicycle 115 333 290 476
+door 299 144 335 261
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6203.JPEG
+person 111 238 169 467
+person 4 195 47 382
+person 69 179 108 292
+person 206 186 235 284
+person 183 189 199 281
+person 75 181 112 285
+person 36 183 64 297
+person 108 194 131 254
+bicycle 364 66 536 203
+bicycle 297 259 463 405
+bicycle 352 305 574 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7474.JPEG
+person 16 20 362 474
+car 504 67 636 182
+tree 406 5 594 141
+bicycle 224 260 593 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10164.JPEG
+bicycle 214 219 486 338
+person 290 178 317 233
+person 362 172 383 226
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2075.JPEG
+bicycle 93 197 545 414
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12430.JPEG
+bicycle 103 167 523 461
+person 177 151 205 233
+person 221 154 246 213
+person 286 26 404 386
+door 2 134 75 217
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6859.JPEG
+person 349 318 454 469
+person 64 326 152 476
+person 236 306 269 382
+person 201 305 226 354
+person 491 299 534 385
+person 431 296 471 393
+person 300 301 330 363
+bicycle 232 350 263 394
+bicycle 204 344 234 403
+bicycle 308 341 344 390
+bicycle 489 347 539 409
+bicycle 430 354 479 419
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5035.JPEG
+person 92 16 388 400
+bicycle 58 192 594 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8571.JPEG
+bicycle 43 21 610 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6973.JPEG
+bicycle 92 62 560 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11769.JPEG
+bicycle 109 200 511 466
+person 194 8 440 400
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11810.JPEG
+bicycle 82 4 560 468
+bicycle 209 8 637 322
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2190.JPEG
+bicycle 365 201 558 440
+door 80 93 190 292
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2966.JPEG
+bicycle 117 91 571 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4767.JPEG
+bicycle 16 155 536 417
+person 116 7 487 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12447.JPEG
+bicycle 74 7 577 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4250.JPEG
+bicycle 88 232 237 400
+bicycle 234 224 360 373
+person 556 152 599 305
+person 609 155 640 283
+person 585 162 609 229
+person 351 154 385 227
+car 194 173 391 267
+car 61 127 294 253
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5204.JPEG
+bicycle 168 145 493 466
+bicycle 458 136 630 329
+bicycle 35 129 227 232
+bicycle 322 118 422 190
+car 524 60 593 119
+car 576 63 636 115
+person 74 20 158 198
+person 338 38 405 157
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9243.JPEG
+person 201 218 299 402
+bicycle 129 301 335 422
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2064.JPEG
+bicycle 155 101 357 216
+bicycle 202 128 433 238
+bicycle 319 135 590 280
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9251.JPEG
+bicycle 30 27 626 436
+chair 4 18 343 281
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5011.JPEG
+bicycle 263 281 340 410
+person 272 207 330 353
+tree 393 62 482 264
+tree 461 55 550 238
+tree 524 57 612 218
+tree 253 76 322 229
+tree 313 83 398 244
+tree 144 105 252 258
+tree 49 101 152 257
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11165.JPEG
+bicycle 8 7 630 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1074.JPEG
+bicycle 21 220 339 439
+person 59 65 289 398
+person 40 67 149 222
+person 402 74 432 164
+person 456 82 502 179
+person 250 76 318 223
+bicycle 422 115 515 191
+bicycle 372 116 441 170
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_45239.JPEG
+bicycle 163 108 547 385
+person 46 90 86 199
+person 74 72 126 206
+person 113 72 172 215
+car 228 137 386 201
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3733.JPEG
+bicycle 190 108 450 274
+bicycle 260 34 361 93
+bicycle 105 34 201 92
+bicycle 70 31 132 93
+person 69 5 109 93
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10881.JPEG
+bicycle 248 284 612 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9550.JPEG
+bicycle 64 118 609 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7601.JPEG
+bicycle 87 3 636 255
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3089.JPEG
+bicycle 148 354 305 477
+bicycle 224 378 323 479
+bicycle 375 383 563 457
+person 150 201 265 471
+person 295 191 385 474
+person 489 248 533 422
+person 524 239 581 434
+person 420 322 445 381
+bicycle 25 331 99 379
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7270.JPEG
+bicycle 26 29 609 426
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10453.JPEG
+bicycle 154 216 479 431
+person 435 72 522 393
+person 491 59 544 212
+person 523 45 566 374
+person 544 60 608 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2686.JPEG
+person 296 47 382 386
+person 449 6 491 151
+person 500 2 545 144
+person 126 24 145 87
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_400.JPEG
+bicycle 301 322 496 461
+bicycle 26 309 240 456
+bicycle 506 344 641 474
+person 566 220 633 470
+person 86 184 179 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_722.JPEG
+bicycle 220 232 359 443
+person 232 96 341 382
+car 390 118 448 173
+door 12 143 131 308
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1659.JPEG
+bicycle 8 6 625 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3616.JPEG
+bicycle 4 193 634 454
+person 354 31 554 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9297.JPEG
+bicycle 173 254 293 407
+bicycle 258 259 355 397
+bicycle 329 226 404 300
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_168.JPEG
+bicycle 15 4 438 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1313.JPEG
+bicycle 45 58 568 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8322.JPEG
+bicycle 382 240 586 447
+bicycle 267 261 268 264
+bicycle 252 265 427 428
+bicycle 164 272 294 413
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11309.JPEG
+bicycle 11 7 618 401
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11773.JPEG
+bicycle 26 7 595 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4944.JPEG
+bicycle 32 20 598 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8674.JPEG
+bicycle 110 296 538 433
+person 185 205 443 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1107.JPEG
+bicycle 59 49 605 368
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2489.JPEG
+bicycle 193 259 344 367
+bicycle 397 264 531 365
+bicycle 491 249 614 353
+person 213 188 306 351
+person 427 195 503 350
+person 517 197 575 345
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11633.JPEG
+bicycle 31 19 602 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5058.JPEG
+bicycle 380 326 570 414
+person 439 243 509 419
+car 22 260 89 296
+tree 129 225 287 311
+tree 382 220 606 293
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6277.JPEG
+bicycle 4 215 637 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2930.JPEG
+bicycle 152 241 368 478
+bicycle 40 206 273 416
+bicycle 459 142 521 229
+person 185 18 357 398
+person 97 74 215 278
+person 21 113 101 322
+person 446 113 472 205
+person 469 77 513 210
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2108.JPEG
+bicycle 330 246 621 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4257.JPEG
+bicycle 2 5 618 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5836.JPEG
+bicycle 405 410 514 441
+person 436 374 478 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8097.JPEG
+person 226 120 307 360
+bicycle 179 227 405 396
+car 400 133 500 201
+car 488 119 596 195
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6551.JPEG
+bicycle 23 51 612 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2012.JPEG
+bicycle 26 4 549 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7410.JPEG
+bicycle 470 260 601 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8213.JPEG
+person 105 67 492 327
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7108.JPEG
+bicycle 45 98 596 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12760.JPEG
+bicycle 142 198 440 432
+bicycle 52 181 162 263
+person 49 147 77 229
+person 88 141 134 260
+person 153 149 183 253
+person 187 149 222 257
+person 441 147 441 149
+person 435 141 462 261
+person 461 138 504 261
+person 489 154 521 266
+person 509 136 541 263
+person 545 144 583 269
+person 593 140 622 287
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1020.JPEG
+person 99 13 465 447
+bicycle 21 171 604 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_21593.JPEG
+person 296 123 399 383
+person 428 120 493 317
+person 490 124 538 262
+person 230 123 269 234
+person 173 139 197 200
+bicycle 166 164 211 197
+bicycle 232 181 283 249
+bicycle 303 223 412 444
+bicycle 409 204 508 339
+bicycle 280 168 315 209
+person 283 138 318 200
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5859.JPEG
+person 148 9 363 443
+person 62 67 197 365
+bicycle 131 201 432 474
+bicycle 41 196 213 390
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8231.JPEG
+person 43 4 639 464
+bicycle 8 130 621 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8257.JPEG
+bicycle 50 22 615 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12460.JPEG
+bicycle 313 250 504 401
+person 374 128 490 365
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12167.JPEG
+person 262 44 506 438
+bicycle 15 177 491 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1014.JPEG
+bicycle 5 6 635 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3092.JPEG
+bicycle 58 218 243 361
+person 67 140 226 319
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7319.JPEG
+bicycle 196 9 448 215
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12157.JPEG
+bicycle 504 5 635 205
+bicycle 445 12 547 201
+bicycle 369 16 474 191
+bicycle 334 240 415 421
+bicycle 377 256 462 453
+bicycle 448 291 542 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8945.JPEG
+bicycle 130 153 586 317
+bicycle 99 60 278 161
+bicycle 268 60 389 150
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_676.JPEG
+bicycle 9 4 631 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_596.JPEG
+bicycle 31 110 607 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2268.JPEG
+bicycle 98 255 439 469
+car 415 131 639 257
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8423.JPEG
+bicycle 357 183 497 312
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5753.JPEG
+person 247 116 301 340
+person 294 76 342 320
+person 303 90 372 386
+motorcycle 50 148 152 240
+person 211 120 246 207
+person 156 121 174 176
+person 41 111 77 222
+person 456 120 487 209
+person 572 110 609 213
+car 485 127 616 205
+bicycle 387 228 539 393
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_500.JPEG
+bicycle 6 4 632 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7851.JPEG
+person 40 28 514 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_663.JPEG
+person 191 5 478 435
+bicycle 230 204 410 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4761.JPEG
+bicycle 55 246 490 455
+chair 416 249 508 360
+chair 496 236 575 347
+door 124 105 229 263
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7897.JPEG
+bicycle 36 19 634 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6467.JPEG
+bicycle 6 6 632 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_17153.JPEG
+bicycle 79 130 491 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1339.JPEG
+bicycle 6 123 600 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5380.JPEG
+bicycle 62 47 596 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8762.JPEG
+bicycle 293 328 360 461
+person 268 217 334 479
+person 383 219 451 455
+bicycle 460 315 508 436
+bicycle 148 281 221 392
+person 458 215 499 299
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12495.JPEG
+bicycle 4 89 640 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3678.JPEG
+bicycle 103 1 600 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6715.JPEG
+bicycle 5 242 308 460
+bicycle 261 279 540 470
+person 287 110 448 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11520.JPEG
+bicycle 336 271 568 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4116.JPEG
+bicycle 13 13 494 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3130.JPEG
+bicycle 217 316 605 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12701.JPEG
+bicycle 12 177 222 377
+bicycle 251 170 495 386
+bicycle 350 185 435 299
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6381.JPEG
+bicycle 32 40 623 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4765.JPEG
+bicycle 44 10 477 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2215.JPEG
+bicycle 108 11 533 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3170.JPEG
+person 359 206 448 476
+bicycle 99 317 251 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8890.JPEG
+bicycle 202 77 638 442
+tree 197 4 278 462
+tree 3 3 198 422
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5502.JPEG
+bicycle 42 133 147 364
+person 250 108 361 385
+person 352 117 442 362
+person 430 112 564 371
+bench 204 169 628 354
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11492.JPEG
+bicycle 70 141 136 357
+bicycle 127 153 204 346
+bicycle 345 110 629 411
+bicycle 193 126 287 337
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7627.JPEG
+bicycle 44 157 232 321
+bicycle 243 121 622 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10925.JPEG
+bicycle 261 161 640 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4320.JPEG
+bicycle 75 4 576 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3225.JPEG
+bicycle 57 70 593 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1957.JPEG
+bicycle 399 304 585 412
+bicycle 181 321 369 429
+bicycle 49 284 99 376
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5747.JPEG
+bicycle 29 10 631 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6131.JPEG
+bicycle 4 70 203 222
+car 4 4 322 168
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7050.JPEG
+bicycle 110 435 544 23
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5178.JPEG
+bicycle 31 12 626 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9505.JPEG
+bicycle 105 243 565 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6978.JPEG
+bicycle 254 235 524 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5631.JPEG
+bicycle 7 8 627 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2348.JPEG
+bicycle 53 12 578 436
+dog 307 204 540 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5429.JPEG
+person 55 31 203 363
+person 167 3 326 459
+person 353 86 505 456
+person 280 22 398 225
+bicycle 54 213 522 472
+car 4 10 187 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5626.JPEG
+bicycle 17 26 637 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2212.JPEG
+bicycle 215 255 424 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_66.JPEG
+bicycle 23 112 89 262
+bicycle 67 97 129 251
+bicycle 106 94 168 225
+bicycle 152 71 214 231
+bicycle 204 76 268 213
+bicycle 252 75 301 196
+bicycle 270 78 325 177
+car 401 34 493 123
+car 471 43 524 112
+car 502 24 541 95
+car 4 51 91 109
+car 90 21 219 88
+car 172 47 276 112
+person 596 7 640 150
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10373.JPEG
+bicycle 29 14 623 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3522.JPEG
+bicycle 25 4 616 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1648.JPEG
+bicycle 3 196 81 424
+person 16 88 139 394
+person 378 100 484 352
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1956.JPEG
+bicycle 128 402 319 459
+bicycle 213 255 372 326
+bicycle 347 131 498 197
+bicycle 449 2 601 72
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4406.JPEG
+bicycle 41 225 458 472
+person 175 16 378 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_44364.JPEG
+bicycle 108 298 108 305
+bicycle 99 303 289 411
+door 407 129 498 361
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7443.JPEG
+bicycle 16 275 462 475
+bicycle 453 227 535 392
+person 58 20 294 468
+person 437 91 553 346
+person 387 104 468 253
+person 349 110 410 241
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1175.JPEG
+bicycle 215 17 553 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4238.JPEG
+bicycle 10 96 252 461
+bicycle 330 91 555 474
+bicycle 127 120 453 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4702.JPEG
+bicycle 332 39 633 182
+person 129 12 208 131
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2779.JPEG
+bicycle 174 64 488 388
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8338.JPEG
+bicycle 11 176 630 467
+person 191 13 542 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4730.JPEG
+bicycle 42 134 571 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_31967.JPEG
+bicycle 40 55 627 403
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_41058.JPEG
+bicycle 10 59 613 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7078.JPEG
+bicycle 202 204 625 462
+person 353 24 570 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_42241.JPEG
+bicycle 44 41 562 357
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8951.JPEG
+bicycle 90 66 602 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_910.JPEG
+bicycle 108 335 431 480
+bicycle 251 198 451 413
+bicycle 405 132 499 250
+car 385 26 493 68
+car 517 31 553 70
+car 556 28 605 65
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8907.JPEG
+bicycle 186 32 491 209
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8157.JPEG
+bicycle 31 121 623 471
+person 297 6 612 420
+car 52 13 354 135
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1727.JPEG
+person 206 92 572 385
+person 265 53 618 352
+car 113 0 636 267
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7104.JPEG
+person 437 52 437 52
+person 407 55 540 445
+bicycle 7 151 638 474
+person 9 4 182 365
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2038.JPEG
+person 163 5 379 305
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_15627.JPEG
+bicycle 18 12 622 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_466.JPEG
+bicycle 27 129 560 412
+person 65 11 152 274
+person 263 53 304 201
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1607.JPEG
+bicycle 60 17 569 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_64485.JPEG
+person 237 107 302 348
+person 353 103 444 342
+bicycle 210 220 308 341
+bicycle 337 199 418 354
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7512.JPEG
+bicycle 220 64 618 462
+bicycle 20 138 135 242
+person 141 80 198 209
+person 101 111 129 195
+person 230 109 279 201
+person 191 112 221 191
+tree 13 4 127 181
+tree 128 7 172 141
+tree 178 0 271 131
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_17184.JPEG
+bicycle 465 203 595 300
+person 485 114 554 304
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2923.JPEG
+bicycle 296 286 417 379
+tree 479 4 593 354
+tree 414 7 500 311
+tree 345 3 442 299
+tree 284 11 397 264
+tree 212 7 323 257
+tree 160 15 265 284
+tree 79 18 197 279
+tree 134 49 208 310
+tree 17 18 91 266
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1868.JPEG
+person 69 127 101 230
+person 338 99 436 421
+bicycle 339 268 500 466
+tree 467 5 637 224
+tree 199 4 420 161
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5276.JPEG
+bicycle 61 20 601 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8435.JPEG
+bicycle 50 229 571 460
+person 267 113 458 399
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1687.JPEG
+bicycle 15 19 631 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3309.JPEG
+bicycle 194 205 411 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8563.JPEG
+bicycle 6 8 559 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12545.JPEG
+bicycle 185 296 420 443
+person 231 155 347 422
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1581.JPEG
+bicycle 54 8 628 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9360.JPEG
+bicycle 24 77 593 477
+bicycle 428 86 636 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12224.JPEG
+bicycle 25 77 636 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_15862.JPEG
+bicycle 133 74 507 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5596.JPEG
+bicycle 188 229 450 416
+door 437 12 596 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11341.JPEG
+bicycle 32 11 596 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10394.JPEG
+bicycle 73 16 576 461
+car 107 6 304 94
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3409.JPEG
+bicycle 12 10 543 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12104.JPEG
+bicycle 62 72 492 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4066.JPEG
+bicycle 23 24 626 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3127.JPEG
+person 174 25 582 460
+bicycle 264 361 617 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2765.JPEG
+bicycle 174 190 541 459
+person 205 6 378 349
+tree 384 11 598 274
+tree 8 9 125 372
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10735.JPEG
+bicycle 149 6 609 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2453.JPEG
+bicycle 343 283 480 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1170.JPEG
+bicycle 64 27 619 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1380.JPEG
+bicycle 164 307 299 368
+person 189 230 236 362
+tree 470 135 610 401
+tree 264 166 471 390
+tree 30 173 170 372
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6215.JPEG
+bicycle 295 11 638 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4039.JPEG
+person 57 172 218 476
+person 135 136 258 396
+person 317 32 524 453
+person 538 75 634 334
+bicycle 306 268 444 460
+bicycle 541 219 634 459
+bicycle 15 46 140 172
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_817.JPEG
+bicycle 332 88 458 196
+person 352 122 405 280
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4187.JPEG
+bicycle 4 16 386 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10231.JPEG
+bicycle 103 106 508 346
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_59935.JPEG
+bicycle 32 17 622 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3652.JPEG
+bicycle 200 219 426 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_736.JPEG
+bicycle 174 65 599 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12188.JPEG
+bicycle 32 22 624 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8550.JPEG
+bicycle 74 269 561 481
+person 129 42 219 474
+person 223 65 323 460
+person 300 31 423 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12154.JPEG
+bicycle 192 155 563 370
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1248.JPEG
+bicycle 40 213 161 427
+bicycle 264 269 451 446
+person 120 275 187 416
+person 58 129 121 303
+person 339 97 413 245
+person 220 231 271 398
+person 290 222 336 403
+person 479 255 532 383
+person 586 229 626 371
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12368.JPEG
+bicycle 54 50 619 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2027.JPEG
+car 15 247 61 314
+car 629 473 441 291
+bicycle 370 191 475 296
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10420.JPEG
+bicycle 91 197 345 368
+bicycle 369 205 599 331
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10707.JPEG
+bicycle 11 17 641 398
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8235.JPEG
+bicycle 292 65 603 467
+bicycle 35 102 441 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10086.JPEG
+bicycle 313 326 613 471
+person 346 101 506 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9321.JPEG
+bicycle 7 25 608 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12237.JPEG
+bicycle 187 183 340 275
+bicycle 323 288 425 369
+bicycle 449 348 515 401
+bicycle 537 347 597 385
+bicycle 5 165 144 259
+bicycle 606 312 639 344
+person 201 110 265 261
+person 362 228 403 339
+person 470 295 498 393
+person 541 288 574 369
+person 614 272 635 330
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4490.JPEG
+bicycle 350 89 637 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_21323.JPEG
+bicycle 57 268 316 397
+bicycle 238 240 474 354
+bicycle 444 250 598 355
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1255.JPEG
+bicycle 129 11 629 392
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7636.JPEG
+bicycle 20 1 575 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1672.JPEG
+bicycle 285 284 285 286
+bicycle 268 288 408 375
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7299.JPEG
+bicycle 11 15 634 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9153.JPEG
+bicycle 81 62 572 398
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2706.JPEG
+bicycle 67 81 625 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_104.JPEG
+bicycle 204 76 540 407
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4962.JPEG
+bicycle 42 64 574 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_662.JPEG
+bicycle 33 215 181 275
+bicycle 13 103 626 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_46113.JPEG
+bicycle 37 226 535 462
+person 32 15 234 381
+person 205 21 587 366
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1073.JPEG
+bicycle 106 225 509 438
+person 241 49 361 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8680.JPEG
+person 106 5 465 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10619.JPEG
+bicycle 88 53 619 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10025.JPEG
+bicycle 37 46 559 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2140.JPEG
+bicycle 40 7 464 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8662.JPEG
+bicycle 130 238 374 425
+person 182 84 279 381
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6473.JPEG
+bicycle 176 205 361 364
+bicycle 344 197 463 371
+bicycle 486 209 588 352
+bicycle 8 186 215 369
+person 184 68 254 370
+person 300 64 364 324
+person 464 76 538 327
+person 590 91 636 333
+person 17 32 104 353
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6078.JPEG
+bicycle 60 235 623 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7216.JPEG
+bicycle 61 73 591 417
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9095.JPEG
+bicycle 117 79 552 318
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11233.JPEG
+bicycle 459 348 528 421
+bicycle 384 338 433 400
+bicycle 275 348 319 397
+bicycle 193 384 228 455
+bicycle 63 320 92 375
+bicycle 92 313 106 358
+person 60 288 79 358
+person 91 280 108 332
+person 128 275 145 344
+person 175 288 238 410
+person 273 285 307 377
+person 387 292 422 383
+person 409 279 442 333
+person 458 275 503 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11848.JPEG
+bicycle 103 53 547 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1278.JPEG
+bicycle 51 28 588 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12736.JPEG
+bicycle 79 9 593 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6110.JPEG
+bicycle 210 103 457 315
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8639.JPEG
+person 284 27 446 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1111.JPEG
+person 384 93 488 410
+bicycle 230 238 540 439
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6421.JPEG
+bicycle 187 113 462 450
+person 206 20 419 363
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1837.JPEG
+bicycle 113 203 359 424
+person 126 48 263 401
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3335.JPEG
+bicycle 65 30 614 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8742.JPEG
+bicycle 222 302 314 389
+bicycle 352 287 445 386
+person 236 232 293 338
+person 368 234 411 347
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5123.JPEG
+bicycle 105 94 523 388
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_267.JPEG
+bicycle 44 28 619 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3223.JPEG
+person 120 166 180 333
+person 201 136 359 395
+person 509 164 612 353
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_54865.JPEG
+bicycle 175 246 569 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5980.JPEG
+bicycle 336 266 442 395
+person 347 145 419 371
+door 495 107 556 299
+car 169 141 300 238
+car 77 129 126 188
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6415.JPEG
+bicycle 259 248 550 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_27336.JPEG
+bicycle 15 21 630 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9521.JPEG
+bicycle 182 104 552 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5197.JPEG
+bicycle 216 222 605 455
+person 24 43 299 463
+person 298 26 502 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6485.JPEG
+bicycle 83 269 618 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4188.JPEG
+bicycle 106 150 328 380
+person 135 8 256 301
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3090.JPEG
+bicycle 166 182 166 189
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12716.JPEG
+bicycle 87 94 586 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_63.JPEG
+bicycle 160 187 513 448
+person 282 28 418 390
+person 386 42 533 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8979.JPEG
+bicycle 248 134 367 422
+bicycle 389 99 556 318
+bicycle 32 151 138 251
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_964.JPEG
+bicycle 38 158 506 480
+person 368 62 584 170
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5857.JPEG
+bicycle 16 37 481 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3517.JPEG
+bicycle 327 74 597 304
+person 414 3 564 249
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9061.JPEG
+bicycle 92 30 582 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8926.JPEG
+bicycle 70 45 579 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_62240.JPEG
+bicycle 106 273 618 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6957.JPEG
+bicycle 49 7 584 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_746.JPEG
+bicycle 119 19 540 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8063.JPEG
+bicycle 103 203 489 354
+person 171 123 367 349
+person 48 156 137 284
+person 427 150 508 284
+bicycle 412 225 587 318
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_284.JPEG
+bicycle 8 16 608 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4308.JPEG
+person 158 132 316 444
+person 47 110 183 393
+person 309 115 469 290
+bicycle 9 210 128 349
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_50410.JPEG
+bicycle 230 25 381 113
+person 264 37 356 180
+person 356 180 356 180
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9585.JPEG
+bicycle 32 44 614 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6814.JPEG
+person 278 157 444 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11879.JPEG
+person 211 22 467 456
+bicycle 25 208 603 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8442.JPEG
+bicycle 13 219 458 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2032.JPEG
+person 92 13 420 446
+bicycle 49 160 438 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4464.JPEG
+person 151 103 257 383
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7195.JPEG
+person 312 157 345 223
+person 330 145 361 212
+person 367 137 401 223
+bicycle 304 182 351 245
+bicycle 333 180 364 223
+bicycle 367 179 405 236
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2883.JPEG
+bicycle 15 12 627 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6818.JPEG
+bicycle 28 19 621 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8256.JPEG
+bicycle 274 211 623 468
+person 351 15 518 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1030.JPEG
+bicycle 113 149 505 474
+car 9 150 65 190
+car 68 136 107 181
+car 104 129 146 185
+car 147 127 193 180
+car 270 117 303 150
+tree 15 0 152 178
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6035.JPEG
+bicycle 326 301 420 383
+bicycle 163 296 220 366
+bicycle 525 275 615 333
+bicycle 389 280 440 329
+person 341 246 391 380
+person 534 229 578 329
+person 169 241 205 356
+person 390 237 415 321
+person 458 224 478 292
+car 554 219 623 270
+car 623 270 623 270
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3700.JPEG
+bicycle 200 237 346 379
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3944.JPEG
+bicycle 28 123 270 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7964.JPEG
+bicycle 79 28 517 481
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_742.JPEG
+bicycle 111 66 577 333
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7755.JPEG
+bicycle 100 243 620 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4837.JPEG
+bicycle 131 157 243 259
+bicycle 228 165 353 248
+bicycle 345 174 447 250
+car 39 61 94 97
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12103.JPEG
+bicycle 382 151 625 328
+person 461 45 535 365
+car 76 132 185 181
+car 224 124 287 170
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10721.JPEG
+bicycle 157 234 352 399
+person 221 122 297 393
+tree 289 13 448 184
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8743.JPEG
+person 397 66 539 399
+person 145 48 250 297
+bicycle 104 128 357 332
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_881.JPEG
+bicycle 329 125 457 427
+bicycle 18 176 334 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1063.JPEG
+person 314 38 413 400
+car 3 48 187 255
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3132.JPEG
+bicycle 23 30 601 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6186.JPEG
+bicycle 119 351 255 407
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1396.JPEG
+bicycle 114 31 523 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10989.JPEG
+bicycle 181 150 607 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12054.JPEG
+bicycle 186 251 470 467
+person 234 125 447 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10743.JPEG
+bicycle 117 31 494 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11136.JPEG
+person 86 138 139 285
+person 146 125 203 288
+person 174 101 406 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7430.JPEG
+person 438 97 597 344
+bicycle 282 197 638 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7802.JPEG
+bicycle 40 162 612 459
+person 26 14 285 342
+person 181 18 421 343
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3637.JPEG
+person 393 72 503 442
+bicycle 280 214 618 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_589.JPEG
+bicycle 138 259 361 453
+door 74 33 517 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_25101.JPEG
+bicycle 11 9 604 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3211.JPEG
+bicycle 187 124 609 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5462.JPEG
+bicycle 417 100 640 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_43184.JPEG
+person 230 20 351 400
+person 366 77 545 418
+bicycle 77 192 404 426
+bicycle 321 212 566 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1212.JPEG
+bicycle 87 17 625 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10841.JPEG
+bicycle 138 99 530 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11660.JPEG
+bicycle 81 70 605 387
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7331.JPEG
+bicycle 84 8 429 231
+person 204 123 418 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1747.JPEG
+bicycle 189 128 437 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8886.JPEG
+person 196 13 380 427
+bicycle 178 72 635 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3250.JPEG
+bicycle 147 207 573 474
+person 274 20 470 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2045.JPEG
+person 65 109 175 468
+person 192 145 295 428
+person 377 201 433 404
+bicycle 288 352 565 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3201.JPEG
+bicycle 116 25 570 335
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9342.JPEG
+bicycle 22 20 606 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1189.JPEG
+bicycle 289 179 610 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5124.JPEG
+bicycle 50 130 450 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4909.JPEG
+bicycle 287 23 588 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12147.JPEG
+bicycle 273 214 623 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12225.JPEG
+bicycle 174 226 260 388
+bicycle 257 194 375 337
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6883.JPEG
+bicycle 84 86 336 221
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3982.JPEG
+person 285 6 460 480
+cat 191 200 418 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9345.JPEG
+bicycle 21 42 611 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11169.JPEG
+bicycle 139 181 519 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6698.JPEG
+bicycle 120 224 360 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9077.JPEG
+bicycle 69 36 587 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1694.JPEG
+bicycle 91 200 146 293
+bicycle 143 201 229 341
+bicycle 238 208 307 315
+person 105 138 151 263
+person 152 123 216 282
+person 248 112 308 293
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_690.JPEG
+bicycle 53 35 613 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1801.JPEG
+bicycle 189 148 564 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1936.JPEG
+bicycle 303 221 485 342
+person 285 174 363 391
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1446.JPEG
+bicycle 12 41 617 408
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1707.JPEG
+bicycle 88 290 252 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10300.JPEG
+bicycle 7 122 436 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9445.JPEG
+bicycle 56 8 559 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6787.JPEG
+bicycle 279 241 603 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7852.JPEG
+bicycle 18 20 622 404
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2747.JPEG
+bicycle 245 10 606 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6892.JPEG
+bicycle 6 5 636 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7734.JPEG
+bicycle 40 14 597 420
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8185.JPEG
+bicycle 152 215 573 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5041.JPEG
+bicycle 400 218 534 443
+person 168 105 289 427
+person 443 92 573 359
+person 388 118 413 169
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3642.JPEG
+bicycle 15 11 611 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7906.JPEG
+bicycle 23 39 622 379
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7807.JPEG
+bicycle 9 16 616 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7244.JPEG
+bicycle 57 76 611 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2538.JPEG
+bicycle 45 5 604 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7535.JPEG
+bicycle 415 193 600 368
+person 441 97 567 330
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5790.JPEG
+bicycle 218 215 335 337
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1725.JPEG
+bicycle 294 280 427 405
+bus 202 164 430 250
+bus 65 178 170 230
+person 226 213 311 309
+person 5 213 58 312
+car 89 211 155 246
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5995.JPEG
+bicycle 42 88 579 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_875.JPEG
+bicycle 184 220 515 472
+person 215 71 460 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8061.JPEG
+bicycle 303 315 381 423
+bicycle 255 320 299 395
+bicycle 229 311 260 365
+person 314 265 363 391
+person 266 274 297 374
+person 231 276 266 360
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7205.JPEG
+person 219 167 393 331
+bicycle 230 258 425 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4482.JPEG
+bicycle 224 209 400 452
+person 253 96 447 411
+car 95 108 148 157
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12386.JPEG
+person 147 139 263 353
+person 324 118 500 354
+bicycle 35 178 557 414
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_607.JPEG
+bicycle 2 18 639 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5981.JPEG
+bicycle 445 190 593 319
+person 165 38 302 390
+person 286 197 386 356
+person 464 102 538 323
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12044.JPEG
+person 423 20 548 249
+bicycle 103 105 467 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8125.JPEG
+bicycle 81 7 537 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4584.JPEG
+person 195 89 345 361
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12605.JPEG
+bicycle 6 9 633 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12604.JPEG
+bicycle 193 142 554 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2435.JPEG
+bicycle 282 2 391 64
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_30055.JPEG
+bicycle 34 212 450 432
+person 70 80 186 380
+person 209 41 357 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6281.JPEG
+bicycle 140 215 405 356
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_376.JPEG
+bicycle 157 229 633 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7362.JPEG
+bicycle 23 238 119 376
+person 36 177 103 345
+person 278 198 334 335
+person 336 160 434 337
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1635.JPEG
+bicycle 151 184 495 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1267.JPEG
+person 113 163 173 288
+person 215 142 276 299
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3557.JPEG
+bicycle 144 116 455 470
+car 637 292 409 81
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11382.JPEG
+bicycle 22 160 630 445
+person 58 29 553 410
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2352.JPEG
+bicycle 82 59 453 432
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_287.JPEG
+bicycle 590 464 18 242
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1688.JPEG
+bicycle 111 95 586 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6951.JPEG
+bicycle 63 146 345 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2989.JPEG
+bicycle 300 198 619 385
+person 381 93 542 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5059.JPEG
+bicycle 25 19 630 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5110.JPEG
+door 36 190 280 450
+person 487 225 619 473
+bicycle 328 283 630 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8949.JPEG
+bicycle 230 403 269 470
+bicycle 391 402 426 466
+bicycle 429 391 454 454
+bicycle 365 400 390 453
+bicycle 178 387 224 467
+bicycle 105 387 160 464
+bicycle 455 382 476 418
+bicycle 297 369 327 416
+person 109 335 147 435
+person 181 353 219 447
+person 229 344 271 446
+person 302 346 327 397
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1613.JPEG
+bicycle 18 18 627 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2907.JPEG
+bicycle 459 1 608 93
+bicycle 445 96 613 194
+bicycle 436 209 622 284
+bicycle 444 298 624 377
+bicycle 437 387 619 470
+bicycle 222 388 419 470
+bicycle 226 296 412 379
+bicycle 227 196 406 281
+bicycle 227 104 411 183
+bicycle 232 13 412 90
+bicycle 25 12 191 87
+bicycle 16 105 195 186
+bicycle 12 199 202 283
+bicycle 20 293 198 382
+bicycle 19 388 204 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4749.JPEG
+bicycle 204 157 614 438
+person 306 29 589 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7009.JPEG
+bicycle 192 292 318 447
+bicycle 325 472 245 298
+bicycle 321 299 440 481
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8848.JPEG
+bicycle 18 46 349 229
+person 230 93 337 211
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5526.JPEG
+bicycle 374 197 575 314
+car 74 110 128 170
+car 1 109 48 192
+bicycle 4 210 449 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6505.JPEG
+bicycle 87 190 420 459
+person 391 35 482 438
+person 259 44 380 397
+person 73 38 203 409
+bicycle 486 164 608 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_977.JPEG
+bicycle 27 24 636 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8108.JPEG
+person 172 87 293 345
+person 23 101 54 187
+person 68 114 84 184
+person 79 105 108 184
+person 136 111 167 176
+person 260 114 287 180
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4759.JPEG
+bicycle 3 196 188 410
+person 4 54 141 339
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1205.JPEG
+bicycle 631 413 631 413
+bicycle 632 425 7 11
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12489.JPEG
+bicycle 65 22 596 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4341.JPEG
+bicycle 151 141 251 270
+person 166 37 213 235
+car 266 79 332 128
+car 332 77 445 156
+car 95 85 145 126
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3005.JPEG
+person 238 101 387 479
+person 355 43 544 476
+bicycle 7 268 416 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9849.JPEG
+bicycle 91 231 484 462
+person 157 104 325 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4158.JPEG
+person 451 21 617 480
+bicycle 51 326 105 400
+bicycle 385 284 512 413
+bicycle 345 284 464 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9635.JPEG
+bicycle 620 466 12 40
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2018.JPEG
+bicycle 13 6 640 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2540.JPEG
+bicycle 84 79 616 382
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5771.JPEG
+bicycle 527 379 26 36
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_40310.JPEG
+bicycle 91 122 469 478
+person 235 11 460 334
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6165.JPEG
+bicycle 17 17 626 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9569.JPEG
+bicycle 461 259 616 439
+person 360 141 469 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6644.JPEG
+person 419 167 527 451
+person 397 102 607 458
+person 97 169 210 448
+bicycle 213 139 427 320
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12162.JPEG
+bicycle 114 120 220 220
+bicycle 237 184 285 232
+person 102 59 194 180
+person 232 139 281 230
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5249.JPEG
+bicycle 150 228 379 370
+bicycle 31 6 529 276
+bicycle 387 306 547 400
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1591.JPEG
+car 292 84 439 185
+car 427 119 483 178
+person 496 98 612 398
+bicycle 454 214 624 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11443.JPEG
+bicycle 92 109 553 437
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2263.JPEG
+person 319 28 554 458
+person 4 11 209 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6330.JPEG
+bicycle 234 311 467 449
+tree 13 94 162 388
+tree 141 154 355 324
+tree 449 185 611 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12089.JPEG
+bicycle 624 409 403 252
+bicycle 339 226 594 393
+person 423 62 470 240
+person 577 60 640 261
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11301.JPEG
+bicycle 307 62 503 425
+bicycle 160 70 385 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5315.JPEG
+bicycle 183 114 465 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7140.JPEG
+bicycle 105 2 393 202
+bicycle 83 215 305 476
+bicycle 258 225 443 473
+bicycle 388 215 522 432
+bicycle 455 201 603 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7220.JPEG
+bicycle 72 60 593 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4127.JPEG
+bicycle 286 166 470 405
+bicycle 108 129 328 324
+person 308 5 478 314
+person 109 8 287 271
+car 4 51 113 143
+bicycle 507 92 554 175
+person 508 43 572 151
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6058.JPEG
+bicycle 117 240 230 385
+person 152 155 220 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5656.JPEG
+bicycle 290 240 513 480
+person 329 114 494 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3827.JPEG
+bicycle 27 82 592 455
+bicycle 453 106 637 359
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5750.JPEG
+bicycle 92 240 446 466
+person 69 75 425 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4307.JPEG
+bicycle 190 226 454 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_471.JPEG
+bicycle 65 73 563 378
+bicycle 163 26 312 110
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12643.JPEG
+bicycle 93 67 535 296
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_56035.JPEG
+bicycle 6 12 623 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9158.JPEG
+bicycle 26 187 627 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10052.JPEG
+bicycle 2 195 469 480
+bicycle 129 119 538 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3101.JPEG
+bicycle 133 79 452 409
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2720.JPEG
+bicycle 23 7 183 457
+bicycle 155 29 293 429
+bicycle 282 32 399 412
+person 394 17 570 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1195.JPEG
+bicycle 268 32 491 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1420.JPEG
+bicycle 90 54 621 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6999.JPEG
+bicycle 60 162 611 465
+person 109 12 446 426
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11280.JPEG
+bicycle 121 46 488 434
+person 421 47 504 325
+bicycle 514 166 631 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1102.JPEG
+bicycle 127 219 282 350
+person 156 166 243 331
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3174.JPEG
+bicycle 2 6 632 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9012.JPEG
+bicycle 219 268 502 449
+person 323 148 424 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10.JPEG
+bicycle 266 256 470 366
+bicycle 378 474 23 340
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7077.JPEG
+bicycle 203 209 396 411
+person 200 82 407 394
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3065.JPEG
+person 279 77 418 263
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7962.JPEG
+person 127 83 187 237
+person 486 49 604 305
+bicycle 127 154 197 270
+bicycle 401 153 623 301
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8277.JPEG
+bicycle 44 128 517 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_58003.JPEG
+bicycle 16 20 628 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2981.JPEG
+bicycle 317 56 505 192
+bicycle 477 71 640 270
+bicycle 2 167 224 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_571.JPEG
+bicycle 564 379 323 237
+bicycle 261 163 584 377
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11636.JPEG
+bicycle 66 20 575 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_706.JPEG
+bicycle 156 137 371 470
+person 324 38 407 364
+person 216 7 311 312
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_41144.JPEG
+bicycle 338 166 455 342
+bicycle 205 185 326 359
+person 182 70 357 343
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7750.JPEG
+bicycle 221 229 481 392
+person 276 116 368 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4240.JPEG
+person 291 306 340 398
+bicycle 262 345 365 405
+door 337 260 403 405
+door 413 275 462 407
+door 469 274 541 396
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6796.JPEG
+person 139 311 177 404
+person 165 291 209 400
+person 387 174 418 258
+bicycle 268 200 337 243
+bicycle 79 240 139 270
+bicycle 150 224 186 259
+bicycle 196 212 249 250
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3460.JPEG
+bicycle 40 68 633 404
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11066.JPEG
+bicycle 610 449 27 62
+bicycle 26 62 17 55
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_98.JPEG
+bicycle 134 181 498 449
+person 79 18 186 409
+person 493 474 258 61
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1495.JPEG
+person 231 214 319 469
+bicycle 220 374 310 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7584.JPEG
+bicycle 12 6 627 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8404.JPEG
+bicycle 15 12 633 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2441.JPEG
+bicycle 62 336 310 475
+person 115 205 235 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_194.JPEG
+bicycle 77 152 635 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8793.JPEG
+bicycle 78 33 354 285
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6347.JPEG
+car 482 199 630 376
+person 201 180 236 272
+person 241 177 280 258
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4545.JPEG
+bicycle 135 236 362 460
+bicycle 449 117 574 237
+person 172 87 376 451
+person 457 22 576 223
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3496.JPEG
+person 309 20 351 117
+person 349 28 386 125
+person 379 17 417 134
+person 410 19 452 121
+bicycle 231 261 550 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2356.JPEG
+bicycle 35 37 618 420
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8198.JPEG
+bicycle 449 244 479 281
+bicycle 385 246 410 284
+car 494 211 601 287
+car 163 235 235 281
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1633.JPEG
+bicycle 21 14 630 298
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4574.JPEG
+bicycle 621 474 45 8
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1372.JPEG
+bicycle 20 74 569 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2042.JPEG
+bicycle 562 422 91 54
+tree 3 248 155 83
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6328.JPEG
+bicycle 261 294 618 476
+bicycle 641 319 518 164
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_79.JPEG
+person 89 42 254 479
+person 324 12 518 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_187.JPEG
+bicycle 83 67 528 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_62595.JPEG
+bicycle 46 55 609 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_36311.JPEG
+bicycle 197 222 322 438
+bicycle 324 215 444 418
+car 137 109 272 234
+person 218 65 312 402
+person 321 89 432 354
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1741.JPEG
+bicycle 288 47 618 344
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8303.JPEG
+bicycle 9 12 620 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9996.JPEG
+bicycle 65 11 621 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2873.JPEG
+bicycle 10 10 638 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_576.JPEG
+bicycle 14 23 629 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10555.JPEG
+bicycle 6 5 634 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5683.JPEG
+bicycle 553 77 274 368
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1604.JPEG
+bicycle 90 147 588 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10961.JPEG
+bicycle 399 157 558 263
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5534.JPEG
+bicycle 118 125 475 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11854.JPEG
+bicycle 36 33 588 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1556.JPEG
+bicycle 125 304 189 415
+bicycle 186 295 244 385
+bicycle 44 284 95 370
+bicycle 12 269 49 332
+person 97 186 199 389
+person 202 239 241 371
+person 38 235 98 343
+person 13 244 47 313
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11224.JPEG
+bicycle 17 3 617 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10446.JPEG
+bicycle 6 11 618 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1043.JPEG
+bicycle 129 51 450 256
+car 189 173 593 445
+car 22 195 69 237
+tree 0 8 120 233
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_16782.JPEG
+bicycle 83 159 521 480
+person 222 30 406 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4865.JPEG
+bicycle 2 5 370 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4002.JPEG
+person 295 128 369 319
+person 394 177 446 344
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3455.JPEG
+bicycle 29 214 417 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_17729.JPEG
+bicycle 76 20 586 388
+person 223 85 405 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_53747.JPEG
+person 212 96 311 444
+bicycle 58 194 438 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7024.JPEG
+bicycle 9 9 632 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2915.JPEG
+bicycle 279 100 511 383
+bicycle 127 94 318 408
+car 4 3 168 222
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12319.JPEG
+bicycle 190 130 445 233
+bicycle 310 276 599 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5170.JPEG
+bicycle 179 204 556 431
+person 307 52 490 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4999.JPEG
+bicycle 255 204 595 472
+person 293 3 484 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6081.JPEG
+bicycle 632 367 209 4
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10314.JPEG
+bicycle 269 223 452 475
+person 320 92 437 328
+car 154 231 389 364
+car 436 183 503 250
+person 506 166 550 259
+person 558 164 599 270
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3508.JPEG
+car 230 324 333 393
+person 334 279 393 423
+person 431 244 511 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7259.JPEG
+bicycle 280 50 539 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2701.JPEG
+bicycle 612 477 69 7
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7687.JPEG
+bicycle 43 51 591 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9043.JPEG
+bicycle 354 244 526 477
+person 356 65 491 392
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5634.JPEG
+bicycle 302 160 501 339
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6537.JPEG
+bicycle 62 41 602 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12592.JPEG
+bicycle 227 228 353 369
+person 226 126 318 332
+car 127 153 237 244
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11561.JPEG
+bicycle 303 204 545 374
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6375.JPEG
+bicycle 8 0 630 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11861.JPEG
+bicycle 433 139 621 276
+bicycle 144 261 217 392
+bicycle 138 40 206 131
+bicycle 352 9 421 96
+person 137 141 253 320
+person 448 77 559 257
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9949.JPEG
+person 96 45 273 325
+bicycle 15 177 324 375
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7504.JPEG
+bicycle 55 5 480 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8308.JPEG
+person 110 270 152 422
+person 62 233 104 307
+person 6 285 39 406
+person 426 293 475 420
+person 367 255 417 372
+bicycle 344 308 397 396
+bicycle 459 347 496 429
+bicycle 258 301 290 379
+bicycle 28 296 121 361
+car 549 207 639 283
+person 562 230 596 316
+person 616 253 641 336
+bicycle 636 429 597 341
+bicycle 463 276 505 325
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3026.JPEG
+bicycle 165 237 339 467
+person 184 97 330 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2092.JPEG
+bicycle 33 131 606 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8738.JPEG
+bicycle 19 169 419 433
+person 197 8 306 408
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9739.JPEG
+bicycle 239 167 287 264
+bicycle 300 139 354 239
+bicycle 366 143 414 243
+bicycle 441 143 479 229
+person 234 93 295 239
+person 294 87 350 219
+person 361 84 415 231
+person 441 81 495 215
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5739.JPEG
+bicycle 43 4 636 449
+bicycle 636 449 636 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11886.JPEG
+bicycle 2 217 533 479
+person 467 476 109 7
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_732.JPEG
+bicycle 540 474 540 474
+bicycle 542 478 0 182
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11623.JPEG
+bicycle 15 114 309 257
+bicycle 6 158 635 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2239.JPEG
+bicycle 28 13 610 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8810.JPEG
+bicycle 324 226 519 364
+bicycle 22 263 250 436
+person 367 114 464 326
+person 77 158 184 388
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6830.JPEG
+bicycle 276 184 341 314
+person 257 103 370 291
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10979.JPEG
+bicycle 227 133 557 361
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9773.JPEG
+bicycle 8 28 559 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10717.JPEG
+bicycle 228 5 638 390
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1498.JPEG
+car 145 77 236 133
+car 285 75 370 120
+car 351 70 433 122
+car 417 64 487 115
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4982.JPEG
+person 160 4 493 407
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6646.JPEG
+bicycle 59 266 303 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8393.JPEG
+bicycle 227 166 373 361
+person 455 34 545 478
+person 342 107 451 356
+person 136 87 223 474
+person 55 76 135 471
+person 2 82 63 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9324.JPEG
+person 440 80 554 370
+bicycle 513 380 156 187
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10521.JPEG
+bicycle 33 18 620 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7028.JPEG
+bicycle 135 214 500 455
+person 296 24 411 462
+tree 10 4 304 137
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1798.JPEG
+bicycle 27 72 581 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11924.JPEG
+bicycle 12 18 607 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2347.JPEG
+person 299 86 388 415
+bicycle 172 210 495 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5934.JPEG
+bicycle 112 174 517 444
+person 232 57 463 416
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2024.JPEG
+bicycle 387 302 570 473
+bicycle 345 286 421 456
+bicycle 250 272 330 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10327.JPEG
+bicycle 140 153 552 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_474.JPEG
+bicycle 10 8 634 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2004.JPEG
+bicycle 567 417 76 178
+person 279 18 454 459
+car 470 91 602 164
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3281.JPEG
+bicycle 10 5 636 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11325.JPEG
+bicycle 226 41 556 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10129.JPEG
+bicycle 180 259 516 457
+person 240 83 378 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7568.JPEG
+bicycle 53 10 581 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9780.JPEG
+bicycle 131 34 600 294
+bicycle 634 473 15 235
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1516.JPEG
+bicycle 637 480 40 164
+person 162 18 424 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11849.JPEG
+bicycle 12 18 620 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7193.JPEG
+bicycle 618 384 14 77
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_86.JPEG
+bicycle 68 199 393 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5443.JPEG
+person 157 92 367 467
+person 392 156 392 156
+person 392 156 573 476
+person 370 243 518 410
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_26599.JPEG
+bicycle 38 56 428 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7674.JPEG
+bicycle 211 314 466 434
+person 275 226 375 426
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10096.JPEG
+person 289 215 346 359
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7062.JPEG
+bicycle 165 38 522 338
+dog 81 283 237 430
+dog 210 297 346 392
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9885.JPEG
+person 297 188 537 381
+person 183 192 322 399
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6722.JPEG
+bicycle 225 168 338 310
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10294.JPEG
+bicycle 91 5 552 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11865.JPEG
+bicycle 138 74 550 395
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1863.JPEG
+bicycle 264 156 451 354
+person 279 45 400 251
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8466.JPEG
+bicycle 43 62 476 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4707.JPEG
+bicycle 106 35 513 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_403.JPEG
+bicycle 164 225 514 481
+person 276 9 507 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10753.JPEG
+bicycle 381 240 619 416
+motorcycle 366 172 480 257
+person 486 129 598 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11709.JPEG
+bicycle 158 240 485 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_50575.JPEG
+bicycle 264 259 386 444
+bicycle 357 260 486 450
+door 266 76 336 234
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4469.JPEG
+bicycle 234 250 546 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1758.JPEG
+bicycle 132 247 454 454
+person 440 64 610 450
+tree 8 59 235 328
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11131.JPEG
+bicycle 148 184 344 470
+person 182 10 411 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6282.JPEG
+bicycle 9 12 625 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2073.JPEG
+bicycle 101 27 508 299
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10230.JPEG
+bicycle 22 31 506 354
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8228.JPEG
+bicycle 31 7 607 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2854.JPEG
+bicycle 7 19 631 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6766.JPEG
+bicycle 450 149 582 269
+bicycle 353 136 440 239
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2691.JPEG
+bicycle 3 16 565 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1127.JPEG
+bicycle 62 172 342 430
+person 269 104 391 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5921.JPEG
+bicycle 299 69 555 373
+car 198 57 286 144
+car 284 68 320 106
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6943.JPEG
+person 11 17 328 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6086.JPEG
+person 92 215 138 352
+bicycle 53 298 175 374
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9686.JPEG
+bicycle 116 186 347 409
+person 307 18 471 330
+person 110 52 393 356
+person 24 40 154 296
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7507.JPEG
+person 371 84 494 290
+person 442 5 619 298
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_31006.JPEG
+bicycle 200 216 338 436
+bicycle 355 206 439 378
+bicycle 460 158 595 318
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2058.JPEG
+bicycle 224 35 605 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12673.JPEG
+bicycle 67 14 259 274
+bicycle 332 113 475 279
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1724.JPEG
+person 153 70 262 460
+bicycle 71 216 360 439
+bicycle 326 164 396 266
+bicycle 283 166 359 258
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_629.JPEG
+bicycle 235 249 387 346
+tree 385 15 617 328
+tree 16 5 233 263
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_64796.JPEG
+bicycle 253 191 419 314
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4488.JPEG
+bicycle 326 53 516 172
+bicycle 506 351 600 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12444.JPEG
+bicycle 6 12 605 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3171.JPEG
+bicycle 136 278 297 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6712.JPEG
+bicycle 18 15 632 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5255.JPEG
+bicycle 20 15 613 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5104.JPEG
+bicycle 54 37 622 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6287.JPEG
+bicycle 319 368 384 462
+person 329 306 379 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8242.JPEG
+bicycle 270 126 383 368
+person 262 7 387 326
+person 160 126 222 282
+person 39 128 104 291
+person 4 112 51 290
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12038.JPEG
+bicycle 42 64 594 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5417.JPEG
+bicycle 96 193 605 405
+person 228 64 388 305
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_61977.JPEG
+bicycle 282 52 510 318
+person 354 51 497 239
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3221.JPEG
+bicycle 145 182 438 327
+person 238 81 398 294
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_32475.JPEG
+bicycle 27 55 615 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6169.JPEG
+bicycle 71 16 632 439
+person 267 477 20 189
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8997.JPEG
+bicycle 357 72 584 456
+bicycle 260 18 561 352
+car 38 25 136 72
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3438.JPEG
+bicycle 634 472 6 9
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3102.JPEG
+bicycle 3 123 629 476
+person 159 21 542 349
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10781.JPEG
+bicycle 632 475 345 297
+bicycle 243 239 540 475
+bicycle 10 209 391 472
+person 130 71 242 445
+person 257 93 330 412
+person 382 94 487 439
+tree 398 5 633 149
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5117.JPEG
+bicycle 117 289 249 380
+bicycle 44 266 152 332
+person 64 217 123 325
+person 133 226 218 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5206.JPEG
+bicycle 8 6 625 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_53079.JPEG
+bicycle 5 71 636 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11663.JPEG
+bicycle 8 20 620 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_62010.JPEG
+bicycle 11 80 612 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11968.JPEG
+bicycle 112 243 171 421
+bicycle 178 250 265 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8329.JPEG
+person 47 290 181 392
+person 180 296 255 382
+person 253 303 362 381
+person 332 295 460 383
+person 267 105 352 261
+bicycle 146 169 390 297
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8426.JPEG
+bicycle 355 229 629 423
+bicycle 313 202 413 284
+bicycle 240 206 308 315
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11229.JPEG
+bicycle 28 8 636 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_62227.JPEG
+bicycle 140 236 425 396
+person 440 139 546 431
+person 394 141 444 392
+person 325 112 381 385
+person 250 96 318 380
+person 189 98 269 340
+person 145 75 212 345
+person 110 89 162 353
+person 40 90 132 363
+car 639 251 494 167
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1838.JPEG
+bicycle 157 224 496 442
+person 286 111 408 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1203.JPEG
+bicycle 383 207 529 373
+bicycle 216 200 318 336
+bicycle 98 216 211 392
+person 123 129 206 332
+person 224 143 306 298
+person 391 118 507 335
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4885.JPEG
+person 107 98 217 343
+bicycle 93 208 278 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5314.JPEG
+bicycle 60 32 567 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_43269.JPEG
+bicycle 172 243 283 427
+bicycle 373 310 519 474
+person 182 124 278 365
+person 370 91 488 449
+person 327 89 400 311
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10804.JPEG
+bicycle 11 12 639 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11448.JPEG
+bicycle 74 71 578 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7075.JPEG
+bicycle 34 11 322 300
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10371.JPEG
+bicycle 426 45 600 476
+bicycle 461 104 633 475
+bicycle 258 70 421 450
+bicycle 168 54 379 452
+bicycle 18 67 194 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12192.JPEG
+bicycle 13 247 315 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5648.JPEG
+bicycle 631 454 9 232
+person 144 29 469 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12314.JPEG
+bicycle 558 176 139 457
+bicycle 64 64 421 365
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5305.JPEG
+bicycle 442 253 509 356
+bicycle 212 314 313 419
+bicycle 296 201 370 305
+person 221 232 287 396
+person 432 188 518 336
+person 325 146 365 261
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7530.JPEG
+bus 119 9 500 354
+person 547 330 590 453
+bicycle 519 378 614 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1094.JPEG
+bicycle 68 2 158 450
+bicycle 169 4 280 429
+bicycle 286 16 377 438
+bicycle 384 17 483 428
+bicycle 475 7 616 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12174.JPEG
+bicycle 14 21 611 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7035.JPEG
+bicycle 32 34 603 400
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5913.JPEG
+bicycle 241 303 560 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9626.JPEG
+bicycle 33 11 563 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9101.JPEG
+bicycle 25 17 639 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4795.JPEG
+bicycle 11 8 525 246
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6597.JPEG
+car 339 109 498 236
+car 445 83 548 208
+car 579 82 637 161
+car 550 88 608 164
+bicycle 2 285 95 474
+person 39 10 212 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1269.JPEG
+bicycle 112 105 324 367
+person 110 3 307 267
+person 336 9 379 152
+person 378 9 433 143
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8219.JPEG
+bicycle 168 311 448 449
+person 54 80 124 269
+person 143 48 246 272
+person 226 38 291 190
+person 299 45 344 189
+person 336 25 385 192
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12485.JPEG
+bicycle 8 8 637 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4588.JPEG
+bicycle 183 172 635 478
+person 286 46 550 340
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4832.JPEG
+bicycle 6 18 406 368
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8704.JPEG
+bicycle 109 94 536 383
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12019.JPEG
+bicycle 38 16 592 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_35466.JPEG
+bicycle 80 85 549 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12410.JPEG
+bicycle 16 237 508 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7271.JPEG
+bicycle 328 157 583 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6594.JPEG
+bicycle 57 65 497 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11387.JPEG
+bicycle 47 180 626 465
+person 222 4 504 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_52123.JPEG
+person 400 204 485 396
+bicycle 132 276 360 416
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1436.JPEG
+bicycle 86 161 559 414
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6549.JPEG
+bicycle 244 137 492 348
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8221.JPEG
+bicycle 10 8 629 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4880.JPEG
+bicycle 67 25 584 373
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1913.JPEG
+bicycle 13 251 521 456
+person 229 119 434 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9707.JPEG
+bicycle 586 472 53 212
+person 204 36 304 449
+person 382 65 467 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6160.JPEG
+bicycle 181 269 469 479
+person 326 179 431 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12731.JPEG
+bicycle 37 10 528 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8770.JPEG
+bicycle 192 149 319 228
+person 226 96 257 222
+bicycle 86 227 603 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6414.JPEG
+bicycle 215 268 438 390
+bicycle 315 331 562 447
+bicycle 524 227 620 450
+bicycle 177 208 242 376
+bicycle 67 216 156 376
+bicycle 17 167 98 388
+person 190 101 262 359
+person 294 118 437 381
+person 401 71 464 284
+person 528 52 632 408
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1048.JPEG
+person 195 278 262 424
+bicycle 148 363 318 444
+bicycle 264 319 380 406
+bicycle 390 338 503 401
+bicycle 468 334 553 404
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4992.JPEG
+bicycle 30 11 631 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_67.JPEG
+bicycle 9 3 591 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4757.JPEG
+bicycle 93 266 378 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2307.JPEG
+bicycle 31 165 618 474
+person 426 474 141 12
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8535.JPEG
+bicycle 172 86 466 305
+person 134 100 281 263
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7669.JPEG
+bicycle 142 156 515 470
+person 281 33 373 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8815.JPEG
+bicycle 22 42 635 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8230.JPEG
+bicycle 113 85 579 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2878.JPEG
+bicycle 203 210 378 401
+person 266 105 399 354
+car 455 116 555 188
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_61947.JPEG
+bicycle 40 17 624 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7457.JPEG
+bicycle 78 61 582 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2341.JPEG
+bicycle 334 167 553 299
+person 427 100 485 259
+person 466 120 534 270
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1565.JPEG
+bicycle 150 7 534 150
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_209.JPEG
+bicycle 37 268 458 470
+person 41 142 345 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_43697.JPEG
+bicycle 340 262 453 465
+bicycle 433 203 544 389
+bicycle 141 222 239 431
+bicycle 20 184 78 344
+person 36 87 91 250
+person 106 85 171 233
+person 161 123 232 385
+person 198 98 275 330
+person 365 162 450 448
+person 314 91 386 295
+person 438 93 533 357
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11507.JPEG
+bicycle 7 16 628 480
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7680.JPEG
+bicycle 41 103 608 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4371.JPEG
+bicycle 11 2 632 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3037.JPEG
+bicycle 208 239 374 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2205.JPEG
+bicycle 358 247 462 383
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5710.JPEG
+bicycle 54 17 541 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2837.JPEG
+bicycle 49 91 506 372
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7398.JPEG
+bicycle 633 471 23 15
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_642.JPEG
+bicycle 120 111 506 394
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1049.JPEG
+bicycle 16 13 622 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5911.JPEG
+bicycle 91 251 620 447
+person 206 74 430 340
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6494.JPEG
+bicycle 153 280 634 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9013.JPEG
+bicycle 99 192 559 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4382.JPEG
+bicycle 193 339 422 440
+door 46 240 201 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12686.JPEG
+bicycle 7 13 639 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1188.JPEG
+bicycle 28 11 631 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9911.JPEG
+bicycle 17 11 500 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4874.JPEG
+bicycle 637 477 13 4
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_44343.JPEG
+car 432 283 633 403
+bicycle 257 308 308 397
+bicycle 292 294 326 383
+bicycle 319 303 350 382
+bicycle 156 313 214 394
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9589.JPEG
+bicycle 57 168 545 476
+person 201 21 295 462
+person 309 45 464 448
+bicycle 530 202 635 364
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3119.JPEG
+bicycle 45 170 321 469
+bicycle 375 175 552 294
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7716.JPEG
+bicycle 74 269 309 412
+bicycle 373 205 610 401
+person 22 165 139 404
+person 145 125 270 389
+person 487 92 572 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_988.JPEG
+person 267 6 509 378
+bicycle 183 68 497 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3926.JPEG
+bicycle 77 118 361 344
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1718.JPEG
+bicycle 138 227 457 392
+person 160 127 286 400
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4318.JPEG
+bicycle 435 309 613 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_130.JPEG
+bicycle 21 8 604 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11422.JPEG
+bicycle 336 282 512 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7657.JPEG
+bicycle 14 12 632 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2810.JPEG
+bicycle 153 163 518 479
+person 237 16 420 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6171.JPEG
+bicycle 104 226 556 430
+person 214 16 466 410
+car 484 71 636 162
+car 435 59 542 137
+car 94 24 170 82
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8637.JPEG
+bicycle 272 28 630 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6132.JPEG
+bicycle 521 278 635 344
+bicycle 402 287 498 347
+bicycle 261 408 380 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6671.JPEG
+bicycle 218 236 383 358
+bicycle 422 212 538 281
+bicycle 554 477 58 301
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2718.JPEG
+bicycle 64 221 332 345
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6158.JPEG
+bicycle 347 98 516 428
+car 7 67 287 346
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1704.JPEG
+bicycle 121 258 245 443
+person 147 116 233 369
+person 405 415 405 415
+tree 431 12 626 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7524.JPEG
+bicycle 52 32 601 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3326.JPEG
+bicycle 204 352 269 466
+person 150 232 299 402
+person 68 274 181 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7947.JPEG
+bicycle 125 234 490 433
+person 252 71 380 384
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4980.JPEG
+bicycle 46 15 623 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11525.JPEG
+bicycle 37 4 626 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3515.JPEG
+bicycle 51 66 592 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3961.JPEG
+bicycle 413 112 592 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10131.JPEG
+bicycle 85 48 596 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3608.JPEG
+bicycle 407 284 491 331
+bicycle 331 293 331 293
+bicycle 327 289 387 327
+bicycle 56 311 160 347
+bicycle 191 303 295 347
+person 211 273 234 330
+person 234 269 290 312
+person 336 253 371 315
+person 416 252 476 325
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7247.JPEG
+bicycle 62 1 606 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5653.JPEG
+bicycle 45 38 604 419
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6311.JPEG
+bicycle 68 150 607 480
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5737.JPEG
+bicycle 277 155 597 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6162.JPEG
+bicycle 136 35 540 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_541.JPEG
+bicycle 148 240 323 411
+person 431 135 591 411
+person 57 136 186 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7696.JPEG
+bicycle 34 257 182 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_47582.JPEG
+bicycle 222 265 320 369
+bicycle 342 277 422 395
+bicycle 138 256 216 346
+car 8 222 161 306
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1751.JPEG
+bicycle 348 292 381 318
+bicycle 313 291 342 314
+bicycle 290 292 309 311
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6254.JPEG
+bicycle 31 164 447 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4247.JPEG
+bicycle 330 196 532 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4924.JPEG
+bicycle 21 55 518 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_493.JPEG
+bicycle 339 346 450 412
+bench 17 387 237 466
+person 365 297 414 392
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4695.JPEG
+bicycle 294 18 523 293
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4242.JPEG
+bicycle 456 54 634 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4286.JPEG
+bicycle 251 209 561 456
+person 362 80 473 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10492.JPEG
+bicycle 47 32 559 311
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1213.JPEG
+bicycle 28 53 608 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3060.JPEG
+person 492 256 544 397
+person 576 247 632 396
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4110.JPEG
+bicycle 309 155 509 276
+person 357 56 477 218
+tree 89 6 251 283
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12316.JPEG
+bicycle 246 116 496 353
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11107.JPEG
+bicycle 153 60 494 439
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1165.JPEG
+bicycle 177 182 514 426
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_329.JPEG
+bicycle 10 10 620 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5523.JPEG
+bicycle 100 124 586 399
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8892.JPEG
+bicycle 219 283 342 419
+person 241 210 329 384
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5214.JPEG
+bicycle 18 9 590 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9616.JPEG
+bicycle 118 190 516 377
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6298.JPEG
+bicycle 7 91 491 473
+bicycle 219 56 559 417
+bicycle 366 32 589 338
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_35791.JPEG
+bicycle 58 197 435 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11320.JPEG
+bicycle 362 252 429 398
+bicycle 454 249 578 392
+bicycle 56 260 211 382
+person 89 174 175 384
+person 173 140 230 362
+person 396 140 456 397
+person 497 140 564 386
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3393.JPEG
+bicycle 26 59 426 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9253.JPEG
+bicycle 28 171 619 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1765.JPEG
+bicycle 163 143 534 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11156.JPEG
+bicycle 45 25 600 432
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_138.JPEG
+bicycle 95 229 419 455
+car 224 84 552 316
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4305.JPEG
+bicycle 194 190 479 447
+person 159 75 429 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4216.JPEG
+bicycle 62 135 507 379
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11638.JPEG
+bicycle 51 68 594 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10900.JPEG
+bicycle 211 179 284 297
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8611.JPEG
+bicycle 122 30 436 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9944.JPEG
+bicycle 602 470 -1 142
+car 10 6 344 202
+car 299 3 520 114
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5671.JPEG
+bicycle 84 21 556 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_327.JPEG
+bicycle 235 211 587 462
+person 376 53 509 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2081.JPEG
+bicycle 14 355 254 466
+bicycle 343 325 552 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1034.JPEG
+bicycle 30 17 616 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3504.JPEG
+bicycle 35 11 606 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4304.JPEG
+bicycle 10 8 569 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1540.JPEG
+bicycle 113 178 348 347
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3255.JPEG
+bicycle 320 49 601 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11174.JPEG
+bicycle 59 94 476 339
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5841.JPEG
+bicycle 258 260 410 387
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10158.JPEG
+bicycle 177 258 527 436
+person 273 96 381 432
+car 160 58 328 193
+car 469 63 596 155
+car 278 52 380 116
+car 4 61 105 164
+motorcycle 47 83 104 187
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8507.JPEG
+bicycle 303 181 602 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6774.JPEG
+bicycle 341 0 568 444
+bicycle 200 39 400 434
+bicycle 109 29 277 434
+bicycle 20 55 147 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3204.JPEG
+bicycle 164 111 549 404
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4965.JPEG
+bicycle 193 217 452 402
+person 259 58 344 419
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6448.JPEG
+bicycle 363 44 543 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4457.JPEG
+bicycle 88 297 342 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9658.JPEG
+bicycle 526 468 85 330
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8119.JPEG
+bicycle 219 206 498 471
+bicycle 150 228 297 431
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4789.JPEG
+bicycle 270 255 587 444
+bicycle 197 234 469 391
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_600.JPEG
+bicycle 60 128 450 394
+bicycle 432 371 432 371
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1832.JPEG
+bicycle 377 161 425 273
+bicycle 434 172 485 258
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6345.JPEG
+bicycle 182 167 621 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3748.JPEG
+bicycle 191 146 559 318
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10058.JPEG
+bicycle 391 319 469 356
+person 411 266 452 361
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4476.JPEG
+bicycle 16 14 639 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5383.JPEG
+bicycle 484 348 566 466
+person 502 230 570 443
+person 389 297 445 469
+person 337 257 406 385
+person 207 284 307 455
+person 59 323 160 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3480.JPEG
+bicycle 92 60 578 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12654.JPEG
+bicycle 142 284 367 477
+bicycle 376 311 535 476
+person 226 63 335 420
+person 402 75 542 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3108.JPEG
+bicycle 344 309 506 428
+person 408 218 478 393
+trafficlight 103 29 208 332
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6500.JPEG
+bicycle 56 82 603 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6780.JPEG
+bicycle 41 16 612 398
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6092.JPEG
+bicycle 163 282 412 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8834.JPEG
+bicycle 100 122 596 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1405.JPEG
+bicycle 190 157 360 364
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6586.JPEG
+bicycle 150 49 603 297
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11345.JPEG
+bicycle 196 247 373 428
+bicycle 374 428 374 428
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5802.JPEG
+bicycle 23 39 516 429
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_17585.JPEG
+bicycle 96 260 623 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9954.JPEG
+bicycle 191 316 355 446
+bicycle 457 198 495 256
+person 210 185 296 408
+person 454 144 492 217
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_700.JPEG
+bicycle 170 238 573 461
+bicycle 158 208 494 386
+person 16 41 75 207
+person 428 57 464 134
+person 479 46 513 138
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11097.JPEG
+bicycle 99 71 542 444
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_859.JPEG
+bicycle 11 213 615 472
+person 144 9 424 410
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6767.JPEG
+bicycle 22 143 221 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10526.JPEG
+bicycle 116 193 366 416
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8791.JPEG
+bicycle 159 250 629 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7128.JPEG
+person 231 67 525 454
+bicycle 445 476 49 347
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6811.JPEG
+bicycle 165 26 561 447
+bicycle 8 35 231 257
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6272.JPEG
+bicycle 88 220 348 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2144.JPEG
+bicycle 42 26 615 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_55114.JPEG
+bicycle 177 204 531 465
+person 276 30 378 384
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12275.JPEG
+bicycle 15 26 620 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9562.JPEG
+bicycle 82 35 457 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4051.JPEG
+bicycle 301 140 592 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5021.JPEG
+bicycle 150 332 313 423
+car 36 357 86 380
+person 193 282 239 413
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2647.JPEG
+bicycle 269 166 584 383
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2031.JPEG
+bicycle 23 38 572 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9963.JPEG
+bicycle 166 78 559 271
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7161.JPEG
+bicycle 272 296 588 446
+person 153 85 235 397
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5581.JPEG
+bicycle 10 15 613 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1833.JPEG
+bicycle 271 324 506 456
+door 101 132 236 449
+door 403 170 553 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3526.JPEG
+bicycle 23 13 619 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2716.JPEG
+bicycle 172 69 626 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12289.JPEG
+bicycle 178 41 452 472
+bicycle 57 8 326 368
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12655.JPEG
+bicycle 145 248 589 452
+tree 487 396 9 5
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6588.JPEG
+bicycle 634 471 25 27
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3313.JPEG
+bicycle 90 110 549 420
+bicycle 57 68 462 373
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12525.JPEG
+bicycle 178 336 378 460
+person 237 231 291 405
+car 383 349 470 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12299.JPEG
+bicycle 15 73 614 391
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11226.JPEG
+bicycle 27 46 600 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9209.JPEG
+bicycle 200 218 515 459
+person 307 79 436 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_24778.JPEG
+person 278 186 362 458
+person 411 208 464 302
+bicycle 365 288 540 385
+bicycle 441 345 637 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1130.JPEG
+bicycle 21 12 576 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8909.JPEG
+bicycle 151 136 475 421
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2150.JPEG
+bicycle 146 168 509 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6848.JPEG
+bicycle 79 199 594 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6567.JPEG
+bicycle 141 88 362 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10544.JPEG
+bicycle 32 169 591 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2518.JPEG
+bicycle 627 475 268 289
+person 221 120 313 347
+person 424 59 595 447
+car 242 59 395 160
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4701.JPEG
+bicycle 61 50 578 216
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8626.JPEG
+bicycle 94 69 614 394
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1235.JPEG
+bicycle 83 18 627 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1035.JPEG
+bicycle 343 263 481 393
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9988.JPEG
+bicycle 15 11 620 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1985.JPEG
+bicycle 67 9 633 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3123.JPEG
+bicycle 96 144 615 355
+person 235 14 516 332
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10040.JPEG
+bicycle 5 10 624 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_24515.JPEG
+bicycle 227 225 560 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9065.JPEG
+bicycle 7 8 379 362
+bicycle 59 8 572 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2708.JPEG
+bicycle 61 287 455 410
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5130.JPEG
+bicycle 35 179 620 472
+person 170 16 323 448
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7040.JPEG
+bicycle 193 179 508 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2653.JPEG
+bicycle 25 241 527 472
+person 228 94 405 440
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5641.JPEG
+bicycle 15 9 619 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11923.JPEG
+bicycle 30 12 616 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11290.JPEG
+bicycle 7 29 626 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_476.JPEG
+bicycle 9 128 276 343
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_261.JPEG
+bicycle 31 229 517 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1958.JPEG
+bicycle 37 28 584 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10218.JPEG
+bicycle 84 251 380 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10432.JPEG
+bicycle 80 188 264 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7136.JPEG
+bicycle 12 209 293 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_38891.JPEG
+bicycle 37 211 279 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12058.JPEG
+bicycle 327 123 521 257
+person 71 37 243 386
+person 387 12 487 230
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11763.JPEG
+bicycle 314 248 550 411
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10662.JPEG
+bicycle 130 31 566 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8059.JPEG
+bicycle 182 123 562 387
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12658.JPEG
+bicycle 121 176 462 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6043.JPEG
+bicycle 301 258 364 320
+bicycle 217 247 259 308
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3151.JPEG
+bicycle 10 210 634 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10246.JPEG
+bicycle 180 201 615 416
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4659.JPEG
+bicycle 396 226 527 414
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9194.JPEG
+bicycle 310 184 431 298
+bicycle 1 206 342 478
+bicycle 198 208 348 356
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8817.JPEG
+bicycle 153 138 435 416
+bicycle 64 181 250 393
+person 301 160 374 274
+person 363 141 452 291
+person 497 37 572 244
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5932.JPEG
+bicycle 354 115 479 271
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11889.JPEG
+bicycle 633 358 85 9
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2145.JPEG
+bicycle 216 259 500 435
+person 329 142 425 424
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3671.JPEG
+person 261 76 420 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9573.JPEG
+bicycle 12 43 609 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7685.JPEG
+bicycle 219 87 397 219
+person 308 33 372 156
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1999.JPEG
+bicycle 66 43 585 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_42875.JPEG
+bicycle 175 243 594 413
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_335.JPEG
+bicycle 234 324 371 431
+bicycle 52 317 217 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10566.JPEG
+bicycle 43 227 391 472
+bicycle 346 22 616 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_42258.JPEG
+bicycle 405 198 494 296
+bicycle 296 199 369 306
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3138.JPEG
+bicycle 60 38 555 447
+bicycle 9 45 343 305
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_218.JPEG
+bicycle 147 199 476 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5480.JPEG
+bicycle 533 410 117 287
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2097.JPEG
+bicycle 16 53 257 392
+bicycle 238 15 630 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_48665.JPEG
+bicycle 264 162 428 472
+person 120 85 263 457
+person 337 32 533 386
+person 121 1 236 219
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7258.JPEG
+person 235 51 408 467
+bicycle 65 252 559 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_851.JPEG
+bicycle 111 30 584 408
+car 13 9 631 292
+car 414 4 543 76
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3609.JPEG
+bicycle 357 14 563 274
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9223.JPEG
+bicycle 125 177 339 427
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4883.JPEG
+bicycle 403 174 531 271
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7175.JPEG
+bicycle 58 20 616 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_728.JPEG
+bicycle 236 71 551 383
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4640.JPEG
+bicycle 59 218 217 402
+person 60 112 171 364
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8942.JPEG
+bicycle 277 68 610 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12041.JPEG
+bicycle 558 426 40 15
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5194.JPEG
+bicycle 186 130 509 373
+bicycle 144 70 429 317
+bicycle 106 45 385 252
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_62158.JPEG
+bicycle 232 170 467 341
+bicycle 445 112 601 235
+person 267 129 361 315
+person 482 34 541 240
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3735.JPEG
+bicycle 266 103 627 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_45069.JPEG
+bicycle 174 47 377 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7041.JPEG
+bicycle 197 129 381 365
+person 360 13 587 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3000.JPEG
+bicycle 528 384 39 59
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5484.JPEG
+bicycle 86 92 454 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12776.JPEG
+bicycle 306 248 541 412
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_46418.JPEG
+bicycle 92 277 312 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1610.JPEG
+bicycle 73 311 272 447
+bicycle 270 344 566 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8548.JPEG
+bicycle 10 9 637 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9303.JPEG
+bicycle 318 447 67 345
+bicycle 310 231 457 337
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4984.JPEG
+bicycle 24 9 608 443
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3612.JPEG
+bicycle 541 446 75 72
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6896.JPEG
+bicycle 614 474 151 324
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6733.JPEG
+bicycle 257 194 555 402
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1279.JPEG
+bicycle 567 435 329 168
+bicycle 280 328 196 204
+bicycle 174 277 133 217
+person 337 5 530 387
+person 182 78 287 323
+person 131 151 176 266
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8428.JPEG
+bicycle 13 20 626 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5849.JPEG
+bicycle 5 12 624 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5955.JPEG
+bicycle 123 133 483 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8932.JPEG
+bicycle 207 108 538 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12517.JPEG
+bicycle 13 10 617 446
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6695.JPEG
+bicycle 223 6 632 465
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10391.JPEG
+bicycle 27 20 578 471
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3397.JPEG
+bicycle 34 249 270 421
+bicycle 90 230 282 369
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9066.JPEG
+bicycle 321 260 530 432
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6262.JPEG
+bicycle 87 65 509 432
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1620.JPEG
+bicycle 130 300 421 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11766.JPEG
+bicycle 141 178 279 365
+bicycle 351 115 490 374
+person 214 113 332 339
+person 397 82 487 233
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12199.JPEG
+bicycle 26 10 593 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_716.JPEG
+bicycle 564 453 116 193
+person 221 21 368 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4690.JPEG
+bicycle 128 321 270 474
+person 278 204 332 409
+person 346 197 404 384
+person 432 214 495 357
+bicycle 298 340 593 478
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12553.JPEG
+bicycle 85 100 596 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1192.JPEG
+bicycle 9 63 629 387
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6444.JPEG
+bicycle 438 387 223 263
+person 249 66 391 381
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_54.JPEG
+bicycle 89 83 520 361
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8247.JPEG
+bicycle 370 61 593 396
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_39761.JPEG
+bicycle 26 182 381 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_42015.JPEG
+bicycle 285 151 534 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2383.JPEG
+bicycle 4 7 634 476
+car 177 79 627 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9084.JPEG
+bicycle 383 123 473 357
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_39347.JPEG
+bicycle 147 212 517 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10631.JPEG
+bicycle 53 226 607 453
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_394.JPEG
+person 193 160 319 419
+person 326 186 394 370
+person 396 179 484 342
+person 492 179 602 428
+bicycle 401 283 554 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6731.JPEG
+bicycle 536 430 66 134
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5692.JPEG
+bicycle 9 9 492 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3622.JPEG
+bicycle 244 216 97 107
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6819.JPEG
+bicycle 540 443 23 40
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9245.JPEG
+bicycle 130 178 553 459
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11803.JPEG
+bicycle 42 139 404 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4569.JPEG
+bicycle 48 15 600 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11275.JPEG
+bicycle 58 21 538 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4302.JPEG
+bicycle 276 288 405 370
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8565.JPEG
+bicycle 105 165 542 451
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1991.JPEG
+bicycle 195 107 605 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8646.JPEG
+bicycle 38 46 597 475
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3958.JPEG
+bicycle 84 355 242 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6942.JPEG
+bicycle 179 153 473 438
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7349.JPEG
+bicycle 56 204 308 403
+bicycle 310 209 638 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11390.JPEG
+bicycle 287 290 462 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3661.JPEG
+bicycle 18 46 605 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4114.JPEG
+bicycle 17 7 633 467
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4862.JPEG
+bicycle 6 6 618 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10647.JPEG
+bicycle 309 239 438 340
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5413.JPEG
+bicycle 177 241 494 448
+person 144 135 343 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3990.JPEG
+bicycle 53 15 633 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9543.JPEG
+bicycle 16 16 577 458
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1806.JPEG
+bicycle 82 63 489 385
+car 120 47 239 138
+car 207 39 495 214
+car 471 47 618 132
+car 380 48 464 115
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6587.JPEG
+bicycle 280 150 55 37
+bicycle 380 40 633 209
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_57373.JPEG
+bicycle 167 252 474 473
+bicycle 406 5 634 162
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9702.JPEG
+bicycle 8 2 631 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_56599.JPEG
+bicycle 119 274 447 452
+bicycle 473 267 627 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_45761.JPEG
+bicycle 7 208 368 480
+bicycle 393 169 610 305
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1895.JPEG
+bicycle 20 134 589 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4173.JPEG
+bicycle 295 160 608 408
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7043.JPEG
+bicycle 342 124 438 246
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_797.JPEG
+bicycle 258 249 513 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10952.JPEG
+bicycle 14 29 607 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6382.JPEG
+bicycle 4 7 631 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12754.JPEG
+bicycle 30 132 223 331
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1169.JPEG
+bicycle 19 9 624 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3400.JPEG
+bicycle 6 26 639 440
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10027.JPEG
+bicycle 194 307 286 463
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8980.JPEG
+bicycle 64 136 560 440
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4313.JPEG
+bicycle 291 107 534 391
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_46234.JPEG
+bicycle 34 36 624 460
+person 211 73 413 454
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5767.JPEG
+person 11 40 142 419
+person 198 91 299 392
+person 299 7 394 347
+person 362 1 531 384
+bicycle 223 224 585 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7872.JPEG
+bicycle 159 117 629 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2194.JPEG
+bicycle 49 12 618 418
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1325.JPEG
+bicycle 186 312 359 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2589.JPEG
+bicycle 340 192 572 357
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_47847.JPEG
+bicycle 449 253 529 415
+bicycle 414 257 464 380
+person 220 170 311 321
+person 411 181 456 354
+person 472 173 517 366
+trafficlight 171 15 268 150
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3256.JPEG
+bicycle 109 179 389 327
+person 225 35 332 298
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6615.JPEG
+bicycle 85 114 594 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5996.JPEG
+bicycle 51 16 583 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_673.JPEG
+bicycle 371 278 636 470
+person 422 104 568 442
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12793.JPEG
+bicycle 13 35 634 441
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8966.JPEG
+bicycle 21 9 617 452
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3963.JPEG
+bicycle 212 229 486 395
+person 233 75 424 366
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5741.JPEG
+bicycle 231 287 449 433
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9673.JPEG
+bicycle 15 12 609 466
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7138.JPEG
+bicycle 52 19 627 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4629.JPEG
+bicycle 106 116 515 473
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3801.JPEG
+bicycle 172 221 296 413
+bicycle 324 223 455 440
+person 209 72 290 343
+person 328 59 424 345
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6832.JPEG
+bicycle 235 184 547 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3646.JPEG
+bicycle 142 11 501 393
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_458.JPEG
+bicycle 302 154 530 385
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10923.JPEG
+bicycle 286 208 489 450
+car 16 93 599 297
+person 321 32 513 405
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_729.JPEG
+bicycle 67 81 520 369
+bench 85 86 579 331
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10412.JPEG
+bicycle 637 473 333 267
+person 168 9 301 463
+person 347 130 430 321
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3034.JPEG
+bicycle 93 180 478 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1305.JPEG
+bicycle 45 17 589 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1781.JPEG
+bicycle 525 237 217 14
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7655.JPEG
+bicycle 159 254 330 358
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7233.JPEG
+bicycle 55 38 605 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11401.JPEG
+bicycle 26 9 537 479
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6528.JPEG
+bicycle 402 9 517 70
+car 480 407 590 445
+door 131 353 230 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4524.JPEG
+bicycle 327 216 409 259
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1754.JPEG
+bicycle 362 250 544 437
+person 432 98 535 378
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11893.JPEG
+bicycle 354 311 496 417
+bicycle 112 296 228 388
+bicycle 38 270 149 339
+person 85 217 117 352
+person 139 232 197 379
+person 275 214 353 388
+person 229 218 294 402
+person 380 242 443 399
+person 453 230 495 389
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3104.JPEG
+bicycle 446 474 146 232
+person 351 446 178 82
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_54281.JPEG
+bicycle 214 237 353 458
+person 258 116 299 406
+person 297 80 371 410
+person 397 144 458 440
+person 452 120 515 378
+bus 98 163 251 267
+bus 482 144 595 250
+bus 524 209 622 387
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4431.JPEG
+bicycle 156 197 387 420
+bicycle 631 218 371 457
+person 214 94 299 349
+person 433 52 540 452
+person 513 68 599 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9128.JPEG
+person 334 19 413 311
+person 404 47 497 377
+bicycle 228 168 520 434
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5957.JPEG
+bicycle 252 139 386 287
+person 298 56 364 194
+tree 386 20 615 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_27448.JPEG
+bicycle 311 216 536 396
+door 286 293 147 78
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3200.JPEG
+bicycle 268 323 532 476
+person 340 234 443 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8044.JPEG
+bicycle 96 10 638 474
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7485.JPEG
+bicycle 576 469 178 225
+person 324 72 448 456
+car 3 109 213 323
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6912.JPEG
+bicycle 117 34 546 277
+person 249 185 461 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2862.JPEG
+bicycle 201 161 419 397
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9107.JPEG
+bicycle 19 19 629 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7536.JPEG
+bicycle 357 257 516 470
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1220.JPEG
+bicycle 194 101 429 447
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11288.JPEG
+bicycle 101 65 397 468
+bicycle 417 84 631 477
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_934.JPEG
+bicycle 13 17 613 456
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11291.JPEG
+bicycle 146 112 413 314
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6461.JPEG
+bicycle 122 129 210 298
+bicycle 219 116 266 238
+bicycle 277 135 336 260
+bicycle 303 283 488 469
+person 148 54 210 260
+person 232 57 266 207
+person 287 51 342 218
+person 316 109 460 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_537.JPEG
+bicycle 37 100 618 407
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5508.JPEG
+bicycle 130 221 484 377
+person 230 151 287 327
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12193.JPEG
+person 100 65 168 261
+bicycle 230 294 87 137
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8873.JPEG
+bicycle 53 144 557 464
+person 150 17 440 365
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2648.JPEG
+bicycle 12 237 638 476
+person 280 8 499 469
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2897.JPEG
+bicycle 184 236 627 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4434.JPEG
+bicycle 21 68 530 374
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5549.JPEG
+bicycle 324 262 381 308
+bicycle 393 232 471 299
+bicycle 323 332 409 382
+bicycle 560 93 618 157
+bicycle 106 326 157 367
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10434.JPEG
+bicycle 181 207 543 457
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5311.JPEG
+bicycle 81 33 625 461
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7623.JPEG
+bicycle 135 53 470 404
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5698.JPEG
+bicycle 239 28 623 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12222.JPEG
+bicycle 335 172 584 344
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6443.JPEG
+bicycle 200 171 279 329
+bicycle 465 184 535 289
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_61850.JPEG
+bicycle 64 55 604 430
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6880.JPEG
+bicycle 418 21 600 434
+person 341 361 19 201
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8814.JPEG
+bicycle 145 36 492 402
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2280.JPEG
+bicycle 181 138 485 378
+person 282 34 410 330
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10155.JPEG
+bicycle 493 462 128 23
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_18263.JPEG
+bicycle 98 123 521 359
+person 97 19 460 239
+person 462 29 595 136
+bicycle 486 76 607 167
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6889.JPEG
+person 114 22 257 463
+person 505 96 560 301
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3182.JPEG
+person 224 89 335 430
+bicycle 209 196 346 468
+car 2 241 58 353
+car 383 275 436 317
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6879.JPEG
+bicycle 24 180 635 468
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5882.JPEG
+bicycle 61 304 250 445
+bicycle 231 307 429 436
+bicycle 391 309 588 435
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9867.JPEG
+bicycle 52 361 181 450
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6750.JPEG
+bicycle 283 145 580 435
+tree 318 326 117 3
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10484.JPEG
+bicycle 8 12 627 394
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11606.JPEG
+bicycle 46 56 610 436
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9232.JPEG
+bicycle 159 170 357 369
+bicycle 23 174 265 393
+bicycle 496 135 582 278
+bicycle 573 171 628 284
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_12059.JPEG
+bicycle 97 152 543 435
+person 386 9 521 402
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4801.JPEG
+tree 393 401 24 9
+bicycle 430 329 613 445
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_4994.JPEG
+bicycle 433 215 487 415
+bicycle 167 213 356 411
+person 221 102 407 343
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_6948.JPEG
+bicycle 185 155 637 473
+bicycle 334 180 636 406
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_2293.JPEG
+bicycle 570 473 19 102
+bicycle 197 112 640 472
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5259.JPEG
+bicycle 66 273 377 370
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9290.JPEG
+bicycle 221 25 638 476
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11587.JPEG
+bicycle 20 10 633 305
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1303.JPEG
+bicycle 85 181 604 470
+person 460 283 306 17
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1533.JPEG
+bicycle 103 189 391 425
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_1362.JPEG
+bicycle 29 13 600 417
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3476.JPEG
+bicycle 131 162 413 459
+door 626 341 468 18
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_5399.JPEG
+bicycle 20 186 628 460
+person 189 23 436 449
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11400.JPEG
+bicycle 89 8 607 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9879.JPEG
+bicycle 33 63 629 423
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_8394.JPEG
+bicycle 278 213 540 466
+bicycle 8 193 145 434
+person 56 70 170 408
+person 443 31 577 464
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3447.JPEG
+bicycle 35 116 294 391
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_11159.JPEG
+bicycle 176 201 364 445
+person 360 37 441 260
+person 457 57 562 295
+person 40 82 139 227
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10611.JPEG
+bicycle 30 28 630 460
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_56509.JPEG
+bicycle 15 34 623 432
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_47120.JPEG
+bicycle 127 223 274 420
+bicycle 303 238 513 463
+person 157 97 327 392
+person 327 75 503 413
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_3040.JPEG
+bicycle 86 354 109 390
+bicycle 136 357 189 404
+bicycle 414 317 501 394
+bicycle 514 322 620 399
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_10945.JPEG
+bicycle 294 229 573 345
+person 249 144 539 286
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_9231.JPEG
+bicycle 197 262 333 463
+bicycle 307 275 428 462
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_853.JPEG
+bicycle 99 176 504 415
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_701.JPEG
+bicycle 255 166 617 455
+
+http://140.115.152.223:7001/data/dataset/bicycle/n02834778_7283.JPEG
+bicycle 243 97 471 400
+person 355 17 480 285

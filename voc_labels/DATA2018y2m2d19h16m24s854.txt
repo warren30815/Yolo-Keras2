@@ -1,0 +1,5005 @@
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6050.JPEG
+tree 632 471 422 8
+tree 521 171 639 434
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7955.JPEG
+trafficlight 121 33 499 469
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9258.JPEG
+trafficlight 551 453 185 22
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24665.JPEG
+trafficlight 235 403 91 146
+trafficlight 544 293 330 116
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39443.JPEG
+trafficlight 389 456 220 327
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32271.JPEG
+trafficlight 310 380 179 190
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17707.JPEG
+trafficlight 370 303 242 109
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_480.JPEG
+trafficlight 489 418 339 272
+trafficlight 486 252 342 61
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12573.JPEG
+trafficlight 112 43 480 452
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26592.JPEG
+trafficlight 110 419 67 333
+trafficlight 334 368 213 262
+trafficlight 473 201 411 44
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22473.JPEG
+trafficlight 235 166 168 69
+trafficlight 443 214 361 135
+trafficlight 153 184 38 19
+person 251 470 189 360
+car 456 412 382 363
+car 120 361 241 433
+tree 519 274 598 414
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22180.JPEG
+trafficlight 462 199 396 49
+person 101 208 131 309
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19928.JPEG
+trafficlight 22 181 212 277
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9410.JPEG
+trafficlight 346 33 522 354
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27016.JPEG
+trafficlight 327 293 426 412
+trafficlight 526 364 566 456
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5700.JPEG
+trafficlight 196 150 239 216
+trafficlight 267 192 317 239
+trafficlight 342 232 396 279
+trafficlight 101 111 139 173
+trafficlight 28 63 1 137
+trafficlight 87 223 113 275
+trafficlight 177 246 198 278
+trafficlight 251 251 283 275
+tree 48 273 118 361
+tree 161 283 205 367
+tree 204 286 227 361
+tree 238 301 275 368
+tree 360 295 411 372
+tree 395 287 436 363
+tree 556 283 617 375
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25243.JPEG
+trafficlight 190 34 411 400
+trafficlight 509 65 631 364
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1077.JPEG
+trafficlight 246 98 282 156
+trafficlight 350 81 391 168
+trafficlight 616 30 634 81
+car 157 229 204 263
+car 114 221 154 266
+car 282 226 300 255
+car 312 211 337 260
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10652.JPEG
+trafficlight 268 42 367 387
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4470.JPEG
+trafficlight 268 129 421 302
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22595.JPEG
+trafficlight 44 223 117 364
+trafficlight 199 204 258 341
+trafficlight 434 190 499 305
+trafficlight 565 153 615 308
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18565.JPEG
+trafficlight 62 167 161 352
+trafficlight 61 6 146 159
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14938.JPEG
+trafficlight 126 126 490 344
+tree 376 306 633 475
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_797.JPEG
+trafficlight 125 36 251 171
+trafficlight 342 42 460 159
+trafficlight 271 141 375 318
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25959.JPEG
+trafficlight 277 184 319 268
+trafficlight 387 169 433 233
+trafficlight 525 264 551 301
+tree 4 193 120 358
+tree 151 125 272 352
+tree 387 296 416 333
+tree 450 296 480 335
+tree 504 293 536 336
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11193.JPEG
+trafficlight 258 3 394 230
+trafficlight 507 137 597 257
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7690.JPEG
+trafficlight 231 214 272 258
+trafficlight 301 229 330 256
+car 565 318 634 386
+car 132 306 161 339
+car 306 318 332 330
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36841.JPEG
+trafficlight 213 101 366 287
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4145.JPEG
+trafficlight 254 211 284 275
+trafficlight 302 246 319 273
+trafficlight 533 254 572 287
+trafficlight 459 346 495 377
+trafficlight 37 330 61 363
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37159.JPEG
+trafficlight 128 24 322 337
+trafficlight 432 14 619 335
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29950.JPEG
+trafficlight 245 273 293 419
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24732.JPEG
+trafficlight 343 228 362 250
+trafficlight 412 219 430 253
+trafficlight 267 230 288 243
+trafficlight 206 216 229 257
+trafficlight 147 217 169 250
+car 184 359 59 285
+car 353 326 331 294
+car 432 342 406 300
+person 492 332 456 297
+car 44 320 9 283
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28313.JPEG
+trafficlight 152 83 240 225
+trafficlight 553 104 606 233
+tree 84 84 580 465
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20373.JPEG
+trafficlight 34 306 143 428
+trafficlight 391 102 601 393
+tree 15 106 348 472
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34553.JPEG
+trafficlight 165 268 88 213
+trafficlight 304 281 273 220
+trafficlight 514 401 482 373
+trafficlight 595 313 527 223
+trafficlight 617 325 568 233
+tree 111 76 247 201
+tree 11 74 76 205
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_287.JPEG
+trafficlight 257 316 217 272
+trafficlight 239 256 194 184
+tree 636 286 361 102
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19120.JPEG
+trafficlight 506 263 489 217
+trafficlight 450 288 427 252
+car 9 339 98 402
+car 93 350 182 377
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30056.JPEG
+trafficlight 169 255 110 143
+trafficlight 396 274 351 159
+trafficlight 610 283 572 173
+trafficlight 479 283 446 163
+trafficlight 373 428 324 333
+trafficlight 421 428 403 373
+trafficlight 476 451 456 389
+trafficlight 531 472 493 404
+trafficlight 562 474 523 428
+trafficlight 69 466 45 412
+trafficlight 177 468 147 407
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26732.JPEG
+trafficlight 373 359 272 106
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6858.JPEG
+trafficlight 234 443 41 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20742.JPEG
+trafficlight 413 277 376 139
+trafficlight 425 138 378 38
+trafficlight 237 288 171 186
+trafficlight 112 366 53 302
+trafficlight 623 355 583 270
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5751.JPEG
+trafficlight 101 1 346 280
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13164.JPEG
+trafficlight 173 46 301 392
+trafficlight 286 2 497 436
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34858.JPEG
+trafficlight 366 246 297 156
+car 287 331 222 260
+car 159 300 78 280
+car 61 298 5 279
+car 368 299 329 289
+tree 74 204 96 311
+tree 5 198 23 306
+tree 579 261 621 318
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36291.JPEG
+trafficlight 463 410 262 58
+trafficlight 310 451 137 142
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9178.JPEG
+trafficlight 98 189 347 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_187.JPEG
+trafficlight 278 35 490 148
+car 568 475 264 259
+car 196 346 35 220
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8161.JPEG
+trafficlight 550 146 392 12
+person 68 286 122 399
+person 526 286 580 364
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6427.JPEG
+trafficlight 400 227 344 51
+person 8 292 47 425
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31145.JPEG
+trafficlight 290 309 114 102
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6489.JPEG
+trafficlight 502 364 253 113
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27751.JPEG
+trafficlight 508 318 221 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14811.JPEG
+trafficlight 15 184 112 459
+trafficlight 149 197 279 447
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29059.JPEG
+trafficlight 161 215 227 342
+trafficlight 392 215 453 347
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33640.JPEG
+trafficlight 31 72 73 125
+trafficlight 123 62 166 135
+person 426 350 372 225
+person 504 350 465 223
+person 623 327 594 218
+person 583 329 552 220
+person 515 212 558 337
+person 337 207 363 274
+trafficlight 378 207 355 169
+trafficlight 482 176 448 124
+trafficlight 507 167 470 123
+trafficlight 557 61 520 8
+trafficlight 594 49 564 8
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21005.JPEG
+trafficlight 146 8 590 411
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20941.JPEG
+trafficlight 103 170 185 363
+trafficlight 545 204 614 399
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2586.JPEG
+trafficlight 212 223 436 473
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14644.JPEG
+trafficlight 115 106 190 371
+trafficlight 217 113 324 398
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6122.JPEG
+trafficlight 130 153 242 261
+trafficlight 368 75 539 244
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22064.JPEG
+trafficlight 164 187 200 229
+trafficlight 351 28 591 251
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23132.JPEG
+trafficlight 228 126 312 287
+trafficlight 342 132 482 288
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7500.JPEG
+trafficlight 166 80 263 187
+trafficlight 334 71 395 175
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21273.JPEG
+tree 602 403 521 218
+person 495 407 425 345
+car 292 384 271 368
+car 138 386 114 360
+car 16 357 63 403
+trafficlight 40 278 72 317
+trafficlight 298 160 324 205
+trafficlight 412 169 451 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23546.JPEG
+trafficlight 368 293 230 169
+trafficlight 400 279 343 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14218.JPEG
+trafficlight 212 17 463 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16773.JPEG
+trafficlight 197 23 478 410
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14731.JPEG
+trafficlight 221 195 409 367
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31594.JPEG
+trafficlight 309 236 471 450
+trafficlight 79 240 222 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_47172.JPEG
+trafficlight 78 309 183 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27160.JPEG
+trafficlight 260 48 346 190
+trafficlight 104 76 181 205
+trafficlight 57 108 4 203
+car 378 349 510 442
+car 178 315 5 450
+trafficlight 588 334 530 281
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18600.JPEG
+trafficlight 330 174 576 462
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9051.JPEG
+car 313 300 434 357
+car 193 318 243 341
+car 220 312 242 332
+trafficlight 341 175 284 105
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32290.JPEG
+trafficlight 476 315 311 12
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6112.JPEG
+car 359 285 627 423
+car 119 240 4 351
+car 209 199 29 307
+person 362 203 414 278
+person 211 198 229 257
+person 240 209 259 268
+trafficlight 373 120 330 167
+trafficlight 122 74 80 129
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33555.JPEG
+trafficlight 421 148 553 372
+trafficlight 77 141 284 334
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9853.JPEG
+trafficlight 416 132 455 246
+trafficlight 256 61 285 141
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40133.JPEG
+trafficlight 138 103 305 401
+trafficlight 380 122 551 394
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12489.JPEG
+trafficlight 283 72 314 158
+trafficlight 322 74 359 171
+trafficlight 264 166 323 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24249.JPEG
+trafficlight 478 30 626 186
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34402.JPEG
+trafficlight 302 177 382 381
+trafficlight 412 185 493 381
+trafficlight 411 409 490 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11602.JPEG
+trafficlight 287 95 398 235
+trafficlight 260 303 351 417
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9115.JPEG
+trafficlight 324 135 441 404
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9082.JPEG
+trafficlight 402 111 482 255
+trafficlight 514 100 600 259
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19442.JPEG
+trafficlight 144 199 184 253
+trafficlight 227 190 262 249
+trafficlight 339 181 406 247
+trafficlight 588 277 626 319
+car 140 393 77 342
+car 247 395 168 337
+car 32 346 73 393
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6776.JPEG
+trafficlight 518 8 618 138
+person 101 226 3 389
+person 134 249 189 351
+person 259 240 450 472
+person 591 252 630 340
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3521.JPEG
+trafficlight 493 161 632 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22303.JPEG
+trafficlight 400 42 494 198
+person 102 294 168 466
+person 51 307 11 442
+car 485 313 584 352
+car 288 325 229 351
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24684.JPEG
+trafficlight 459 114 392 24
+trafficlight 474 241 393 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32112.JPEG
+trafficlight 312 79 577 428
+trafficlight 220 253 352 420
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34882.JPEG
+trafficlight 417 121 506 336
+trafficlight 499 97 575 321
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6134.JPEG
+trafficlight 138 122 187 209
+trafficlight 101 117 142 216
+trafficlight 251 119 215 214
+trafficlight 244 234 206 269
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25010.JPEG
+trafficlight 126 218 313 442
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25043.JPEG
+trafficlight 184 116 208 159
+trafficlight 66 105 83 157
+tree 282 244 250 132
+tree 368 239 346 139
+tree 333 241 278 77
+tree 575 244 543 150
+tree 522 243 485 155
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24258.JPEG
+trafficlight 417 105 474 169
+trafficlight 285 183 374 263
+tree 593 413 540 190
+tree 437 413 356 236
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22881.JPEG
+trafficlight 177 219 114 113
+trafficlight 575 335 528 265
+trafficlight 629 340 594 261
+trafficlight 532 346 482 280
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26628.JPEG
+trafficlight 322 127 474 460
+trafficlight 170 90 321 418
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13666.JPEG
+trafficlight 305 50 383 280
+trafficlight 381 304 433 387
+trafficlight 205 290 274 368
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8721.JPEG
+trafficlight 41 305 129 376
+trafficlight 435 290 492 343
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25655.JPEG
+trafficlight 291 103 439 385
+trafficlight 121 115 286 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28045.JPEG
+trafficlight 131 58 195 230
+trafficlight 331 198 397 303
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28234.JPEG
+trafficlight 63 47 203 423
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21134.JPEG
+trafficlight 261 200 310 296
+trafficlight 562 356 597 400
+trafficlight 560 422 587 451
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24667.JPEG
+trafficlight 295 55 412 222
+trafficlight 57 344 101 411
+trafficlight 267 404 302 446
+trafficlight 575 360 599 412
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3516.JPEG
+trafficlight 472 331 186 10
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2218.JPEG
+trafficlight 218 20 310 348
+trafficlight 397 131 509 433
+trafficlight 14 15 126 367
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24362.JPEG
+trafficlight 214 110 247 160
+trafficlight 316 133 397 198
+car 271 329 208 274
+car 447 326 340 283
+tree 196 308 136 112
+tree 99 289 16 94
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39589.JPEG
+trafficlight 372 192 518 374
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21385.JPEG
+trafficlight 380 49 22 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32063.JPEG
+trafficlight 441 155 285 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30623.JPEG
+trafficlight 329 252 306 305
+trafficlight 186 272 132 301
+trafficlight 246 259 209 350
+trafficlight 474 269 441 315
+person 96 430 68 379
+car 10 377 42 420
+car 469 395 528 433
+car 547 398 567 413
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31576.JPEG
+trafficlight 186 91 443 456
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6031.JPEG
+trafficlight 361 220 373 298
+trafficlight 488 302 468 333
+trafficlight 423 193 369 208
+car 89 354 140 409
+car 169 364 234 426
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2858.JPEG
+trafficlight 455 402 420 453
+trafficlight 599 408 570 464
+trafficlight 306 410 277 454
+trafficlight 179 402 141 451
+trafficlight 83 406 47 456
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21064.JPEG
+trafficlight 297 72 47 137
+trafficlight 601 305 506 452
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5659.JPEG
+trafficlight 447 71 149 448
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28567.JPEG
+trafficlight 398 196 235 346
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26171.JPEG
+trafficlight 388 126 254 294
+trafficlight 606 135 533 286
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21087.JPEG
+trafficlight 427 192 335 161
+car 233 337 144 267
+car 84 287 39 267
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8680.JPEG
+trafficlight 303 56 144 391
+trafficlight 476 46 313 437
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8073.JPEG
+trafficlight 407 70 151 156
+trafficlight 494 242 133 448
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28394.JPEG
+trafficlight 259 277 186 327
+trafficlight 427 205 391 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5283.JPEG
+trafficlight 572 96 397 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2863.JPEG
+trafficlight 443 61 382 162
+trafficlight 255 85 211 151
+trafficlight 109 233 78 300
+trafficlight 566 264 532 327
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39464.JPEG
+trafficlight 376 125 286 389
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23379.JPEG
+trafficlight 313 302 279 367
+trafficlight 498 303 431 382
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25018.JPEG
+trafficlight 341 26 102 220
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35752.JPEG
+trafficlight 409 128 247 298
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5556.JPEG
+trafficlight 445 129 349 250
+trafficlight 562 124 454 235
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22607.JPEG
+trafficlight 451 32 194 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26309.JPEG
+trafficlight 513 142 419 402
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28452.JPEG
+trafficlight 420 135 329 269
+trafficlight 290 143 217 271
+bench 13 343 175 467
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5948.JPEG
+trafficlight 389 148 615 453
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8000.JPEG
+trafficlight 257 156 330 191
+trafficlight 155 234 116 282
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11542.JPEG
+trafficlight 385 141 307 346
+trafficlight 293 149 201 348
+trafficlight 486 151 409 347
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18910.JPEG
+trafficlight 536 40 368 204
+car 420 352 320 299
+car 175 338 105 294
+car 103 341 82 308
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23209.JPEG
+trafficlight 245 129 307 320
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12624.JPEG
+trafficlight 210 230 314 384
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25376.JPEG
+car 421 287 301 238
+trafficlight 128 214 62 118
+trafficlight 555 133 500 31
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8723.JPEG
+trafficlight 361 22 250 143
+car 495 458 107 222
+car 149 271 44 182
+car 43 252 5 199
+person 285 157 221 224
+person 400 185 347 231
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13191.JPEG
+trafficlight 325 429 108 46
+trafficlight 535 427 326 63
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26852.JPEG
+trafficlight 250 134 186 48
+trafficlight 180 63 79 9
+person 89 206 70 149
+person 73 199 51 154
+person 36 193 13 150
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5402.JPEG
+trafficlight 471 286 324 457
+trafficlight 173 216 20 421
+trafficlight 567 27 403 227
+trafficlight 346 9 403 174
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19714.JPEG
+trafficlight 288 126 253 170
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2634.JPEG
+trafficlight 369 138 449 348
+trafficlight 258 161 331 350
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9046.JPEG
+trafficlight 191 82 428 425
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27209.JPEG
+trafficlight 379 111 424 173
+car 311 258 11 465
+car 536 258 622 396
+car 561 291 362 349
+car 378 238 318 281
+car 294 224 229 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9265.JPEG
+trafficlight 378 118 248 270
+trafficlight 87 82 22 219
+trafficlight 509 173 441 305
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18958.JPEG
+trafficlight 343 79 218 253
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15655.JPEG
+trafficlight 414 165 308 271
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15761.JPEG
+trafficlight 476 45 185 391
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21473.JPEG
+trafficlight 364 214 220 409
+trafficlight 562 183 374 409
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21136.JPEG
+trafficlight 147 194 77 291
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26266.JPEG
+trafficlight 497 80 429 174
+trafficlight 613 93 552 198
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17848.JPEG
+trafficlight 526 189 505 233
+trafficlight 604 203 566 249
+trafficlight 307 236 261 283
+trafficlight 92 192 31 239
+car 440 343 328 296
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9523.JPEG
+trafficlight 194 106 41 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10524.JPEG
+trafficlight 353 107 206 332
+trafficlight 62 86 167 373
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7112.JPEG
+trafficlight 214 236 133 389
+trafficlight 444 296 501 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20664.JPEG
+trafficlight 161 185 198 233
+trafficlight 258 189 285 239
+trafficlight 499 276 513 308
+trafficlight 456 279 481 324
+car 96 396 39 362
+car 224 400 185 370
+car 115 397 95 364
+trafficlight 593 201 556 155
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22760.JPEG
+trafficlight 171 152 206 198
+trafficlight 447 196 466 230
+car 384 323 532 453
+car 210 329 15 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33178.JPEG
+trafficlight 519 458 333 243
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6066.JPEG
+trafficlight 447 457 177 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25100.JPEG
+trafficlight 268 184 89 12
+trafficlight 450 193 308 89
+trafficlight 589 128 457 11
+trafficlight 365 356 247 180
+person 482 347 522 425
+motorcycle 544 371 621 415
+motorcycle 462 367 395 437
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10361.JPEG
+trafficlight 63 236 20 150
+trafficlight 333 88 226 24
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22636.JPEG
+trafficlight 440 28 396 150
+car 608 469 564 417
+car 557 474 496 416
+car 93 360 494 477
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25138.JPEG
+trafficlight 150 240 60 455
+trafficlight 557 439 607 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25107.JPEG
+trafficlight 410 131 203 347
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9225.JPEG
+trafficlight 458 95 411 157
+trafficlight 351 155 310 218
+trafficlight 399 132 370 171
+trafficlight 304 168 258 231
+car 183 319 53 282
+car 324 319 226 285
+car 425 320 387 287
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11253.JPEG
+trafficlight 547 137 479 264
+trafficlight 398 163 321 228
+trafficlight 224 191 178 282
+car 180 412 275 480
+car 372 425 443 468
+car 543 445 628 480
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23893.JPEG
+trafficlight 261 97 227 206
+trafficlight 328 98 298 210
+trafficlight 415 99 386 197
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22585.JPEG
+trafficlight 153 106 85 180
+trafficlight 313 111 270 180
+trafficlight 464 121 433 186
+trafficlight 611 120 567 171
+car 42 312 145 402
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9153.JPEG
+trafficlight 178 155 201 212
+trafficlight 270 168 289 215
+trafficlight 352 177 382 234
+trafficlight 439 232 460 268
+trafficlight 440 279 458 294
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40431.JPEG
+trafficlight 319 47 146 426
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24989.JPEG
+trafficlight 554 65 494 165
+trafficlight 369 104 315 248
+trafficlight 265 153 214 249
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13631.JPEG
+trafficlight 323 63 283 135
+trafficlight 430 122 379 193
+trafficlight 479 157 446 226
+trafficlight 207 299 192 343
+trafficlight 273 314 237 348
+trafficlight 588 277 537 346
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35316.JPEG
+trafficlight 400 87 216 227
+trafficlight 314 245 151 438
+trafficlight 482 251 323 406
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28562.JPEG
+trafficlight 101 68 40 153
+trafficlight 172 70 120 159
+trafficlight 278 74 240 131
+trafficlight 470 69 436 141
+trafficlight 188 201 139 263
+car 13 305 233 471
+car 227 344 330 425
+car 414 329 479 388
+car 446 346 589 445
+person 596 324 623 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5939.JPEG
+trafficlight 439 353 154 144
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_998.JPEG
+trafficlight 287 270 234 194
+trafficlight 399 280 343 195
+trafficlight 190 320 170 267
+trafficlight 261 307 189 262
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18857.JPEG
+trafficlight 578 450 125 72
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_578.JPEG
+trafficlight 582 305 440 79
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21010.JPEG
+trafficlight 303 333 172 84
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21981.JPEG
+trafficlight 582 402 391 19
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21758.JPEG
+trafficlight 539 268 494 171
+car 596 377 439 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_834.JPEG
+trafficlight 238 283 123 135
+trafficlight 548 302 454 171
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36439.JPEG
+car 517 328 452 281
+car 434 308 404 278
+car 270 315 250 300
+car 234 320 186 291
+car 52 311 24 293
+trafficlight 347 242 335 218
+trafficlight 401 245 390 218
+trafficlight 449 244 436 219
+trafficlight 535 250 515 221
+trafficlight 237 211 211 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16686.JPEG
+trafficlight 267 418 60 244
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5703.JPEG
+trafficlight 590 458 411 256
+trafficlight 338 388 66 146
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27858.JPEG
+trafficlight 433 432 229 92
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34872.JPEG
+trafficlight 468 393 192 54
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_42652.JPEG
+trafficlight 623 264 538 93
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29581.JPEG
+trafficlight 122 158 35 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21505.JPEG
+trafficlight 269 415 118 30
+trafficlight 491 438 299 73
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27468.JPEG
+trafficlight 458 257 411 156
+trafficlight 405 238 354 151
+trafficlight 157 181 99 92
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19537.JPEG
+trafficlight 87 435 3 305
+trafficlight 199 455 137 328
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25660.JPEG
+trafficlight 394 340 368 269
+car 114 353 174 412
+car 218 369 398 463
+car 355 353 606 460
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27959.JPEG
+trafficlight 573 232 521 152
+trafficlight 430 240 387 169
+trafficlight 314 248 267 189
+trafficlight 222 233 208 197
+trafficlight 136 254 113 196
+car 80 367 187 460
+car 271 375 315 420
+car 85 356 4 446
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24612.JPEG
+trafficlight 470 396 285 227
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13797.JPEG
+trafficlight 283 298 228 197
+trafficlight 373 305 304 185
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29044.JPEG
+trafficlight 226 169 121 17
+trafficlight 427 32 487 164
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7817.JPEG
+trafficlight 332 59 388 132
+trafficlight 515 227 549 261
+trafficlight 62 183 121 224
+car 396 384 463 413
+car 537 383 561 400
+car 582 381 634 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23827.JPEG
+trafficlight 440 74 537 184
+trafficlight 244 229 315 342
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26249.JPEG
+trafficlight 69 80 186 221
+trafficlight 115 368 151 414
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_116.JPEG
+trafficlight 285 147 452 353
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28266.JPEG
+trafficlight 191 153 355 293
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13550.JPEG
+trafficlight 408 143 424 178
+trafficlight 554 155 571 189
+person 552 282 582 361
+person 468 275 488 366
+person 524 272 543 365
+person 84 274 101 331
+person 50 269 74 334
+person 438 275 453 341
+person 304 270 311 325
+person 351 270 367 328
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21217.JPEG
+trafficlight 90 149 146 256
+car 371 403 499 478
+car 464 433 610 480
+car 65 402 395 474
+trafficlight 223 318 263 350
+trafficlight 291 322 324 361
+trafficlight 348 321 382 361
+trafficlight 413 329 447 361
+trafficlight 538 339 560 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_866.JPEG
+trafficlight 177 172 246 244
+trafficlight 352 176 405 245
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14037.JPEG
+trafficlight 342 201 510 390
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5631.JPEG
+trafficlight 401 70 506 237
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18815.JPEG
+trafficlight 328 95 429 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36821.JPEG
+trafficlight 174 92 293 320
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10837.JPEG
+trafficlight 370 29 404 103
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25349.JPEG
+trafficlight 261 223 304 313
+trafficlight 101 240 120 307
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25756.JPEG
+trafficlight 276 169 351 336
+trafficlight 389 27 541 342
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8040.JPEG
+trafficlight 245 200 321 289
+trafficlight 337 206 381 279
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24959.JPEG
+trafficlight 315 391 357 461
+trafficlight 573 427 622 473
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29301.JPEG
+trafficlight 137 26 429 454
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23083.JPEG
+trafficlight 127 201 198 314
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1711.JPEG
+trafficlight 161 54 437 424
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15228.JPEG
+trafficlight 208 194 285 253
+trafficlight 372 194 415 271
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27177.JPEG
+trafficlight 241 163 279 223
+trafficlight 368 139 393 218
+person 323 415 348 469
+person 383 413 427 471
+person 441 427 480 468
+trafficlight 566 334 607 362
+bus 166 379 479 470
+tree 45 254 134 404
+tree 290 256 383 396
+tree 515 56 638 413
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26086.JPEG
+trafficlight 357 108 528 451
+motorcycle 147 387 263 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3633.JPEG
+trafficlight 187 92 407 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25275.JPEG
+trafficlight 59 56 387 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14279.JPEG
+trafficlight 215 139 412 327
+car 93 141 236 220
+car 106 117 3 190
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26072.JPEG
+trafficlight 183 250 325 391
+trafficlight 348 240 473 384
+trafficlight 229 18 325 159
+trafficlight 375 29 450 147
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39649.JPEG
+trafficlight 276 137 436 432
+trafficlight 522 129 632 415
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23312.JPEG
+trafficlight 203 135 388 391
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30145.JPEG
+trafficlight 74 27 320 419
+trafficlight 363 33 604 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10226.JPEG
+car 162 307 380 381
+car 491 293 607 342
+car 109 325 4 386
+trafficlight 8 112 38 202
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_45643.JPEG
+trafficlight 197 11 401 397
+trafficlight 364 54 609 407
+trafficlight 24 73 210 407
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22753.JPEG
+trafficlight 193 126 145 158
+trafficlight 359 111 336 153
+trafficlight 605 121 641 173
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31444.JPEG
+trafficlight 137 62 261 364
+trafficlight 447 37 513 388
+car 58 193 7 128
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29267.JPEG
+trafficlight 119 217 155 293
+trafficlight 295 243 335 312
+trafficlight 410 250 442 319
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31418.JPEG
+trafficlight 304 58 441 402
+trafficlight 526 326 573 427
+trafficlight 590 344 627 426
+trafficlight 231 366 263 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5032.JPEG
+trafficlight 169 52 370 436
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17553.JPEG
+trafficlight 300 123 401 368
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22610.JPEG
+car 357 402 201 322
+car 553 331 636 399
+car 115 326 228 362
+car 438 320 528 367
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10511.JPEG
+trafficlight 223 130 405 466
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_108.JPEG
+trafficlight 264 38 388 306
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8323.JPEG
+trafficlight 154 86 353 175
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_914.JPEG
+trafficlight 183 192 283 441
+trafficlight 219 41 387 160
+trafficlight 341 201 452 468
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15904.JPEG
+trafficlight 115 200 151 250
+trafficlight 263 192 291 265
+trafficlight 383 196 421 275
+car 303 448 206 385
+car 87 418 20 377
+car 131 400 88 375
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1740.JPEG
+trafficlight 147 250 260 451
+person 318 296 352 394
+person 521 339 596 459
+person 461 271 489 363
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12953.JPEG
+trafficlight 283 123 304 198
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24531.JPEG
+trafficlight 214 144 323 332
+trafficlight 308 108 451 349
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16605.JPEG
+trafficlight 87 11 154 131
+trafficlight 354 180 420 276
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12356.JPEG
+trafficlight 207 144 367 469
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4458.JPEG
+trafficlight 340 19 530 242
+trafficlight 204 114 306 309
+trafficlight 295 314 529 396
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_724.JPEG
+trafficlight 61 204 136 346
+trafficlight 136 226 246 327
+trafficlight 84 366 130 395
+trafficlight 190 364 237 399
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1643.JPEG
+trafficlight 249 88 315 116
+trafficlight 257 135 387 158
+trafficlight 201 166 310 184
+trafficlight 406 79 491 113
+person 344 333 310 251
+car 185 277 148 233
+car 300 273 248 235
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23045.JPEG
+trafficlight 351 52 441 177
+trafficlight 472 83 528 193
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22752.JPEG
+trafficlight 201 173 210 205
+trafficlight 283 181 304 207
+car 155 256 308 375
+car 62 247 159 327
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25304.JPEG
+trafficlight 248 83 535 406
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30075.JPEG
+trafficlight 243 101 345 196
+trafficlight 162 222 264 435
+trafficlight 283 220 406 437
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7780.JPEG
+trafficlight 534 380 67 10
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33129.JPEG
+trafficlight 190 156 339 355
+trafficlight 320 174 420 354
+trafficlight 146 182 225 341
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_556.JPEG
+trafficlight 89 296 127 373
+trafficlight 199 272 247 368
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7506.JPEG
+trafficlight 213 252 227 295
+trafficlight 266 254 298 296
+trafficlight 131 299 172 330
+trafficlight 488 309 511 337
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3241.JPEG
+trafficlight 256 43 429 137
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32359.JPEG
+trafficlight 147 155 287 368
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28815.JPEG
+trafficlight 350 140 487 326
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40570.JPEG
+trafficlight 144 16 582 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23124.JPEG
+trafficlight 277 187 361 298
+trafficlight 551 198 606 301
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7838.JPEG
+trafficlight 226 208 268 246
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8022.JPEG
+trafficlight 114 211 170 280
+trafficlight 260 200 321 283
+trafficlight 468 312 537 423
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16083.JPEG
+trafficlight 99 30 490 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38467.JPEG
+trafficlight 244 214 350 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1008.JPEG
+trafficlight 137 201 147 230
+trafficlight 52 268 72 295
+trafficlight 167 213 188 241
+trafficlight 312 196 330 224
+trafficlight 345 128 362 167
+trafficlight 395 122 416 166
+car 71 308 184 381
+car 324 309 396 367
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12580.JPEG
+trafficlight 69 24 234 187
+person 276 204 389 309
+person 530 191 616 315
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20585.JPEG
+car 299 314 346 376
+car 325 283 367 324
+car 303 222 334 251
+car 400 220 449 265
+trafficlight 191 121 107 3
+trafficlight 454 129 401 9
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7037.JPEG
+trafficlight 323 145 422 246
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_104.JPEG
+trafficlight 188 87 284 273
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26525.JPEG
+trafficlight 152 97 197 236
+trafficlight 476 82 544 215
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33483.JPEG
+trafficlight 521 102 437 20
+person 422 207 535 401
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34089.JPEG
+trafficlight 453 380 304 201
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27683.JPEG
+trafficlight 366 346 237 169
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10580.JPEG
+trafficlight 357 328 227 242
+trafficlight 585 123 408 11
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23192.JPEG
+trafficlight 535 381 284 40
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_779.JPEG
+trafficlight 254 252 412 403
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6217.JPEG
+trafficlight 303 176 351 243
+trafficlight 263 257 308 341
+trafficlight 188 151 215 214
+trafficlight 156 214 192 269
+trafficlight 292 95 331 165
+trafficlight 413 125 444 185
+trafficlight 409 201 442 251
+trafficlight 476 132 504 227
+trafficlight 473 235 512 303
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32768.JPEG
+trafficlight 346 70 465 428
+trafficlight 103 80 288 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19916.JPEG
+trafficlight 335 248 362 325
+trafficlight 541 244 580 338
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16763.JPEG
+trafficlight 233 48 497 406
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7223.JPEG
+trafficlight 76 146 146 278
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22158.JPEG
+trafficlight 194 42 497 248
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22169.JPEG
+trafficlight 431 47 572 305
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23392.JPEG
+trafficlight 469 78 528 204
+trafficlight 439 152 498 265
+trafficlight 553 71 617 265
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_336.JPEG
+trafficlight 253 141 316 284
+trafficlight 491 232 595 382
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27554.JPEG
+trafficlight 366 29 400 84
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20256.JPEG
+trafficlight 100 326 184 415
+trafficlight 214 322 278 412
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37845.JPEG
+trafficlight 144 96 288 406
+trafficlight 326 95 498 397
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1341.JPEG
+trafficlight 180 54 285 314
+trafficlight 305 88 420 327
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22731.JPEG
+trafficlight 357 74 416 306
+trafficlight 22 51 89 291
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26509.JPEG
+trafficlight 23 10 458 431
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7198.JPEG
+trafficlight 63 63 170 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15795.JPEG
+trafficlight 322 32 433 165
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21009.JPEG
+trafficlight 193 106 362 361
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31508.JPEG
+trafficlight 268 172 356 329
+trafficlight 133 150 259 421
+trafficlight 383 159 457 436
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4762.JPEG
+trafficlight 320 209 371 279
+trafficlight 167 322 233 373
+trafficlight 347 345 384 375
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_972.JPEG
+trafficlight 302 192 400 236
+car 25 304 135 375
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31798.JPEG
+car 353 281 606 426
+car 226 244 13 385
+car 242 291 296 318
+car 313 291 329 306
+trafficlight 213 210 177 173
+trafficlight 292 213 267 171
+trafficlight 366 214 342 173
+trafficlight 461 217 437 170
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21536.JPEG
+trafficlight 107 174 133 223
+trafficlight 254 177 272 226
+trafficlight 372 181 399 237
+trafficlight 489 191 524 231
+car 39 371 73 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32070.JPEG
+trafficlight 272 154 494 406
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29236.JPEG
+trafficlight 323 218 424 248
+car 343 303 373 327
+car 488 263 626 389
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27311.JPEG
+trafficlight 224 194 321 296
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13524.JPEG
+trafficlight 207 112 374 292
+trafficlight 80 149 243 375
+trafficlight 394 164 461 288
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15924.JPEG
+trafficlight 349 90 494 449
+trafficlight 537 249 612 430
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22437.JPEG
+trafficlight 297 107 385 309
+trafficlight 195 147 301 331
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3226.JPEG
+trafficlight 377 46 418 146
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2759.JPEG
+person 344 68 419 174
+trafficlight 466 83 511 195
+trafficlight 517 83 564 197
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6251.JPEG
+trafficlight 375 42 415 233
+trafficlight 133 220 189 372
+trafficlight 98 338 14 460
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6178.JPEG
+trafficlight 469 68 211 431
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6632.JPEG
+trafficlight 365 164 266 336
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23928.JPEG
+trafficlight 381 72 348 136
+trafficlight 130 267 80 341
+trafficlight 533 240 502 336
+bus 76 363 283 436
+car 348 401 406 428
+car 417 387 511 426
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28872.JPEG
+trafficlight 491 169 429 109
+car 428 299 369 269
+car 354 307 232 273
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13582.JPEG
+trafficlight 530 459 242 41
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32655.JPEG
+trafficlight 138 439 34 241
+trafficlight 614 404 513 186
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35039.JPEG
+trafficlight 362 178 322 231
+trafficlight 240 176 201 238
+car 306 459 167 398
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6028.JPEG
+trafficlight 111 142 542 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13783.JPEG
+trafficlight 221 97 273 181
+trafficlight 356 103 391 169
+car 451 351 386 275
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_460.JPEG
+trafficlight 273 171 419 475
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29069.JPEG
+trafficlight 191 78 463 437
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4017.JPEG
+trafficlight 222 59 287 119
+car 237 295 24 462
+car 328 263 421 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23178.JPEG
+trafficlight 325 121 478 378
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18509.JPEG
+trafficlight 223 74 40 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25045.JPEG
+trafficlight 504 29 23 466
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34000.JPEG
+trafficlight 560 258 489 385
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27149.JPEG
+trafficlight 411 122 118 442
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24807.JPEG
+trafficlight 322 114 168 401
+trafficlight 430 29 633 204
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29797.JPEG
+trafficlight 587 23 50 376
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23330.JPEG
+trafficlight 618 101 504 286
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33209.JPEG
+trafficlight 175 203 58 395
+trafficlight 303 336 221 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25341.JPEG
+trafficlight 274 142 169 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33832.JPEG
+trafficlight 175 43 252 428
+trafficlight 355 7 467 424
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33371.JPEG
+trafficlight 275 20 407 342
+trafficlight 483 25 572 351
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37544.JPEG
+trafficlight 218 218 158 309
+trafficlight 354 135 252 272
+trafficlight 589 31 490 180
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29995.JPEG
+trafficlight 411 36 325 121
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34811.JPEG
+trafficlight 125 111 12 358
+trafficlight 487 13 615 321
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7207.JPEG
+trafficlight 581 344 109 20
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7132.JPEG
+trafficlight 407 82 255 190
+trafficlight 608 59 474 168
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31923.JPEG
+car 190 391 98 303
+car 86 371 38 321
+car 310 382 254 322
+car 421 372 373 330
+car 522 358 425 324
+trafficlight 400 237 363 187
+trafficlight 296 264 271 216
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31183.JPEG
+trafficlight 401 119 238 326
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22292.JPEG
+trafficlight 516 108 345 164
+car 237 321 454 473
+car 198 316 34 449
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3518.JPEG
+trafficlight 217 86 308 352
+trafficlight 168 129 103 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35312.JPEG
+trafficlight 77 20 558 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24154.JPEG
+trafficlight 572 312 384 17
+trafficlight 242 244 60 459
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_41042.JPEG
+trafficlight 469 80 64 458
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9076.JPEG
+trafficlight 541 65 179 270
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_41186.JPEG
+trafficlight 541 118 346 431
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18167.JPEG
+trafficlight 528 174 441 289
+trafficlight 402 195 350 262
+trafficlight 582 179 543 288
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22401.JPEG
+trafficlight 287 153 224 237
+trafficlight 427 115 334 244
+person 372 403 395 474
+person 403 412 423 469
+person 450 419 468 476
+person 480 449 495 477
+car 197 422 28 471
+car 134 414 305 478
+bus 178 358 498 471
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23621.JPEG
+trafficlight 372 99 252 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25649.JPEG
+trafficlight 135 91 44 207
+trafficlight 489 69 586 213
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20178.JPEG
+trafficlight 450 36 201 417
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37988.JPEG
+trafficlight 338 20 287 92
+trafficlight 317 108 302 139
+car 406 275 446 336
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9888.JPEG
+car 510 368 621 471
+person 445 440 405 343
+trafficlight 373 158 211 128
+trafficlight 554 254 492 153
+trafficlight 538 267 494 304
+trafficlight 475 249 445 308
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35580.JPEG
+trafficlight 524 147 367 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1701.JPEG
+trafficlight 269 151 74 415
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25142.JPEG
+trafficlight 453 111 129 363
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12482.JPEG
+trafficlight 486 26 289 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24794.JPEG
+trafficlight 428 112 304 264
+trafficlight 257 288 104 445
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5251.JPEG
+trafficlight 429 51 360 155
+trafficlight 580 23 489 158
+bicycle 173 446 31 295
+person 86 199 230 443
+person 183 212 282 430
+person 279 186 399 390
+person 509 199 386 315
+person 596 199 526 349
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39647.JPEG
+trafficlight 228 84 147 163
+trafficlight 339 98 257 174
+car 313 316 72 234
+car 60 307 6 246
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10094.JPEG
+trafficlight 159 115 120 210
+trafficlight 458 22 400 102
+trafficlight 570 32 518 112
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19071.JPEG
+trafficlight 341 265 314 319
+trafficlight 436 262 387 326
+trafficlight 171 345 113 394
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33147.JPEG
+trafficlight 159 144 101 244
+trafficlight 192 152 161 229
+trafficlight 260 155 218 226
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32941.JPEG
+trafficlight 310 75 260 160
+trafficlight 130 112 87 180
+trafficlight 598 23 507 119
+car 536 370 628 451
+car 53 309 33 328
+car 64 288 49 304
+car 367 329 246 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7671.JPEG
+trafficlight 577 380 365 27
+trafficlight 264 20 41 372
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20915.JPEG
+trafficlight 375 84 597 404
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_42755.JPEG
+trafficlight 397 122 563 433
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1728.JPEG
+trafficlight 365 189 267 264
+trafficlight 323 266 268 300
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8963.JPEG
+trafficlight 392 101 185 252
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9468.JPEG
+trafficlight 545 38 280 423
+trafficlight 283 69 26 475
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14378.JPEG
+car 531 311 623 344
+trafficlight 394 218 375 243
+trafficlight 355 233 320 255
+trafficlight 302 224 278 248
+trafficlight 273 223 214 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17910.JPEG
+trafficlight 421 225 355 294
+trafficlight 164 300 125 369
+car 289 431 327 474
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25884.JPEG
+trafficlight 246 100 341 230
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35420.JPEG
+trafficlight 459 75 246 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34836.JPEG
+trafficlight 220 48 55 332
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21824.JPEG
+trafficlight 242 84 54 371
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33319.JPEG
+trafficlight 381 149 276 321
+trafficlight 425 31 381 150
+trafficlight 556 93 527 168
+trafficlight 497 284 456 402
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22694.JPEG
+trafficlight 342 188 309 246
+trafficlight 256 173 208 251
+trafficlight 146 177 105 254
+car 210 425 64 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14237.JPEG
+trafficlight 248 263 182 123
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34720.JPEG
+trafficlight 443 358 188 15
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26481.JPEG
+trafficlight 152 273 73 148
+trafficlight 525 282 451 110
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23288.JPEG
+trafficlight 433 165 406 123
+trafficlight 307 184 295 135
+trafficlight 217 226 200 178
+car 411 296 354 238
+car 330 268 246 239
+car 465 241 532 292
+car 531 246 615 330
+person 98 282 77 241
+person 165 290 156 236
+person 196 285 177 232
+person 221 283 205 236
+person 273 283 244 234
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7141.JPEG
+trafficlight 90 333 14 58
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12147.JPEG
+trafficlight 152 57 376 270
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5326.JPEG
+trafficlight 147 90 440 463
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_640.JPEG
+trafficlight 170 54 85 173
+person 325 439 217 252
+person 476 454 339 235
+person 590 403 489 232
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_584.JPEG
+trafficlight 287 127 384 230
+motorcycle 63 373 138 451
+motorcycle 140 362 179 414
+person 42 286 126 454
+person 303 255 483 470
+person 241 267 316 436
+person 135 280 217 405
+person 591 256 627 421
+person 478 307 513 367
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1839.JPEG
+trafficlight 215 9 616 441
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26825.JPEG
+trafficlight 236 125 273 158
+trafficlight 444 117 474 157
+trafficlight 486 173 540 237
+car 405 244 594 409
+car 315 264 397 329
+car 225 239 298 298
+car 89 251 166 299
+bus 437 263 290 200
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14606.JPEG
+trafficlight 224 44 402 406
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3169.JPEG
+trafficlight 236 58 399 232
+trafficlight 416 60 515 208
+trafficlight 205 240 90 324
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9170.JPEG
+trafficlight 322 45 158 284
+trafficlight 362 76 574 347
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22522.JPEG
+trafficlight 209 25 127 190
+trafficlight 559 67 462 252
+car 496 434 165 327
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22037.JPEG
+trafficlight 463 476 128 56
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37944.JPEG
+trafficlight 127 210 77 127
+trafficlight 405 341 361 233
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27067.JPEG
+trafficlight 381 179 313 49
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_619.JPEG
+trafficlight 607 337 522 109
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17292.JPEG
+trafficlight 592 462 344 242
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18959.JPEG
+car 299 429 225 339
+car 187 389 95 325
+car 379 393 329 343
+car 458 384 408 347
+car 580 422 495 363
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25234.JPEG
+trafficlight 454 450 217 49
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22317.JPEG
+trafficlight 131 130 105 76
+trafficlight 243 107 240 70
+car 290 253 341 315
+car 219 250 149 283
+car 246 242 182 266
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40017.JPEG
+trafficlight 482 288 335 23
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18323.JPEG
+trafficlight 445 387 220 47
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7896.JPEG
+trafficlight 392 374 274 102
+trafficlight 256 324 193 124
+trafficlight 475 340 433 117
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19899.JPEG
+trafficlight 216 107 92 42
+trafficlight 541 363 478 283
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35124.JPEG
+trafficlight 510 385 431 172
+trafficlight 125 367 34 80
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10554.JPEG
+trafficlight 246 327 197 259
+trafficlight 420 264 374 160
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7852.JPEG
+trafficlight 303 221 269 181
+trafficlight 361 226 337 184
+trafficlight 477 308 431 256
+tree 104 175 241 338
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12690.JPEG
+trafficlight 489 149 442 26
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10395.JPEG
+trafficlight 402 190 350 29
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24202.JPEG
+trafficlight 384 253 327 194
+trafficlight 528 263 494 180
+car 158 431 266 475
+car 310 439 385 473
+car 436 438 484 471
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24917.JPEG
+trafficlight 206 320 186 281
+trafficlight 279 314 248 280
+trafficlight 322 320 318 290
+car 151 401 99 430
+car 105 377 19 438
+car 395 399 312 421
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31708.JPEG
+trafficlight 158 215 33 30
+trafficlight 612 214 544 42
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40490.JPEG
+trafficlight 379 318 292 30
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10826.JPEG
+trafficlight 281 252 195 78
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8373.JPEG
+trafficlight 604 233 565 91
+trafficlight 567 280 536 198
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15192.JPEG
+trafficlight 246 226 162 276
+trafficlight 536 273 477 323
+car 99 352 189 394
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25406.JPEG
+trafficlight 547 310 508 233
+trafficlight 265 311 202 253
+car 314 386 545 469
+car 129 381 19 461
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3219.JPEG
+trafficlight 399 141 473 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35114.JPEG
+trafficlight 508 247 361 320
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15185.JPEG
+trafficlight 298 194 196 301
+trafficlight 586 195 638 284
+car 399 266 598 444
+car 269 259 12 454
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3815.JPEG
+car 386 381 182 469
+car 334 347 511 418
+car 60 388 130 408
+trafficlight 401 300 368 237
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28040.JPEG
+trafficlight 516 391 195 281
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_297.JPEG
+trafficlight 531 127 484 52
+trafficlight 455 261 432 225
+car 332 275 223 330
+car 413 273 563 339
+car 199 288 79 326
+person 50 341 214 459
+person 545 257 634 441
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24399.JPEG
+trafficlight 447 380 209 51
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20180.JPEG
+trafficlight 382 307 304 156
+trafficlight 263 317 216 138
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19582.JPEG
+trafficlight 468 211 291 30
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3927.JPEG
+trafficlight 336 279 164 86
+trafficlight 162 386 50 275
+trafficlight 584 393 457 286
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_41073.JPEG
+trafficlight 585 456 416 195
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30193.JPEG
+trafficlight 230 286 152 179
+trafficlight 117 277 82 159
+trafficlight 484 330 407 220
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6130.JPEG
+trafficlight 531 435 163 91
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9917.JPEG
+trafficlight 409 457 125 14
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20297.JPEG
+trafficlight 533 363 176 36
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26530.JPEG
+trafficlight 352 219 317 171
+trafficlight 256 222 231 162
+trafficlight 184 204 140 148
+trafficlight 509 298 464 225
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22111.JPEG
+trafficlight 324 183 245 32
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27501.JPEG
+trafficlight 443 411 323 114
+trafficlight 316 448 215 293
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10381.JPEG
+trafficlight 503 307 189 128
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5986.JPEG
+trafficlight 601 437 507 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21506.JPEG
+trafficlight 326 233 294 185
+trafficlight 252 239 240 180
+trafficlight 199 233 166 182
+trafficlight 448 279 425 227
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12507.JPEG
+trafficlight 537 402 144 89
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4290.JPEG
+trafficlight 311 180 240 67
+car 308 399 233 336
+car 224 369 195 335
+car 419 378 386 347
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18793.JPEG
+trafficlight 310 314 154 64
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2477.JPEG
+trafficlight 406 137 357 49
+trafficlight 281 144 229 49
+trafficlight 280 228 237 181
+trafficlight 287 270 254 235
+trafficlight 236 260 194 217
+trafficlight 612 195 570 143
+bus 617 422 439 220
+car 367 389 266 320
+car 208 386 97 299
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29317.JPEG
+trafficlight 410 409 152 46
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19953.JPEG
+trafficlight 182 136 41 356
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28072.JPEG
+trafficlight 207 25 25 261
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6876.JPEG
+trafficlight 545 36 199 378
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34927.JPEG
+trafficlight 522 57 152 455
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39465.JPEG
+trafficlight 414 143 195 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27911.JPEG
+trafficlight 460 200 294 331
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24491.JPEG
+trafficlight 406 166 286 277
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_719.JPEG
+trafficlight 85 130 6 21
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32357.JPEG
+trafficlight 510 459 144 53
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20370.JPEG
+trafficlight 259 227 240 176
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26995.JPEG
+trafficlight 419 316 353 157
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38115.JPEG
+trafficlight 456 61 391 24
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1848.JPEG
+trafficlight 333 327 258 149
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11005.JPEG
+trafficlight 476 337 246 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28342.JPEG
+trafficlight 225 162 149 26
+trafficlight 496 443 443 400
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2024.JPEG
+trafficlight 566 360 502 230
+trafficlight 200 368 120 191
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38793.JPEG
+trafficlight 569 430 53 18
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20024.JPEG
+trafficlight 274 179 235 119
+trafficlight 411 342 384 296
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32427.JPEG
+trafficlight 421 325 302 147
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6804.JPEG
+trafficlight 359 266 286 121
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19279.JPEG
+trafficlight 347 215 248 146
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19155.JPEG
+trafficlight 415 336 250 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3746.JPEG
+person 231 462 135 267
+person 570 396 489 249
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23250.JPEG
+trafficlight 366 317 279 418
+trafficlight 284 419 223 468
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16961.JPEG
+trafficlight 496 80 141 323
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18702.JPEG
+trafficlight 476 198 241 342
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29992.JPEG
+trafficlight 558 41 106 458
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5955.JPEG
+trafficlight 387 94 11 441
+trafficlight 468 185 632 445
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26161.JPEG
+trafficlight 522 56 341 124
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27827.JPEG
+trafficlight 373 206 358 233
+trafficlight 250 217 208 249
+tree 597 399 428 68
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2767.JPEG
+trafficlight 569 444 456 44
+trafficlight 306 60 405 418
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3728.JPEG
+trafficlight 190 206 165 283
+trafficlight 502 266 347 298
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10111.JPEG
+trafficlight 471 68 358 203
+trafficlight 550 260 301 472
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17159.JPEG
+trafficlight 401 125 212 344
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36944.JPEG
+trafficlight 498 56 310 445
+trafficlight 272 83 54 458
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30347.JPEG
+trafficlight 442 136 291 351
+trafficlight 283 180 217 391
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26573.JPEG
+trafficlight 383 136 273 381
+trafficlight 264 127 193 427
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15454.JPEG
+trafficlight 404 107 136 457
+trafficlight 577 153 416 355
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21108.JPEG
+trafficlight 335 190 267 257
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34146.JPEG
+trafficlight 579 238 514 40
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22778.JPEG
+trafficlight 515 412 164 44
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22144.JPEG
+trafficlight 409 373 211 29
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17664.JPEG
+trafficlight 303 129 245 43
+trafficlight 153 122 114 21
+trafficlight 561 111 493 52
+car 393 241 569 443
+car 289 103 533 344
+person 172 341 116 234
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22001.JPEG
+trafficlight 354 351 293 216
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13600.JPEG
+trafficlight 479 223 453 167
+trafficlight 273 250 242 177
+trafficlight 150 252 74 171
+car 130 408 244 472
+car 224 424 284 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31808.JPEG
+trafficlight 497 28 621 192
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_45631.JPEG
+trafficlight 134 158 190 316
+trafficlight 224 164 278 303
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24741.JPEG
+trafficlight 403 58 236 313
+trafficlight 201 50 55 341
+person 258 366 316 470
+person 356 356 409 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26756.JPEG
+trafficlight 495 23 623 218
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28245.JPEG
+trafficlight 146 167 243 429
+trafficlight 324 132 434 413
+trafficlight 445 179 516 408
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36970.JPEG
+trafficlight 25 464 131 298
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1459.JPEG
+trafficlight 455 421 185 20
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12416.JPEG
+trafficlight 483 315 179 54
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9593.JPEG
+trafficlight 428 261 396 209
+trafficlight 357 249 338 220
+trafficlight 179 300 164 245
+trafficlight 140 276 136 253
+car 97 376 185 403
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29194.JPEG
+trafficlight 382 235 359 162
+trafficlight 236 254 205 229
+trafficlight 236 204 232 183
+trafficlight 274 260 273 237
+trafficlight 358 276 339 234
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21742.JPEG
+trafficlight 519 435 310 51
+trafficlight 318 373 158 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11434.JPEG
+trafficlight 411 219 333 94
+trafficlight 557 190 468 11
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35125.JPEG
+trafficlight 260 144 119 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13766.JPEG
+trafficlight 472 244 274 164
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31601.JPEG
+trafficlight 577 369 299 51
+trafficlight 272 362 123 70
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32593.JPEG
+trafficlight 433 287 203 159
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20962.JPEG
+trafficlight 404 276 192 44
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6487.JPEG
+trafficlight 351 237 292 190
+trafficlight 241 224 221 182
+trafficlight 164 218 147 187
+trafficlight 505 317 465 253
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15638.JPEG
+trafficlight 231 230 147 168
+trafficlight 383 196 346 141
+car 439 408 569 475
+car 539 398 626 473
+car 394 380 531 460
+car 321 373 409 468
+car 230 413 362 480
+bus 87 334 333 469
+trafficlight 83 335 45 274
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12231.JPEG
+trafficlight 546 439 223 72
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11784.JPEG
+trafficlight 397 441 261 230
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19873.JPEG
+trafficlight 439 394 201 105
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11972.JPEG
+trafficlight 447 319 383 123
+trafficlight 567 385 455 154
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13089.JPEG
+trafficlight 488 142 405 31
+trafficlight 316 120 234 36
+trafficlight 102 135 29 12
+car 503 446 367 294
+car 137 354 75 323
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18985.JPEG
+trafficlight 104 411 6 280
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40812.JPEG
+trafficlight 99 249 52 169
+car 365 398 297 338
+person 136 330 172 448
+person 71 351 101 416
+person 43 338 4 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2121.JPEG
+trafficlight 425 386 164 55
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21147.JPEG
+trafficlight 490 447 241 120
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9503.JPEG
+trafficlight 542 238 63 29
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33827.JPEG
+trafficlight 423 421 214 16
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25737.JPEG
+trafficlight 253 265 224 142
+trafficlight 423 274 379 183
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3839.JPEG
+trafficlight 598 468 153 48
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3806.JPEG
+trafficlight 421 405 220 55
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28714.JPEG
+trafficlight 511 443 117 37
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36696.JPEG
+trafficlight 492 179 438 47
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24568.JPEG
+trafficlight 570 191 517 117
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30232.JPEG
+trafficlight 374 434 95 170
+trafficlight 576 402 355 151
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25385.JPEG
+trafficlight 344 212 270 49
+trafficlight 587 217 534 73
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9325.JPEG
+trafficlight 536 381 76 40
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19664.JPEG
+trafficlight 485 379 156 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8814.JPEG
+trafficlight 514 311 437 185
+trafficlight 159 329 41 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11386.JPEG
+trafficlight 353 413 231 61
+trafficlight 227 377 117 58
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_402.JPEG
+trafficlight 154 152 118 59
+trafficlight 94 130 45 68
+trafficlight 361 103 307 51
+trafficlight 491 300 434 205
+trafficlight 537 265 487 184
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19853.JPEG
+trafficlight 295 351 243 113
+trafficlight 462 344 363 99
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16520.JPEG
+trafficlight 383 160 369 128
+trafficlight 479 170 456 122
+car 573 377 404 302
+car 320 348 244 313
+car 373 303 349 328
+person 212 372 178 301
+person 100 358 62 297
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1412.JPEG
+trafficlight 420 330 310 202
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21678.JPEG
+trafficlight 211 164 153 49
+car 400 338 236 262
+car 377 271 490 323
+car 565 267 629 320
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5205.JPEG
+trafficlight 541 409 464 124
+trafficlight 406 369 260 34
+trafficlight 206 364 46 25
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23293.JPEG
+trafficlight 328 169 295 83
+trafficlight 491 176 452 96
+car 440 396 389 374
+car 323 397 266 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19419.JPEG
+trafficlight 306 165 271 105
+trafficlight 252 187 223 115
+trafficlight 192 185 166 147
+trafficlight 164 203 109 140
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1414.JPEG
+trafficlight 384 355 199 49
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25347.JPEG
+trafficlight 426 317 377 184
+trafficlight 602 253 535 102
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1885.JPEG
+trafficlight 590 362 335 44
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1184.JPEG
+trafficlight 94 310 17 209
+trafficlight 322 325 288 225
+trafficlight 602 329 552 218
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7655.JPEG
+trafficlight 569 434 402 43
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20443.JPEG
+trafficlight 289 372 251 295
+trafficlight 71 339 43 261
+trafficlight 585 406 549 339
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2732.JPEG
+trafficlight 376 171 336 208
+trafficlight 73 239 44 284
+trafficlight 601 229 626 272
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17039.JPEG
+trafficlight 217 30 161 115
+trafficlight 601 153 567 279
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24558.JPEG
+trafficlight 214 183 137 323
+trafficlight 544 174 492 309
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16387.JPEG
+trafficlight 488 153 213 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21441.JPEG
+trafficlight 139 56 52 206
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22485.JPEG
+trafficlight 194 110 105 206
+car 259 471 140 357
+car 36 376 139 455
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17544.JPEG
+trafficlight 358 403 315 147
+trafficlight 294 349 218 151
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8626.JPEG
+trafficlight 488 346 388 119
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26301.JPEG
+trafficlight 596 257 541 87
+trafficlight 515 230 425 32
+trafficlight 169 334 131 216
+trafficlight 109 315 61 178
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15518.JPEG
+trafficlight 610 468 114 32
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14586.JPEG
+trafficlight 596 261 532 134
+trafficlight 129 291 91 124
+trafficlight 207 351 169 242
+trafficlight 333 353 286 217
+trafficlight 396 323 317 200
+trafficlight 536 321 478 203
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28192.JPEG
+trafficlight 496 422 406 300
+trafficlight 397 439 290 302
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34035.JPEG
+trafficlight 419 366 170 57
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28643.JPEG
+trafficlight 434 346 401 382
+trafficlight 249 345 193 378
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30766.JPEG
+trafficlight 572 144 522 257
+trafficlight 529 195 456 287
+car 212 435 58 349
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15419.JPEG
+trafficlight 239 42 489 429
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34185.JPEG
+trafficlight 491 172 388 381
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36654.JPEG
+trafficlight 298 106 165 288
+trafficlight 432 241 332 333
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23792.JPEG
+trafficlight 445 107 410 186
+trafficlight 396 129 362 184
+trafficlight 553 364 495 436
+trafficlight 260 134 179 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6373.JPEG
+trafficlight 522 174 241 436
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7485.JPEG
+trafficlight 499 43 454 105
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_973.JPEG
+trafficlight 502 122 332 405
+trafficlight 309 117 167 326
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7219.JPEG
+trafficlight 346 137 321 194
+trafficlight 499 193 460 253
+trafficlight 491 311 466 348
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8184.JPEG
+trafficlight 381 138 292 338
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26467.JPEG
+trafficlight 450 343 337 137
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28820.JPEG
+person 465 256 630 473
+car 179 388 25 283
+trafficlight 240 72 156 0
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24108.JPEG
+trafficlight 356 375 272 168
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32131.JPEG
+trafficlight 453 404 209 69
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24567.JPEG
+trafficlight 339 324 260 136
+trafficlight 442 437 372 272
+trafficlight 570 412 479 259
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19635.JPEG
+trafficlight 470 413 176 64
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5674.JPEG
+trafficlight 485 378 409 273
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4098.JPEG
+trafficlight 515 408 299 115
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3101.JPEG
+trafficlight 489 373 304 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8968.JPEG
+trafficlight 471 200 421 63
+trafficlight 238 179 176 113
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20346.JPEG
+trafficlight 478 358 364 256
+trafficlight 600 335 547 239
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25195.JPEG
+trafficlight 357 281 315 246
+trafficlight 424 280 396 229
+car 296 389 130 477
+car 403 405 313 469
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10323.JPEG
+trafficlight 200 123 147 63
+trafficlight 111 126 85 46
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27636.JPEG
+trafficlight 593 304 542 137
+trafficlight 91 320 167 165
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25177.JPEG
+trafficlight 454 371 348 201
+trafficlight 302 352 194 152
+trafficlight 626 221 557 91
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11762.JPEG
+trafficlight 478 278 357 131
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15807.JPEG
+trafficlight 491 264 337 92
+trafficlight 289 400 478 463
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6871.JPEG
+trafficlight 459 415 260 37
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19202.JPEG
+car 129 416 24 467
+car 390 428 313 477
+car 553 422 462 479
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15810.JPEG
+trafficlight 514 398 449 238
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14269.JPEG
+bus 341 235 456 309
+car 405 324 347 285
+car 346 311 300 276
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21917.JPEG
+car 225 372 507 473
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26297.JPEG
+trafficlight 289 132 252 77
+trafficlight 215 162 174 102
+trafficlight 170 132 139 69
+bus 181 92 30 266
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8021.JPEG
+trafficlight 209 151 184 71
+car 456 430 139 312
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37449.JPEG
+trafficlight 130 169 59 23
+trafficlight 240 332 146 143
+trafficlight 310 357 270 269
+trafficlight 424 412 375 335
+trafficlight 522 464 477 395
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18878.JPEG
+trafficlight 452 177 371 88
+trafficlight 315 176 254 80
+car 462 336 402 283
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21299.JPEG
+car 390 416 272 362
+car 444 380 388 365
+trafficlight 232 210 175 137
+trafficlight 383 263 364 215
+trafficlight 365 285 344 246
+trafficlight 457 256 453 209
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23735.JPEG
+trafficlight 452 412 222 122
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_582.JPEG
+trafficlight 196 263 97 158
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30609.JPEG
+trafficlight 584 430 81 42
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4537.JPEG
+trafficlight 363 338 264 262
+trafficlight 394 124 312 77
+motorcycle 542 450 323 409
+person 459 447 418 369
+car 489 380 627 448
+car 274 156 128 199
+car 154 159 18 203
+car 143 403 -1 447
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37431.JPEG
+trafficlight 421 442 171 84
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4353.JPEG
+trafficlight 335 278 167 52
+trafficlight 613 293 385 45
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18696.JPEG
+trafficlight 514 316 260 135
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31095.JPEG
+trafficlight 427 356 232 60
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5104.JPEG
+trafficlight 380 139 373 95
+trafficlight 302 129 271 73
+trafficlight 602 216 565 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25396.JPEG
+trafficlight 469 343 232 120
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28623.JPEG
+trafficlight 591 419 479 89
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28044.JPEG
+trafficlight 401 347 248 175
+trafficlight 125 368 57 274
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25763.JPEG
+trafficlight 213 378 16 88
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16169.JPEG
+trafficlight 165 449 21 57
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2227.JPEG
+trafficlight 414 269 377 228
+car 575 430 546 416
+car 524 437 490 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34595.JPEG
+trafficlight 379 113 329 68
+trafficlight 504 80 434 31
+car 360 283 254 324
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28824.JPEG
+trafficlight 283 340 122 253
+trafficlight 402 316 312 141
+trafficlight 487 357 420 273
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4898.JPEG
+trafficlight 516 479 184 132
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26319.JPEG
+trafficlight 554 302 350 48
+trafficlight 224 376 70 141
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26879.JPEG
+trafficlight 249 182 132 24
+trafficlight 163 415 52 237
+trafficlight 592 232 480 28
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_43340.JPEG
+trafficlight 142 363 57 204
+trafficlight 511 404 379 242
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6315.JPEG
+trafficlight 567 423 450 88
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_532.JPEG
+trafficlight 195 184 165 135
+trafficlight 467 218 447 183
+car 545 448 395 298
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31550.JPEG
+trafficlight 237 260 122 70
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5536.JPEG
+trafficlight 414 316 280 202
+trafficlight 137 362 28 205
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27787.JPEG
+trafficlight 409 184 351 86
+trafficlight 259 185 200 74
+trafficlight 128 187 71 82
+trafficlight 612 169 555 63
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7610.JPEG
+trafficlight 545 456 432 67
+trafficlight 381 416 249 112
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_679.JPEG
+trafficlight 573 200 543 276
+car 338 283 473 430
+car 169 277 315 399
+car 97 274 187 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33984.JPEG
+trafficlight 215 167 157 111
+trafficlight 461 331 414 273
+car 187 341 36 436
+car 350 347 271 402
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3188.JPEG
+trafficlight 455 185 422 132
+car 239 268 42 361
+car 444 263 612 319
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24913.JPEG
+trafficlight 571 426 156 35
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2540.JPEG
+trafficlight 373 407 214 172
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18213.JPEG
+trafficlight 535 443 116 39
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6472.JPEG
+trafficlight 324 253 264 400
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37228.JPEG
+trafficlight 345 65 213 400
+trafficlight 453 251 349 404
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10095.JPEG
+trafficlight 475 175 368 296
+trafficlight 558 173 442 0
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40622.JPEG
+trafficlight 369 32 220 236
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30675.JPEG
+trafficlight 393 98 297 444
+trafficlight 232 157 70 446
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24080.JPEG
+trafficlight 397 166 147 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_913.JPEG
+trafficlight 345 56 114 380
+trafficlight 545 295 389 412
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10523.JPEG
+trafficlight 265 60 186 118
+trafficlight 470 114 355 169
+trafficlight 520 170 445 204
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9914.JPEG
+trafficlight 461 107 260 363
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_44364.JPEG
+trafficlight 522 247 617 457
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21178.JPEG
+trafficlight 592 421 416 20
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17499.JPEG
+trafficlight 329 345 286 111
+trafficlight 523 351 466 169
+trafficlight 211 310 90 200
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26380.JPEG
+trafficlight 118 139 23 16
+trafficlight 556 118 519 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27776.JPEG
+trafficlight 377 201 309 137
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22023.JPEG
+trafficlight 308 334 202 136
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3206.JPEG
+trafficlight 528 365 85 122
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28086.JPEG
+trafficlight 258 379 142 221
+trafficlight 440 366 316 205
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21379.JPEG
+car 341 319 620 467
+car 291 327 453 374
+car 262 312 199 355
+trafficlight 531 258 482 148
+trafficlight 68 275 55 248
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12622.JPEG
+trafficlight 261 379 109 272
+trafficlight 606 462 459 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39488.JPEG
+trafficlight 277 284 138 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10545.JPEG
+trafficlight 536 424 157 18
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38797.JPEG
+trafficlight 392 298 273 65
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4809.JPEG
+trafficlight 172 292 130 177
+trafficlight 507 337 402 236
+trafficlight 600 272 533 165
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10219.JPEG
+trafficlight 244 287 109 91
+trafficlight 509 387 387 318
+trafficlight 514 279 352 90
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2225.JPEG
+trafficlight 579 32 636 243
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7265.JPEG
+trafficlight 467 289 391 143
+trafficlight 227 256 174 164
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28804.JPEG
+trafficlight 227 104 65 190
+trafficlight 354 306 279 359
+trafficlight 318 353 271 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27684.JPEG
+trafficlight 412 175 345 254
+trafficlight 222 174 171 247
+trafficlight 118 385 93 355
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9962.JPEG
+trafficlight 545 355 184 62
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24648.JPEG
+trafficlight 387 302 300 122
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6842.JPEG
+trafficlight 432 225 409 153
+trafficlight 586 226 568 152
+trafficlight 318 208 287 158
+trafficlight 568 399 481 354
+trafficlight 54 379 19 342
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33303.JPEG
+trafficlight 412 293 270 164
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7735.JPEG
+trafficlight 162 411 62 153
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33235.JPEG
+trafficlight 509 303 448 209
+trafficlight 233 212 176 160
+trafficlight 142 235 104 152
+car 260 415 182 342
+car 433 412 388 349
+trafficlight 629 250 584 135
+trafficlight 557 244 541 98
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23584.JPEG
+trafficlight 594 394 395 32
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6630.JPEG
+trafficlight 355 199 294 120
+trafficlight 292 405 235 348
+trafficlight 126 325 74 277
+trafficlight 501 334 440 272
+trafficlight 613 368 563 290
+trafficlight 406 107 327 17
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_952.JPEG
+trafficlight 115 355 66 306
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20757.JPEG
+trafficlight 258 137 237 91
+trafficlight 295 130 283 112
+trafficlight 352 129 342 97
+car 287 284 229 223
+car 410 277 338 209
+car 133 279 78 212
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19278.JPEG
+trafficlight 378 337 308 183
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27013.JPEG
+trafficlight 455 400 246 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5907.JPEG
+trafficlight 366 408 284 148
+trafficlight 128 166 229 432
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32124.JPEG
+trafficlight 421 181 395 90
+trafficlight 410 210 349 97
+trafficlight 207 132 123 10
+trafficlight 484 332 409 254
+trafficlight 403 334 340 217
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_323.JPEG
+trafficlight 499 365 254 15
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7357.JPEG
+trafficlight 290 175 244 145
+trafficlight 50 360 10 309
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21936.JPEG
+trafficlight 94 278 62 170
+trafficlight 196 279 139 191
+trafficlight 247 287 220 198
+trafficlight 305 272 274 190
+trafficlight 361 290 322 190
+trafficlight 423 270 384 198
+trafficlight 464 256 423 190
+trafficlight 502 251 466 189
+trafficlight 543 265 494 180
+trafficlight 602 217 552 174
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_448.JPEG
+trafficlight 454 425 163 70
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33936.JPEG
+trafficlight 560 451 311 25
+trafficlight 270 439 27 42
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2798.JPEG
+trafficlight 449 115 386 56
+trafficlight 616 89 562 15
+trafficlight 294 121 265 64
+trafficlight 196 104 130 45
+car 398 204 632 467
+car 334 198 151 369
+car 149 90 14 436
+car 260 216 328 269
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12790.JPEG
+trafficlight 561 467 187 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28294.JPEG
+trafficlight 202 126 138 59
+trafficlight 625 287 542 181
+car 287 359 594 475
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30758.JPEG
+trafficlight 545 326 414 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12648.JPEG
+trafficlight 618 379 50 194
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17703.JPEG
+trafficlight 365 393 244 113
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24126.JPEG
+trafficlight 469 421 210 39
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34919.JPEG
+trafficlight 478 395 219 334
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7687.JPEG
+trafficlight 575 237 507 97
+trafficlight 128 202 54 68
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18189.JPEG
+trafficlight 340 292 294 166
+trafficlight 449 307 353 163
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33971.JPEG
+trafficlight 402 197 379 150
+trafficlight 338 262 285 230
+person 584 401 610 474
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9634.JPEG
+trafficlight 286 376 145 29
+motorcycle 584 271 435 188
+motorcycle 583 212 429 152
+person 294 314 413 460
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15422.JPEG
+trafficlight 518 425 366 62
+trafficlight 287 336 141 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22433.JPEG
+trafficlight 368 455 289 372
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38671.JPEG
+trafficlight 215 274 86 63
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10278.JPEG
+car 91 146 11 235
+trafficlight 376 113 342 84
+trafficlight 298 116 279 83
+trafficlight 195 133 169 103
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23649.JPEG
+trafficlight 322 195 235 85
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2570.JPEG
+trafficlight 153 338 51 206
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7301.JPEG
+trafficlight 340 250 316 158
+trafficlight 431 255 401 176
+car 211 394 413 461
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24132.JPEG
+trafficlight 269 384 40 97
+trafficlight 566 301 338 28
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5306.JPEG
+trafficlight 498 408 133 76
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2713.JPEG
+car 475 402 371 321
+car 255 364 195 287
+car 576 357 509 313
+car 358 348 304 298
+car 75 359 1 309
+trafficlight 378 252 268 213
+trafficlight 495 267 325 254
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9520.JPEG
+trafficlight 262 322 199 215
+trafficlight 411 272 383 224
+trafficlight 350 246 325 175
+trafficlight 293 211 278 160
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11503.JPEG
+trafficlight 470 236 423 112
+trafficlight 143 216 114 111
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_47376.JPEG
+trafficlight 208 42 574 429
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11125.JPEG
+trafficlight 482 392 156 57
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24565.JPEG
+trafficlight 238 201 183 145
+trafficlight 388 191 328 132
+car 422 437 352 380
+car 149 432 113 401
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14383.JPEG
+person 559 256 501 154
+trafficlight 209 36 172 78
+trafficlight 281 43 248 95
+trafficlight 67 99 56 113
+car 181 192 63 149
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9162.JPEG
+trafficlight 44 114 235 464
+trafficlight 240 198 401 442
+trafficlight 433 227 483 451
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12794.JPEG
+trafficlight 269 246 65 39
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10267.JPEG
+trafficlight 284 191 270 143
+trafficlight 180 193 156 138
+car 399 284 630 431
+car 292 312 222 345
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1276.JPEG
+trafficlight 254 340 128 63
+trafficlight 513 398 365 108
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14192.JPEG
+trafficlight 520 419 401 201
+trafficlight 358 392 293 251
+trafficlight 231 237 146 71
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12462.JPEG
+trafficlight 384 106 529 143
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29679.JPEG
+trafficlight 494 43 177 440
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27019.JPEG
+trafficlight 485 160 207 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7168.JPEG
+trafficlight 538 52 130 452
+trafficlight 209 127 38 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18851.JPEG
+trafficlight 420 160 288 257
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27131.JPEG
+trafficlight 116 9 44 96
+trafficlight 458 218 401 293
+trafficlight 476 322 419 363
+car 196 418 308 469
+car 92 420 13 477
+person 360 398 398 479
+person 440 403 397 472
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9989.JPEG
+trafficlight 462 374 349 225
+trafficlight 273 248 195 95
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3434.JPEG
+trafficlight 414 351 353 323
+trafficlight 343 255 303 189
+trafficlight 283 264 243 227
+car 356 388 501 458
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7391.JPEG
+trafficlight 604 357 348 100
+trafficlight 502 187 608 391
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5092.JPEG
+trafficlight 515 164 459 201
+trafficlight 607 161 565 169
+car 356 261 475 337
+car 546 269 635 414
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26333.JPEG
+trafficlight 300 280 283 255
+trafficlight 262 278 236 250
+car 313 310 582 413
+car 152 364 335 419
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9601.JPEG
+trafficlight 375 293 356 266
+trafficlight 347 298 297 248
+trafficlight 112 201 75 153
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8998.JPEG
+trafficlight 272 63 118 122
+car 130 141 437 390
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31665.JPEG
+car 316 237 605 449
+car 55 227 299 407
+trafficlight 283 129 228 10
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31760.JPEG
+trafficlight 165 292 46 408
+trafficlight 461 73 617 224
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3522.JPEG
+trafficlight 494 63 206 432
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24122.JPEG
+trafficlight 508 96 84 446
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24742.JPEG
+trafficlight 197 124 152 180
+trafficlight 383 148 418 180
+car 417 355 354 296
+car 316 347 299 309
+car 276 328 262 319
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23127.JPEG
+trafficlight 110 24 574 433
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38782.JPEG
+trafficlight 189 102 415 425
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6624.JPEG
+trafficlight 224 327 168 393
+trafficlight 464 333 413 419
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6023.JPEG
+car 428 255 532 347
+car 563 258 638 343
+car 520 202 444 249
+trafficlight 570 207 400 156
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25540.JPEG
+trafficlight 385 193 212 312
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34426.JPEG
+trafficlight 334 246 216 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1849.JPEG
+trafficlight 437 68 223 422
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14929.JPEG
+trafficlight 402 175 386 209
+trafficlight 520 230 504 256
+car 401 269 593 364
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22994.JPEG
+trafficlight 349 307 304 288
+trafficlight 413 309 366 294
+car 236 342 285 386
+car 311 350 364 391
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9126.JPEG
+trafficlight 476 263 386 130
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21498.JPEG
+trafficlight 458 396 257 212
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29846.JPEG
+person 355 159 447 434
+person 425 200 447 293
+person 470 186 534 446
+person 338 234 367 295
+person 191 214 151 264
+car 381 365 26 150
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19068.JPEG
+trafficlight 188 273 235 303
+trafficlight 503 223 540 268
+trafficlight 416 355 368 387
+trafficlight 589 151 637 184
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33094.JPEG
+trafficlight 514 291 481 315
+car 151 333 21 444
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_222.JPEG
+trafficlight 552 440 489 399
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33590.JPEG
+trafficlight 356 161 319 88
+trafficlight 258 146 197 107
+trafficlight 151 147 124 108
+trafficlight 532 217 488 186
+car 410 403 225 239
+car 222 357 18 245
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13870.JPEG
+trafficlight 422 368 173 58
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6111.JPEG
+trafficlight 494 406 438 328
+trafficlight 420 320 381 257
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20448.JPEG
+trafficlight 529 338 381 165
+trafficlight 246 244 147 147
+trafficlight 120 260 43 182
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38344.JPEG
+trafficlight 455 387 172 37
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24329.JPEG
+trafficlight 475 387 198 72
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20528.JPEG
+trafficlight 25 185 4 226
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24294.JPEG
+trafficlight 476 363 355 54
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35207.JPEG
+trafficlight 387 356 69 47
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38744.JPEG
+trafficlight 226 65 30 452
+trafficlight 535 36 279 474
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4612.JPEG
+trafficlight 554 93 414 390
+trafficlight 242 93 47 361
+trafficlight 395 188 270 382
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1445.JPEG
+trafficlight 315 68 186 419
+trafficlight 476 97 348 337
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32990.JPEG
+trafficlight 363 247 253 448
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27194.JPEG
+trafficlight 489 179 262 348
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24318.JPEG
+trafficlight 78 179 40 259
+trafficlight 228 365 172 310
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24956.JPEG
+trafficlight 484 244 470 268
+trafficlight 392 260 374 272
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10012.JPEG
+trafficlight 331 108 176 346
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39000.JPEG
+trafficlight 450 41 184 372
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35305.JPEG
+trafficlight 540 192 610 283
+trafficlight 302 294 240 320
+car 240 353 310 412
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18991.JPEG
+trafficlight 253 337 213 240
+trafficlight 104 284 72 240
+trafficlight 422 181 308 204
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36917.JPEG
+trafficlight 307 455 175 152
+trafficlight 100 375 35 144
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34207.JPEG
+trafficlight 151 149 121 121
+trafficlight 360 232 323 198
+car 13 204 343 455
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1129.JPEG
+trafficlight 322 336 216 218
+trafficlight 116 417 36 297
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27480.JPEG
+trafficlight 208 311 141 159
+trafficlight 259 285 193 197
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27040.JPEG
+trafficlight 143 128 65 60
+trafficlight 529 104 418 74
+car 195 306 72 236
+car 505 280 392 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6167.JPEG
+trafficlight 349 241 181 64
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20692.JPEG
+trafficlight 368 270 338 218
+trafficlight 220 255 151 208
+bus 330 326 1 448
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17280.JPEG
+trafficlight 317 196 267 108
+trafficlight 203 151 175 116
+trafficlight 461 310 435 231
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19534.JPEG
+trafficlight 393 447 219 192
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29883.JPEG
+car 327 332 609 390
+car 242 327 426 398
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_320.JPEG
+trafficlight 595 466 355 219
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39970.JPEG
+trafficlight 567 79 418 26
+trafficlight 372 357 313 329
+trafficlight 113 361 76 329
+car 89 404 190 478
+car 231 411 330 458
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15483.JPEG
+trafficlight 289 271 275 225
+trafficlight 397 271 355 228
+trafficlight 453 272 433 245
+car 523 434 319 298
+car 582 396 478 319
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23237.JPEG
+trafficlight 502 294 468 203
+trafficlight 452 279 422 195
+trafficlight 205 279 168 216
+trafficlight 163 279 146 230
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11405.JPEG
+trafficlight 389 408 148 47
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14960.JPEG
+trafficlight 592 240 570 195
+trafficlight 413 231 372 172
+trafficlight 417 349 391 309
+trafficlight 131 278 85 249
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17488.JPEG
+trafficlight 170 266 100 126
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5882.JPEG
+trafficlight 542 322 393 104
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3868.JPEG
+trafficlight 308 190 245 22
+trafficlight 234 206 180 32
+trafficlight 308 426 204 263
+trafficlight 363 457 310 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8801.JPEG
+trafficlight 428 412 350 331
+trafficlight 324 319 248 166
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26898.JPEG
+trafficlight 320 281 264 183
+trafficlight 563 282 477 159
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33581.JPEG
+trafficlight 231 354 96 174
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29238.JPEG
+trafficlight 206 381 126 86
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22633.JPEG
+trafficlight 223 236 118 79
+trafficlight 585 335 475 196
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5546.JPEG
+trafficlight 409 306 168 18
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23776.JPEG
+trafficlight 378 338 213 92
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15582.JPEG
+trafficlight 277 150 249 135
+trafficlight 331 291 295 230
+car 445 293 388 190
+car 577 280 523 249
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28671.JPEG
+trafficlight 515 438 173 78
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4070.JPEG
+trafficlight 412 249 247 61
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38330.JPEG
+trafficlight 316 252 196 70
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11942.JPEG
+trafficlight 252 350 68 103
+trafficlight 626 380 388 178
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20768.JPEG
+car 563 251 615 286
+car 608 361 528 402
+car 221 380 146 415
+car 168 413 111 453
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39942.JPEG
+trafficlight 375 310 244 94
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22446.JPEG
+trafficlight 344 184 167 136
+trafficlight 603 331 433 169
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1699.JPEG
+trafficlight 304 232 167 127
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10054.JPEG
+trafficlight 300 368 197 159
+trafficlight 472 369 358 159
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8264.JPEG
+trafficlight 405 445 212 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4879.JPEG
+trafficlight 484 404 126 83
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16745.JPEG
+trafficlight 372 301 213 74
+trafficlight 200 259 156 78
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7966.JPEG
+car 345 396 113 274
+trafficlight 412 184 377 89
+trafficlight 267 242 201 163
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26138.JPEG
+trafficlight 538 432 116 30
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36431.JPEG
+trafficlight 353 404 162 173
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24055.JPEG
+trafficlight 490 264 318 46
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18067.JPEG
+trafficlight 179 436 84 317
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9735.JPEG
+trafficlight 408 367 321 194
+car 156 438 27 478
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5499.JPEG
+car 220 205 140 228
+trafficlight 323 154 273 97
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30594.JPEG
+trafficlight 405 166 200 28
+trafficlight 615 137 454 27
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_34096.JPEG
+trafficlight 469 279 374 70
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2945.JPEG
+trafficlight 564 204 390 25
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13791.JPEG
+trafficlight 453 300 363 130
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16408.JPEG
+trafficlight 460 394 122 63
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31643.JPEG
+trafficlight 417 415 195 62
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38355.JPEG
+trafficlight 368 105 346 43
+trafficlight 293 102 258 44
+person 170 102 101 209
+person 481 31 388 235
+person 391 194 273 437
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15451.JPEG
+trafficlight 298 248 261 168
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29648.JPEG
+trafficlight 269 273 100 445
+trafficlight 276 68 124 194
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20414.JPEG
+trafficlight 349 72 247 166
+trafficlight 404 116 351 201
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20294.JPEG
+trafficlight 419 28 67 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14762.JPEG
+trafficlight 525 99 222 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20412.JPEG
+trafficlight 311 135 230 195
+trafficlight 540 182 455 259
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15182.JPEG
+trafficlight 283 191 198 307
+trafficlight 402 190 307 305
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24267.JPEG
+trafficlight 285 333 242 435
+trafficlight 520 342 443 440
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39732.JPEG
+trafficlight 202 34 581 242
+trafficlight 192 226 602 440
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19698.JPEG
+trafficlight 293 92 97 413
+trafficlight 542 87 373 356
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7192.JPEG
+trafficlight 251 43 182 143
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13374.JPEG
+trafficlight 514 86 137 361
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38991.JPEG
+trafficlight 410 161 280 302
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18624.JPEG
+trafficlight 196 209 62 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26687.JPEG
+trafficlight 506 68 173 353
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17114.JPEG
+trafficlight 272 303 224 387
+trafficlight 66 297 20 372
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24480.JPEG
+trafficlight 154 140 116 200
+trafficlight 93 171 53 219
+car 123 388 47 319
+car 577 365 397 308
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1258.JPEG
+trafficlight 353 118 320 181
+trafficlight 196 129 138 198
+car 453 449 267 366
+car 236 345 295 399
+car 238 318 186 384
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27569.JPEG
+car 446 297 373 256
+trafficlight 605 100 572 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12662.JPEG
+trafficlight 338 116 281 229
+trafficlight 439 97 375 200
+car 187 393 318 436
+car 283 406 507 462
+person 551 428 593 470
+person 591 422 617 463
+person 377 428 358 475
+person 399 429 373 474
+person 451 423 412 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7178.JPEG
+trafficlight 427 298 312 104
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40829.JPEG
+trafficlight 379 407 338 291
+trafficlight 463 372 415 295
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10589.JPEG
+trafficlight 612 465 246 94
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10476.JPEG
+trafficlight 484 431 193 57
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28430.JPEG
+trafficlight 328 217 310 195
+trafficlight 425 219 429 195
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1080.JPEG
+car 303 416 160 265
+trafficlight 361 192 341 163
+trafficlight 322 215 272 179
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28719.JPEG
+trafficlight 491 375 195 30
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21606.JPEG
+trafficlight 539 302 388 157
+trafficlight 180 324 48 151
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26555.JPEG
+trafficlight 109 114 44 10
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4178.JPEG
+trafficlight 425 314 348 198
+trafficlight 227 372 176 304
+trafficlight 54 347 19 244
+trafficlight 591 84 635 182
+trafficlight 521 308 471 390
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13802.JPEG
+trafficlight 173 119 109 20
+trafficlight 84 46 30 123
+person 490 323 573 433
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8538.JPEG
+trafficlight 470 362 372 238
+trafficlight 384 406 239 323
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6038.JPEG
+trafficlight 193 134 157 77
+trafficlight 312 139 283 94
+trafficlight 439 144 414 93
+car 341 376 255 296
+car 387 323 342 299
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23463.JPEG
+trafficlight 575 226 510 271
+trafficlight 344 86 310 188
+car 436 406 290 317
+car 215 384 125 352
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14710.JPEG
+trafficlight 345 398 279 257
+trafficlight 564 330 481 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5612.JPEG
+trafficlight 332 208 279 125
+trafficlight 600 315 536 224
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9897.JPEG
+bicycle 93 197 419 451
+car 491 198 598 254
+trafficlight 333 41 284 86
+trafficlight 371 88 272 155
+trafficlight 161 69 116 141
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20659.JPEG
+trafficlight 475 277 122 8
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19978.JPEG
+trafficlight 414 238 381 194
+trafficlight 616 231 581 163
+car 276 410 157 467
+car 419 411 321 462
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22616.JPEG
+trafficlight 224 256 204 171
+trafficlight 328 247 299 203
+car 350 369 167 438
+trafficlight 463 324 446 282
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21873.JPEG
+trafficlight 392 295 315 174
+trafficlight 457 406 385 339
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3212.JPEG
+trafficlight 228 458 144 249
+trafficlight 596 376 418 105
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_624.JPEG
+trafficlight 570 178 545 131
+trafficlight 514 140 481 93
+car 494 352 561 416
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16356.JPEG
+trafficlight 495 187 531 233
+trafficlight 397 157 350 173
+trafficlight 172 172 122 205
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14382.JPEG
+trafficlight 259 271 215 321
+trafficlight 346 260 309 317
+trafficlight 495 253 428 333
+trafficlight 73 279 47 315
+car 174 408 30 464
+car 343 450 411 479
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22434.JPEG
+trafficlight 428 430 410 387
+trafficlight 223 358 164 318
+trafficlight 227 132 207 69
+trafficlight 437 184 413 148
+trafficlight 282 118 255 82
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26495.JPEG
+trafficlight 533 443 385 95
+trafficlight 149 75 291 480
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24021.JPEG
+trafficlight 209 231 178 303
+trafficlight 339 199 310 266
+trafficlight 501 152 459 215
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1185.JPEG
+trafficlight 479 381 213 84
+trafficlight 173 178 18 452
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25196.JPEG
+trafficlight 276 139 323 190
+car 220 350 151 290
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3163.JPEG
+trafficlight 210 351 132 230
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26961.JPEG
+trafficlight 376 253 280 160
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21737.JPEG
+trafficlight 434 233 332 423
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21425.JPEG
+trafficlight 394 134 358 184
+trafficlight 483 154 459 194
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31857.JPEG
+trafficlight 265 104 222 177
+trafficlight 469 37 389 118
+car 189 354 237 390
+car 78 353 164 405
+car 262 345 332 384
+car 359 357 440 399
+car 444 353 506 390
+car 524 367 570 397
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11245.JPEG
+trafficlight 402 452 232 50
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14247.JPEG
+trafficlight 167 361 139 262
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19487.JPEG
+trafficlight 466 178 447 209
+trafficlight 388 170 338 227
+trafficlight 271 179 215 215
+trafficlight 147 184 135 209
+trafficlight 103 187 40 219
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24908.JPEG
+trafficlight 539 52 162 429
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9317.JPEG
+trafficlight 379 226 337 266
+trafficlight 252 208 209 248
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13831.JPEG
+trafficlight 384 278 350 331
+trafficlight 575 283 538 350
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25747.JPEG
+trafficlight 374 46 136 283
+trafficlight 562 101 365 280
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13066.JPEG
+trafficlight 338 68 257 157
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4723.JPEG
+trafficlight 206 14 452 250
+trafficlight 561 376 330 266
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29228.JPEG
+trafficlight 319 200 258 108
+trafficlight 164 185 113 115
+car 119 346 40 418
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28607.JPEG
+trafficlight 458 242 336 191
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1766.JPEG
+trafficlight 328 330 261 124
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26094.JPEG
+trafficlight 437 402 249 145
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25743.JPEG
+trafficlight 226 189 149 75
+trafficlight 578 417 631 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_42302.JPEG
+trafficlight 221 137 475 396
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31786.JPEG
+trafficlight 395 149 369 202
+trafficlight 304 165 251 203
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6929.JPEG
+trafficlight 81 232 598 401
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31779.JPEG
+trafficlight 411 113 251 430
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39808.JPEG
+trafficlight 299 86 145 413
+trafficlight 479 39 360 418
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30432.JPEG
+trafficlight 416 94 177 400
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38121.JPEG
+trafficlight 378 169 241 353
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1010.JPEG
+trafficlight 362 219 271 329
+person 162 353 208 465
+person 218 286 298 461
+car 23 328 321 435
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17078.JPEG
+trafficlight 402 367 289 119
+trafficlight 182 362 84 195
+trafficlight 603 279 481 62
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_851.JPEG
+trafficlight 593 358 261 155
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19612.JPEG
+trafficlight 331 271 301 234
+trafficlight 399 267 368 234
+trafficlight 508 315 451 273
+car 265 400 42 302
+car 433 282 636 388
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1368.JPEG
+trafficlight 357 299 273 213
+trafficlight 506 222 378 81
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4849.JPEG
+trafficlight 382 102 358 70
+trafficlight 270 93 224 68
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19349.JPEG
+trafficlight 503 234 399 86
+trafficlight 378 448 276 324
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26849.JPEG
+trafficlight 325 423 114 48
+trafficlight 536 359 349 35
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20913.JPEG
+trafficlight 103 315 65 220
+trafficlight 120 376 89 441
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7423.JPEG
+trafficlight 536 183 449 362
+trafficlight 169 149 50 359
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6363.JPEG
+trafficlight 574 134 446 242
+trafficlight 435 232 293 440
+trafficlight 251 253 86 438
+trafficlight 123 153 17 425
+trafficlight 239 209 115 38
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2288.JPEG
+trafficlight 472 228 378 72
+trafficlight 379 263 309 88
+trafficlight 287 363 244 246
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5771.JPEG
+trafficlight 266 171 358 420
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27765.JPEG
+trafficlight 310 123 253 198
+trafficlight 153 155 94 224
+trafficlight 549 66 455 159
+car 183 379 113 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17785.JPEG
+trafficlight 334 387 254 182
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9685.JPEG
+trafficlight 198 290 142 189
+trafficlight 265 252 228 186
+trafficlight 500 240 445 146
+trafficlight 567 255 522 142
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19485.JPEG
+trafficlight 343 195 315 57
+trafficlight 203 111 124 12
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20007.JPEG
+trafficlight 540 431 363 56
+trafficlight 320 341 151 38
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25266.JPEG
+trafficlight 429 363 225 42
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5632.JPEG
+trafficlight 380 379 278 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25682.JPEG
+trafficlight 505 415 250 115
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5068.JPEG
+trafficlight 87 234 34 140
+car 429 374 313 448
+car 564 388 471 455
+car 303 389 218 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20376.JPEG
+trafficlight 500 324 447 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4994.JPEG
+trafficlight 519 155 438 52
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18633.JPEG
+trafficlight 427 392 211 29
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40437.JPEG
+trafficlight 376 410 339 356
+trafficlight 164 414 126 359
+trafficlight 586 421 544 358
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27690.JPEG
+trafficlight 395 380 203 143
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21354.JPEG
+trafficlight 532 288 567 315
+trafficlight 625 299 640 317
+car 620 410 505 362
+trafficlight 183 260 111 169
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8930.JPEG
+trafficlight 412 141 359 203
+trafficlight 241 106 154 175
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26908.JPEG
+trafficlight 271 118 188 265
+trafficlight 588 111 466 237
+car 259 378 459 465
+car 233 382 64 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22614.JPEG
+trafficlight 305 274 289 244
+trafficlight 247 286 225 233
+trafficlight 183 263 171 243
+car 251 331 348 390
+car 138 320 191 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6997.JPEG
+trafficlight 599 394 518 265
+trafficlight 351 267 274 101
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27749.JPEG
+trafficlight 500 180 468 106
+trafficlight 219 263 157 145
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_47641.JPEG
+trafficlight 366 65 429 213
+person 74 348 14 429
+person 265 369 314 415
+person 373 354 415 438
+person 570 326 616 425
+person 519 351 556 410
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27054.JPEG
+trafficlight 523 472 121 41
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1436.JPEG
+trafficlight 404 196 330 96
+person 331 296 248 202
+person 305 204 277 146
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25588.JPEG
+trafficlight 349 272 324 232
+trafficlight 247 278 232 221
+car 137 383 86 322
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39616.JPEG
+trafficlight 474 364 309 32
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35105.JPEG
+trafficlight 432 220 387 133
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37699.JPEG
+trafficlight 487 220 437 56
+trafficlight 274 316 195 166
+trafficlight 65 333 24 190
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26493.JPEG
+bus 117 167 540 421
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28578.JPEG
+trafficlight 331 402 223 144
+trafficlight 444 398 378 177
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32543.JPEG
+trafficlight 315 245 292 199
+trafficlight 411 260 372 198
+trafficlight 242 251 211 208
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20259.JPEG
+trafficlight 215 322 158 167
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16248.JPEG
+trafficlight 462 307 426 261
+bus 400 206 467 329
+trafficlight 166 275 131 252
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_216.JPEG
+trafficlight 373 372 258 214
+trafficlight 204 363 53 189
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33520.JPEG
+trafficlight 275 254 176 113
+trafficlight 405 327 309 145
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26274.JPEG
+trafficlight 217 235 181 144
+car 149 367 211 407
+car 72 356 20 424
+car 307 371 334 384
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2765.JPEG
+trafficlight 124 197 92 165
+trafficlight 54 189 40 165
+car 262 403 47 265
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26921.JPEG
+trafficlight 414 407 215 75
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18673.JPEG
+trafficlight 510 169 456 234
+trafficlight 179 221 111 283
+car 186 394 320 463
+car 334 377 451 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2685.JPEG
+trafficlight 336 198 260 66
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8101.JPEG
+trafficlight 502 68 472 119
+trafficlight 216 69 190 119
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7182.JPEG
+trafficlight 503 155 405 363
+trafficlight 104 146 25 356
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32317.JPEG
+trafficlight 458 283 410 366
+trafficlight 386 307 340 375
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23951.JPEG
+trafficlight 472 104 327 399
+trafficlight 299 144 151 420
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6372.JPEG
+trafficlight 350 171 320 232
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23443.JPEG
+trafficlight 502 69 335 194
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31314.JPEG
+trafficlight 361 206 260 419
+trafficlight 84 218 6 432
+trafficlight 572 198 596 411
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37728.JPEG
+trafficlight 578 271 441 408
+trafficlight 322 151 74 413
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3149.JPEG
+trafficlight 394 180 261 228
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26629.JPEG
+trafficlight 603 34 53 470
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29656.JPEG
+trafficlight 306 157 235 250
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15078.JPEG
+trafficlight 256 275 205 298
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40649.JPEG
+trafficlight 593 444 122 72
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28779.JPEG
+trafficlight 249 214 106 103
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27863.JPEG
+car 402 240 621 439
+person 608 444 527 231
+person 104 231 83 284
+person 205 226 170 283
+person 243 235 214 271
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4134.JPEG
+trafficlight 298 408 185 154
+trafficlight 392 373 301 135
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12596.JPEG
+trafficlight 477 398 194 65
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_618.JPEG
+trafficlight 353 394 128 30
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4886.JPEG
+trafficlight 474 254 366 141
+trafficlight 329 283 141 34
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1452.JPEG
+trafficlight 474 453 254 170
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17193.JPEG
+trafficlight 350 424 279 288
+trafficlight 95 412 26 261
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_279.JPEG
+trafficlight 196 308 157 185
+trafficlight 142 294 121 248
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29810.JPEG
+trafficlight 308 35 279 96
+trafficlight 436 87 400 143
+trafficlight 542 223 498 262
+trafficlight 91 177 27 243
+trafficlight 366 197 332 247
+trafficlight 440 207 391 255
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17675.JPEG
+trafficlight 147 201 84 307
+trafficlight 327 250 239 340
+trafficlight 493 299 421 386
+trafficlight 615 337 581 386
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24873.JPEG
+trafficlight 338 151 271 239
+trafficlight 231 150 174 197
+trafficlight 90 133 63 188
+trafficlight 455 151 422 210
+car 87 414 14 357
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29186.JPEG
+trafficlight 578 422 322 78
+trafficlight 330 396 171 206
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27076.JPEG
+trafficlight 470 392 338 241
+trafficlight 225 280 136 109
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7217.JPEG
+trafficlight 524 298 275 80
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18267.JPEG
+trafficlight 408 135 392 53
+trafficlight 297 138 248 49
+car 554 326 422 247
+car 380 323 300 254
+car 163 286 70 257
+car 319 294 211 260
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1607.JPEG
+trafficlight 517 359 394 158
+trafficlight 57 87 11 302
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25564.JPEG
+trafficlight 542 276 493 356
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7346.JPEG
+trafficlight 558 20 414 301
+trafficlight 213 386 92 464
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12075.JPEG
+trafficlight 569 190 439 426
+trafficlight 201 172 73 392
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2070.JPEG
+trafficlight 377 136 279 272
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27422.JPEG
+trafficlight 543 33 477 155
+car 545 404 404 325
+car 345 368 258 337
+car 219 360 89 329
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12243.JPEG
+trafficlight 447 440 155 60
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12191.JPEG
+trafficlight 461 354 397 143
+trafficlight 112 386 54 164
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23793.JPEG
+trafficlight 432 259 390 189
+trafficlight 203 252 163 172
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14233.JPEG
+trafficlight 372 349 282 89
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40873.JPEG
+trafficlight 514 417 201 61
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18552.JPEG
+trafficlight 534 294 425 129
+trafficlight 272 280 228 68
+trafficlight 157 260 111 88
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30975.JPEG
+trafficlight 322 186 258 89
+car 227 377 116 466
+car 100 408 30 459
+car 367 390 309 429
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14754.JPEG
+trafficlight 350 300 223 134
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2826.JPEG
+trafficlight 348 168 135 119
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37436.JPEG
+trafficlight 362 300 227 32
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18745.JPEG
+trafficlight 419 277 360 110
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1626.JPEG
+trafficlight 527 383 430 279
+trafficlight 409 366 332 287
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35309.JPEG
+trafficlight 105 107 451 456
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20724.JPEG
+trafficlight 369 230 295 283
+trafficlight 228 231 163 289
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7650.JPEG
+car 247 407 159 348
+car 130 395 60 341
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21792.JPEG
+trafficlight 516 263 504 234
+trafficlight 288 323 259 293
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1099.JPEG
+trafficlight 297 410 60 77
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23166.JPEG
+trafficlight 122 208 85 251
+trafficlight 187 218 150 268
+car 530 366 476 302
+car 415 339 382 324
+car 121 363 17 306
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25285.JPEG
+trafficlight 274 254 225 315
+trafficlight 241 310 223 331
+trafficlight 393 127 360 215
+trafficlight 347 132 305 199
+car 445 389 553 430
+car 413 383 328 420
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27839.JPEG
+trafficlight 336 255 312 215
+trafficlight 470 240 446 207
+trafficlight 524 282 496 244
+car 206 328 115 410
+car 362 336 270 401
+car 424 343 384 377
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12846.JPEG
+trafficlight 504 460 185 47
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_963.JPEG
+trafficlight 336 178 318 140
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15639.JPEG
+trafficlight 260 394 119 266
+trafficlight 506 403 308 249
+trafficlight 336 213 210 40
+trafficlight 347 62 472 195
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38362.JPEG
+trafficlight 302 300 244 204
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_44205.JPEG
+trafficlight 469 466 96 9
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32265.JPEG
+trafficlight 234 132 187 30
+car 386 370 182 322
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19614.JPEG
+trafficlight 560 438 71 36
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1360.JPEG
+trafficlight 552 380 274 25
+trafficlight 136 83 318 449
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_824.JPEG
+trafficlight 487 196 411 452
+trafficlight 295 55 143 356
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32322.JPEG
+trafficlight 332 195 234 395
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_12904.JPEG
+trafficlight 181 171 46 388
+trafficlight 552 54 194 439
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35956.JPEG
+trafficlight 318 81 163 212
+trafficlight 336 372 295 444
+trafficlight 534 397 481 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38985.JPEG
+trafficlight 257 81 83 417
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23377.JPEG
+trafficlight 209 47 24 414
+trafficlight 437 55 222 424
+trafficlight 460 37 591 392
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38203.JPEG
+trafficlight 504 71 274 425
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37459.JPEG
+trafficlight 225 280 190 338
+trafficlight 468 275 417 323
+trafficlight 417 396 357 417
+trafficlight 274 389 218 428
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17803.JPEG
+trafficlight 389 82 249 321
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18776.JPEG
+trafficlight 208 45 48 450
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16641.JPEG
+trafficlight 516 58 384 206
+trafficlight 386 34 282 132
+trafficlight 362 161 292 196
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28315.JPEG
+trafficlight 578 189 526 323
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23508.JPEG
+trafficlight 504 118 203 409
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14530.JPEG
+trafficlight 378 217 358 245
+car 188 408 73 310
+bus 443 292 624 408
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33917.JPEG
+trafficlight 527 243 429 20
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29139.JPEG
+trafficlight 248 218 150 85
+trafficlight 591 217 552 118
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22635.JPEG
+trafficlight 380 304 287 219
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38135.JPEG
+trafficlight 434 416 246 73
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36091.JPEG
+trafficlight 590 276 375 73
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_32975.JPEG
+trafficlight 493 365 356 107
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29385.JPEG
+trafficlight 363 377 283 196
+trafficlight 159 181 90 35
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15148.JPEG
+trafficlight 282 142 268 79
+trafficlight 247 133 235 66
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6247.JPEG
+car 160 342 28 459
+person 519 275 573 465
+person 580 310 631 451
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16176.JPEG
+trafficlight 474 310 337 119
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14131.JPEG
+trafficlight 340 316 283 138
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_15298.JPEG
+trafficlight 313 171 158 43
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22175.JPEG
+trafficlight 479 199 429 264
+trafficlight 268 188 238 239
+trafficlight 234 201 215 235
+trafficlight 198 223 176 255
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7621.JPEG
+trafficlight 446 276 164 384
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_37131.JPEG
+trafficlight 351 68 117 364
+trafficlight 496 300 431 434
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30620.JPEG
+trafficlight 456 99 338 238
+trafficlight 326 35 126 245
+trafficlight 567 195 464 337
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14157.JPEG
+trafficlight 530 63 474 4
+car 547 332 433 266
+car 194 340 54 269
+car 354 311 315 289
+car 322 302 289 290
+bus 269 310 220 261
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25734.JPEG
+trafficlight 312 238 221 67
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13867.JPEG
+trafficlight 344 331 258 142
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18722.JPEG
+trafficlight 370 197 267 16
+trafficlight 305 407 272 320
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11280.JPEG
+trafficlight 356 260 329 220
+trafficlight 260 256 236 216
+trafficlight 160 258 152 221
+trafficlight 524 360 490 312
+car 140 381 58 435
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33565.JPEG
+trafficlight 449 404 364 253
+trafficlight 361 382 264 244
+trafficlight 446 219 319 46
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23654.JPEG
+trafficlight 321 242 290 208
+trafficlight 246 230 226 203
+trafficlight 438 303 401 261
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10011.JPEG
+trafficlight 291 338 254 403
+trafficlight 628 358 585 423
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16644.JPEG
+trafficlight 298 49 176 190
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_36903.JPEG
+trafficlight 554 42 107 431
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14906.JPEG
+trafficlight 546 185 496 208
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23039.JPEG
+car 389 60 622 445
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4907.JPEG
+trafficlight 452 152 199 75
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27178.JPEG
+trafficlight 224 98 98 342
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27781.JPEG
+trafficlight 430 114 231 425
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1019.JPEG
+trafficlight 466 67 332 398
+trafficlight 564 37 442 402
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2844.JPEG
+trafficlight 417 295 315 339
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4562.JPEG
+trafficlight 476 91 249 393
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18786.JPEG
+trafficlight 267 24 61 353
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_13202.JPEG
+trafficlight 465 74 347 175
+trafficlight 284 187 215 284
+trafficlight 161 236 127 331
+trafficlight 516 286 466 366
+trafficlight 393 332 369 371
+trafficlight 277 355 226 415
+trafficlight 188 392 152 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19943.JPEG
+trafficlight 154 353 92 436
+trafficlight 93 454 32 468
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27390.JPEG
+trafficlight 439 292 424 326
+trafficlight 302 227 275 268
+trafficlight 215 213 181 253
+car 83 366 12 420
+car 447 383 531 414
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21682.JPEG
+trafficlight 91 139 46 79
+person 102 168 27 416
+person 189 179 129 422
+person 396 164 320 475
+person 591 146 468 408
+bicycle 484 249 571 416
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_9492.JPEG
+car 277 273 25 465
+car 382 248 625 461
+person 157 365 95 288
+trafficlight 399 166 348 144
+trafficlight 340 170 289 142
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35499.JPEG
+trafficlight 465 71 119 408
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26522.JPEG
+trafficlight 325 101 274 170
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3685.JPEG
+car 237 246 359 349
+car 435 149 636 465
+trafficlight 369 177 316 112
+trafficlight 181 134 167 104
+trafficlight 128 135 117 99
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_113.JPEG
+trafficlight 198 274 92 108
+trafficlight 265 416 179 287
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23303.JPEG
+trafficlight 359 281 318 181
+trafficlight 300 274 266 174
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17386.JPEG
+trafficlight 361 233 324 122
+trafficlight 284 181 243 29
+trafficlight 379 384 342 288
+trafficlight 326 390 297 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3832.JPEG
+trafficlight 462 369 243 49
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_508.JPEG
+car 347 394 294 336
+trafficlight 384 269 364 229
+trafficlight 343 265 314 232
+trafficlight 290 251 261 233
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21880.JPEG
+trafficlight 415 415 265 347
+trafficlight 441 294 249 80
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33322.JPEG
+trafficlight 407 308 235 111
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23165.JPEG
+trafficlight 307 418 42 53
+trafficlight 316 64 556 441
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10526.JPEG
+trafficlight 316 304 149 101
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11851.JPEG
+trafficlight 253 426 237 410
+trafficlight 190 382 131 352
+trafficlight 539 227 491 182
+trafficlight 459 225 414 169
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24862.JPEG
+trafficlight 407 342 308 155
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2098.JPEG
+trafficlight 229 99 192 40
+trafficlight 545 164 505 131
+person 344 288 401 385
+person 402 294 426 376
+person 562 193 612 393
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3132.JPEG
+trafficlight 618 211 532 85
+trafficlight 510 227 432 109
+trafficlight 151 281 112 181
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10972.JPEG
+trafficlight 498 448 110 22
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31048.JPEG
+trafficlight 381 260 293 158
+trafficlight 439 306 346 279
+car 88 396 312 477
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8872.JPEG
+trafficlight 432 314 345 140
+trafficlight 128 308 69 145
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_3100.JPEG
+trafficlight 441 412 98 35
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_29606.JPEG
+trafficlight 75 254 14 323
+car 194 435 260 469
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_35903.JPEG
+trafficlight 462 450 306 62
+trafficlight 126 57 248 442
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19189.JPEG
+trafficlight 238 15 211 74
+trafficlight 129 18 94 77
+trafficlight 26 43 13 75
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24899.JPEG
+trafficlight 456 212 324 434
+trafficlight 164 103 74 292
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28548.JPEG
+trafficlight 398 138 200 381
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8189.JPEG
+trafficlight 539 246 446 394
+trafficlight 394 346 320 421
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5108.JPEG
+trafficlight 229 119 136 267
+motorcycle 117 354 4 315
+trafficlight 410 270 370 225
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6107.JPEG
+trafficlight 527 91 131 382
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11860.JPEG
+trafficlight 318 40 278 158
+trafficlight 124 51 73 135
+trafficlight 577 260 508 299
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39156.JPEG
+trafficlight 516 136 164 260
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23639.JPEG
+trafficlight 355 73 246 221
+trafficlight 423 319 265 428
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21129.JPEG
+trafficlight 315 168 263 231
+trafficlight 234 158 172 215
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24902.JPEG
+trafficlight 307 70 115 299
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14623.JPEG
+trafficlight 446 88 204 428
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_38643.JPEG
+trafficlight 376 199 502 303
+trafficlight 181 143 286 326
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17713.JPEG
+trafficlight 348 188 189 225
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_18557.JPEG
+trafficlight 465 151 385 318
+trafficlight 70 166 3 280
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24636.JPEG
+trafficlight 466 101 345 221
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22618.JPEG
+trafficlight 191 36 474 436
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5767.JPEG
+trafficlight 556 109 335 303
+trafficlight 307 229 206 387
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23028.JPEG
+trafficlight 496 46 277 457
+trafficlight 144 138 232 40
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10046.JPEG
+trafficlight 422 163 352 237
+trafficlight 243 166 185 220
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1278.JPEG
+trafficlight 159 250 64 350
+trafficlight 420 307 330 397
+trafficlight 573 342 500 394
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24281.JPEG
+trafficlight 239 112 167 181
+trafficlight 584 238 526 301
+car 302 312 60 475
+car 279 331 475 411
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_1351.JPEG
+trafficlight 570 443 74 302
+trafficlight 559 143 95 25
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30535.JPEG
+trafficlight 357 266 65 370
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22483.JPEG
+trafficlight 288 280 144 418
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26841.JPEG
+trafficlight 468 174 348 372
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7678.JPEG
+trafficlight 435 196 363 248
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14578.JPEG
+trafficlight 424 179 391 247
+trafficlight 333 177 282 229
+car 447 302 589 405
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27100.JPEG
+trafficlight 508 281 426 244
+trafficlight 336 234 218 203
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11127.JPEG
+trafficlight 410 196 281 10
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_22400.JPEG
+trafficlight 273 388 99 74
+trafficlight 597 410 389 59
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_27091.JPEG
+trafficlight 343 170 287 102
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_14048.JPEG
+trafficlight 493 413 315 77
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31096.JPEG
+car 241 256 43 401
+car 423 269 623 458
+car 318 251 484 374
+car 308 253 360 328
+car 293 252 211 345
+trafficlight 152 105 77 138
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_7193.JPEG
+car 352 258 62 452
+car 438 164 306 294
+car 236 181 86 242
+car 370 191 252 233
+car 577 184 639 225
+trafficlight 563 145 531 88
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_30376.JPEG
+trafficlight 598 433 333 92
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_28.JPEG
+trafficlight 448 42 374 160
+trafficlight 554 84 616 186
+motorcycle 257 252 202 268
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8170.JPEG
+trafficlight 310 239 228 331
+trafficlight 568 29 472 162
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25272.JPEG
+trafficlight 525 452 176 39
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17895.JPEG
+trafficlight 365 203 236 427
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11276.JPEG
+trafficlight 444 72 191 400
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26972.JPEG
+trafficlight 397 171 357 211
+trafficlight 285 156 180 215
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24824.JPEG
+trafficlight 421 169 175 416
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_23903.JPEG
+trafficlight 532 31 454 103
+car 57 182 435 456
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25953.JPEG
+trafficlight 476 356 233 58
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_40153.JPEG
+trafficlight 213 41 431 454
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_2987.JPEG
+trafficlight 345 135 271 288
+trafficlight 185 189 96 272
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10683.JPEG
+trafficlight 392 66 255 198
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_26883.JPEG
+trafficlight 437 249 41 438
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_19432.JPEG
+trafficlight 352 170 305 241
+trafficlight 237 213 199 259
+trafficlight 193 230 170 266
+trafficlight 133 255 121 280
+trafficlight 102 261 62 304
+trafficlight 33 288 8 307
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_39391.JPEG
+trafficlight 443 161 277 349
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20169.JPEG
+trafficlight 506 110 468 141
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_20059.JPEG
+trafficlight 562 144 446 348
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_24456.JPEG
+trafficlight 505 43 188 407
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_31270.JPEG
+trafficlight 447 68 276 447
+trafficlight 479 74 598 402
+trafficlight 126 55 17 407
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5443.JPEG
+car 188 31 605 439
+trafficlight 162 135 32 213
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_17091.JPEG
+trafficlight 423 123 231 374
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11787.JPEG
+trafficlight 489 72 405 155
+trafficlight 210 52 100 158
+trafficlight 220 309 156 368
+trafficlight 482 301 417 360
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33256.JPEG
+trafficlight 415 138 283 293
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_4546.JPEG
+trafficlight 545 244 438 420
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6757.JPEG
+trafficlight 432 197 401 225
+trafficlight 383 188 374 214
+trafficlight 586 217 557 256
+car 499 352 418 275
+car 327 298 297 272
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_33150.JPEG
+car 347 369 244 322
+car 538 387 459 335
+trafficlight 609 251 560 155
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_5732.JPEG
+trafficlight 527 131 417 209
+car 287 312 448 388
+car 506 335 620 393
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_25918.JPEG
+trafficlight 425 432 199 166
+trafficlight 162 204 46 60
+trafficlight 121 274 14 149
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_10935.JPEG
+trafficlight 264 113 239 189
+trafficlight 98 111 64 182
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_11152.JPEG
+trafficlight 371 142 257 343
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_16222.JPEG
+trafficlight 380 154 352 186
+trafficlight 503 200 491 231
+trafficlight 82 192 35 266
+car 336 294 298 258
+car 288 281 243 258
+car 227 280 191 268
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8259.JPEG
+trafficlight 369 282 276 431
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_8909.JPEG
+trafficlight 362 264 311 311
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_6348.JPEG
+trafficlight 434 216 383 272
+trafficlight 306 201 280 247
+
+http://140.115.152.223:7001/data/dataset/trafficlight/n06874185_21043.JPEG
+trafficlight 480 324 437 399
+trafficlight 228 286 189 376

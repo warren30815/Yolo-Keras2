@@ -1,0 +1,1751 @@
+﻿http://140.115.152.223:7001/data/dataset/streetview/n04335209_9750.JPEG
+person 13 322 79 457
+person 398 334 469 466
+person 453 324 523 477
+person 529 321 585 473
+person 565 330 633 473
+person 314 337 366 442
+bicycle 385 387 454 475
+bicycle 441 379 499 470
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10643.JPEG
+person 238 309 273 375
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6260.JPEG
+tree 212 154 430 470
+tree 21 20 452 470
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10760.JPEG
+person 61 137 129 299
+person 413 140 451 288
+person 444 137 498 287
+motorcycle 151 168 319 301
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4865.JPEG
+motorcycle 301 287 390 434
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6583.JPEG
+person 107 297 191 445
+person 80 295 126 436
+bicycle 108 350 216 453
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17433.JPEG
+car 205 256 277 313
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7140.JPEG
+car 23 256 142 353
+car 466 259 539 339
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15095.JPEG
+car 401 283 501 339
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15189.JPEG
+person 15 149 102 286
+person 262 148 311 238
+person 480 125 617 356
+person 162 178 196 224
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17658.JPEG
+car 430 292 520 350
+person 529 281 582 358
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14287.JPEG
+tree 384 11 547 293
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5391.JPEG
+car 382 237 528 407
+car 208 270 270 341
+car 129 258 213 341
+car 3 251 66 376
+car 319 267 365 331
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6580.JPEG
+car 225 361 363 449
+car 66 368 145 426
+person 43 360 75 430
+car 303 320 536 440
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21502.JPEG
+car 163 145 306 263
+tree 46 18 170 252
+tree 138 43 217 195
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10571.JPEG
+car 293 339 464 475
+car 175 281 313 393
+car 77 306 228 426
+car 9 310 120 467
+car 242 260 339 357
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16188.JPEG
+car 363 262 576 405
+car 339 255 435 360
+car 97 275 157 324
+tree 337 12 635 374
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12249.JPEG
+car 173 190 309 277
+car 248 131 403 264
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1111.JPEG
+person 254 338 300 415
+person 179 335 224 401
+person 321 334 356 392
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10366.JPEG
+car 397 255 562 443
+person 484 273 548 403
+tree 45 100 244 411
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16149.JPEG
+person 117 354 230 481
+person 292 367 418 479
+person 10 357 78 465
+person 68 340 130 470
+car 216 348 298 437
+person 222 361 257 446
+car 424 367 551 468
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9832.JPEG
+car 403 255 567 358
+car 501 217 640 338
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5199.JPEG
+car 204 283 342 381
+car 158 282 229 340
+tree 9 70 230 328
+tree 178 1 626 399
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7166.JPEG
+person 201 208 334 475
+person 307 124 443 468
+person 216 69 341 470
+car 467 114 541 169
+car 439 118 488 164
+car 552 100 636 192
+car 394 114 443 157
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_378.JPEG
+person 338 167 424 372
+person 397 139 497 377
+person 287 147 358 326
+person 172 161 235 325
+person 52 146 158 449
+person 27 106 115 309
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17016.JPEG
+car 129 19 383 146
+car 417 19 525 85
+car 11 15 211 121
+person 530 11 597 115
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17293.JPEG
+car 125 324 465 474
+car 459 319 614 404
+car 382 309 536 383
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10001.JPEG
+person 153 297 181 354
+person 269 307 296 372
+tree 58 4 225 381
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6050.JPEG
+person 391 274 477 480
+person 268 270 317 402
+person 313 260 370 383
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10695.JPEG
+person 431 266 578 424
+person 206 254 281 371
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9470.JPEG
+car 9 310 206 420
+car 277 302 480 418
+tree 420 238 530 383
+car 519 298 633 394
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8594.JPEG
+car 146 253 289 421
+car 131 248 217 355
+car 403 231 499 312
+car 318 242 374 298
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7148.JPEG
+car 7 326 113 428
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9966.JPEG
+person 165 266 358 474
+person 303 263 467 478
+person 444 253 619 473
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4439.JPEG
+car 218 334 339 391
+car 312 324 406 382
+tree 463 259 592 417
+tree 218 265 308 404
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4135.JPEG
+person 324 244 466 393
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16279.JPEG
+tree 1 18 176 399
+person 24 301 54 364
+person 103 297 139 373
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12510.JPEG
+person 510 284 556 391
+person 476 287 513 388
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17613.JPEG
+tree 140 155 293 365
+tree 436 100 581 296
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19691.JPEG
+person 300 196 361 294
+person 359 194 428 297
+person 149 183 200 294
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3295.JPEG
+person 153 294 210 420
+person 108 267 155 411
+person 195 273 248 414
+person 244 285 282 378
+tree 476 84 606 365
+tree 416 193 538 350
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9895.JPEG
+car 331 326 451 402
+car 479 314 628 412
+tree 378 126 526 385
+tree 245 148 376 354
+car 11 318 49 361
+car 202 332 251 366
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15488.JPEG
+person 196 250 344 477
+person 157 237 225 375
+person 85 241 181 373
+person 324 229 428 423
+person 390 257 519 474
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4039.JPEG
+car 8 326 137 473
+car 92 314 205 437
+tree 6 95 105 352
+car 537 318 610 401
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6571.JPEG
+person 157 211 233 396
+person 105 245 167 409
+person 316 186 489 433
+car 16 222 125 425
+car 133 196 292 402
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6065.JPEG
+person 159 309 245 440
+person 245 315 294 411
+person 280 318 340 414
+person 422 318 473 395
+person 540 326 614 443
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10040.JPEG
+person 195 207 244 313
+motorcycle 195 237 237 311
+car 226 216 292 286
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5574.JPEG
+chair 292 289 351 364
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13103.JPEG
+car 12 273 256 473
+car 207 250 317 349
+car 273 241 355 324
+person 406 245 465 367
+person 544 247 586 346
+person 581 244 639 401
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7785.JPEG
+car 7 78 363 381
+car 380 129 635 348
+car 306 143 450 267
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15756.JPEG
+person 388 182 424 258
+person 416 173 457 258
+person 294 182 326 253
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9246.JPEG
+car 14 347 173 469
+car 113 355 202 463
+car 162 363 230 436
+car 416 343 528 442
+car 481 339 633 468
+car 375 355 450 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18249.JPEG
+car 205 363 317 453
+car 120 374 195 427
+person 379 372 418 449
+person 411 357 454 451
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_25428.JPEG
+car 251 329 588 463
+car 398 85 633 204
+person 208 339 289 416
+person 314 69 437 215
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18201.JPEG
+car 340 360 423 442
+car 241 355 346 440
+car 135 367 244 441
+trafficlight 490 208 530 288
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5953.JPEG
+tree 335 93 530 454
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7261.JPEG
+person 193 309 342 475
+bus 262 309 354 395
+person 28 336 120 457
+person 486 327 533 424
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13077.JPEG
+person 204 259 261 418
+person 261 253 309 401
+person 339 259 408 461
+person 460 261 509 410
+person 438 234 478 401
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6525.JPEG
+car 20 262 176 395
+car 361 267 473 366
+person 543 271 595 358
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17057.JPEG
+person 106 114 198 297
+person 231 92 325 302
+person 388 80 546 459
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_23225.JPEG
+tree 87 25 311 394
+tree 301 16 516 406
+car 512 249 604 320
+car 377 222 458 310
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13222.JPEG
+tree 323 30 606 319
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18616.JPEG
+car 332 340 487 430
+person 429 365 495 462
+person 473 363 552 479
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3154.JPEG
+tree 193 105 354 345
+tree 411 20 637 422
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7815.JPEG
+person 245 330 290 439
+person 299 333 332 434
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9695.JPEG
+car 9 163 211 402
+car 158 205 270 346
+car 236 241 327 352
+car 290 242 354 333
+trafficlight 322 185 340 220
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18393.JPEG
+person 358 287 406 369
+tree 434 95 606 373
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10523.JPEG
+car 144 357 211 418
+car 212 352 280 408
+car 284 351 355 409
+car 364 354 451 414
+tree 300 9 634 432
+tree 150 185 308 403
+tree 30 125 118 406
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5246.JPEG
+person 428 164 602 474
+motorcycle 155 207 258 295
+motorcycle 254 197 348 269
+motorcycle 355 197 437 291
+person 194 185 239 280
+person 298 185 335 261
+person 379 193 428 274
+person 66 193 105 272
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8866.JPEG
+person 281 304 337 394
+tree 8 7 139 474
+tree 345 98 488 383
+tree 217 220 300 402
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_24940.JPEG
+person 54 105 612 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12462.JPEG
+car 562 319 641 466
+door 501 299 568 469
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4630.JPEG
+car 499 390 620 467
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12576.JPEG
+car 302 224 393 294
+car 392 213 449 279
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16546.JPEG
+car 405 234 627 433
+car 311 233 420 343
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12668.JPEG
+person 283 216 366 354
+person 203 217 258 348
+person 236 229 286 343
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21782.JPEG
+tree 100 91 280 425
+tree 284 190 392 395
+tree 329 88 456 432
+tree 384 42 561 431
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2937.JPEG
+person 69 337 117 439
+motorcycle 130 367 168 423
+bicycle 71 376 119 453
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4634.JPEG
+person 112 344 149 415
+person 295 341 328 414
+person 277 340 312 410
+person 231 348 256 412
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14981.JPEG
+person 211 81 469 478
+person 450 204 526 358
+person 493 212 547 332
+person 115 176 152 267
+person 85 200 123 299
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4128.JPEG
+person 136 7 632 471
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6511.JPEG
+tree 130 19 270 370
+tree 70 71 130 301
+tree 450 28 570 336
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11465.JPEG
+tree 423 16 621 463
+tree 302 111 469 435
+tree 212 142 353 416
+tree 172 176 289 401
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_534.JPEG
+person 468 242 543 406
+person 3 260 39 450
+person 429 265 467 367
+person 371 265 419 349
+door 277 246 327 342
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13149.JPEG
+car 574 339 636 419
+car 424 327 479 381
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8745.JPEG
+car 135 284 352 472
+car 335 354 538 479
+motorcycle 522 367 605 468
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9597.JPEG
+person 502 239 560 371
+person 540 283 585 381
+person 580 261 628 378
+person 561 235 598 315
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13175.JPEG
+car 289 252 342 291
+car 218 249 256 275
+car 415 248 468 287
+car 443 244 517 305
+tree 491 76 620 255
+tree 393 73 560 283
+tree 13 85 143 309
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11557.JPEG
+bench 259 244 353 301
+tree 242 60 446 283
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10845.JPEG
+car 50 27 487 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11635.JPEG
+tree 231 141 354 312
+tree 418 186 501 323
+car 412 260 483 323
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1027.JPEG
+person 6 232 146 442
+person 187 237 250 346
+person 132 245 197 341
+car 380 235 493 288
+car 314 243 387 285
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9156.JPEG
+person 447 232 496 378
+person 489 227 531 360
+person 517 223 565 389
+car 367 241 436 334
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7755.JPEG
+person 5 305 49 450
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13263.JPEG
+car 446 272 630 411
+person 158 286 242 402
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11346.JPEG
+person 265 58 407 458
+person 185 47 288 378
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18165.JPEG
+person 7 386 86 477
+person 115 379 160 450
+person 144 375 176 438
+door 178 353 225 449
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10418.JPEG
+bicycle 96 282 161 380
+person 214 246 244 329
+person 196 252 220 332
+person 224 258 261 346
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16466.JPEG
+person 238 20 601 473
+person 225 159 599 476
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2749.JPEG
+tree 83 190 266 435
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11905.JPEG
+door 328 202 406 373
+door 467 134 566 364
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15448.JPEG
+car 103 346 182 416
+car 48 332 102 380
+car 158 327 251 377
+car 355 328 455 385
+car 471 337 539 378
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19136.JPEG
+person 155 328 190 422
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13561.JPEG
+car 433 243 540 321
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9579.JPEG
+car 70 342 249 419
+car 214 342 269 385
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8830.JPEG
+tree 508 143 604 305
+tree 15 4 226 460
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4739.JPEG
+car 20 253 159 473
+car 98 266 189 423
+car 147 255 221 402
+car 185 268 257 386
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5951.JPEG
+person 58 272 171 464
+person 6 277 63 462
+car 274 194 424 354
+car 446 167 626 416
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12917.JPEG
+person 359 327 413 433
+person 430 281 512 443
+bench 190 292 342 386
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12592.JPEG
+person 470 248 523 363
+person 409 239 448 307
+person 357 244 387 312
+person 324 234 356 285
+person 515 250 545 325
+person 523 270 554 367
+person 547 250 592 360
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19777.JPEG
+tree 117 196 281 454
+tree 25 286 122 441
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19644.JPEG
+person 233 246 298 344
+person 189 254 253 349
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8655.JPEG
+person 274 305 337 387
+person 397 294 482 427
+person 485 305 561 425
+person 174 300 215 359
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15198.JPEG
+car 103 279 200 365
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_20401.JPEG
+person 366 311 410 406
+person 398 316 440 400
+person 440 318 470 414
+person 465 307 509 413
+person 501 317 553 441
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12103.JPEG
+person 403 132 490 366
+person 193 137 287 336
+person 540 165 588 320
+person 568 159 625 315
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_220.JPEG
+person 133 300 222 478
+person 312 284 401 475
+person 497 316 556 470
+dog 461 366 512 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4547.JPEG
+tree 18 91 159 413
+tree 112 144 235 350
+tree 390 64 559 399
+tree 357 184 433 319
+chair 313 317 373 413
+chair 366 319 422 415
+person 164 254 227 379
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9112.JPEG
+tree 15 61 145 358
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_46.JPEG
+motorcycle 275 326 526 466
+tree 8 171 235 451
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17467.JPEG
+car 49 336 219 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7152.JPEG
+car 171 375 314 470
+car 31 377 135 452
+car 106 370 212 451
+car 378 326 468 386
+car 218 324 284 378
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18892.JPEG
+car 118 227 261 342
+car 399 255 469 320
+tree 254 215 306 306
+tree 194 163 272 295
+tree 293 225 340 295
+person 503 258 541 340
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12932.JPEG
+car 254 312 352 385
+car 218 317 296 382
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14634.JPEG
+car 182 207 376 336
+car 6 197 111 305
+car 365 205 534 301
+car 105 224 178 279
+car 317 165 626 292
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7163.JPEG
+tree 321 127 406 290
+tree 134 166 226 296
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2057.JPEG
+car 490 33 631 143
+car 69 25 227 99
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6820.JPEG
+person 267 249 331 314
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8580.JPEG
+car 424 258 534 385
+person 234 260 282 357
+person 288 272 331 353
+person 212 265 250 355
+person 40 267 81 388
+tree 157 9 394 363
+tree 421 88 538 316
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3880.JPEG
+tree 456 255 566 463
+tree 9 234 120 456
+tree 386 274 479 438
+person 474 360 519 443
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16396.JPEG
+person 407 250 475 446
+car 480 262 631 393
+bicycle 238 300 359 391
+bicycle 238 193 304 342
+person 456 255 496 377
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17322.JPEG
+person 170 162 431 479
+person 402 154 599 476
+person 122 147 210 354
+person 56 101 167 296
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6227.JPEG
+person 280 308 355 465
+person 163 277 238 433
+person 80 302 155 447
+person 4 303 50 467
+person 384 310 461 446
+person 470 302 547 472
+person 520 299 599 474
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11222.JPEG
+car 347 375 439 441
+person 44 376 116 477
+person 131 385 190 481
+car 325 362 379 400
+car 440 368 502 409
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18331.JPEG
+car 311 373 445 445
+car 146 387 324 470
+car 139 352 284 424
+tree 473 180 631 399
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6355.JPEG
+person 409 314 569 475
+person 513 323 592 466
+person 413 332 457 426
+tree 204 234 299 415
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5882.JPEG
+person 264 327 322 424
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3280.JPEG
+motorcycle 0 303 172 441
+person 20 255 163 398
+person 541 272 605 361
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16991.JPEG
+person 214 236 288 435
+car 460 37 574 151
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5032.JPEG
+car 62 104 155 187
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4989.JPEG
+person 247 122 312 359
+person 401 146 454 366
+person 459 129 507 368
+person 509 166 568 366
+person 557 147 621 366
+person 84 80 161 387
+person 7 57 96 380
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10262.JPEG
+person 247 238 327 474
+person 203 326 268 471
+person 343 336 417 471
+person 322 244 395 439
+person 372 230 445 435
+person 522 244 577 430
+person 78 255 132 436
+person 10 241 74 444
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12413.JPEG
+car 223 308 451 435
+car 119 322 238 420
+motorcycle 459 342 539 458
+car 55 327 141 407
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6184.JPEG
+tree 41 3 304 471
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8184.JPEG
+person 208 266 306 477
+person 135 257 229 474
+person 50 257 151 474
+person 382 283 499 473
+person 325 265 385 420
+person 428 254 518 427
+person 538 262 612 424
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17218.JPEG
+person 198 62 349 466
+person 351 54 542 463
+person 42 49 146 379
+person 102 35 202 355
+person 477 10 620 382
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4301.JPEG
+person 170 266 246 404
+person 80 285 169 396
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_704.JPEG
+car 344 301 451 397
+car 497 272 632 441
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1298.JPEG
+car 58 267 233 431
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_22703.JPEG
+motorcycle 457 324 540 402
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5075.JPEG
+bicycle 112 263 258 426
+car 533 227 634 307
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13449.JPEG
+person 215 200 355 444
+person 335 213 472 435
+person 67 140 170 253
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4746.JPEG
+person 10 335 69 480
+person 65 300 94 386
+person 86 296 126 385
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9570.JPEG
+car 20 340 177 470
+car 402 316 542 412
+car 538 319 614 381
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6609.JPEG
+car 8 363 85 439
+car 264 309 309 354
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7309.JPEG
+person 169 281 216 367
+person 100 280 146 359
+person 281 285 316 353
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15651.JPEG
+tree 273 123 429 313
+tree 413 13 639 332
+car 302 260 369 326
+car 143 270 200 332
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9790.JPEG
+person 12 245 79 466
+person 63 239 118 390
+person 99 225 157 396
+person 539 255 602 396
+motorcycle 538 286 639 452
+tree 95 0 308 412
+tree 363 16 623 408
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16987.JPEG
+tree 21 19 635 346
+car 513 307 624 469
+car 496 305 589 412
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_20214.JPEG
+person 280 364 335 477
+person 332 362 390 476
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_405.JPEG
+car 216 244 312 334
+car 424 233 583 337
+car 564 242 641 346
+person 60 231 142 417
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9489.JPEG
+person 23 71 126 207
+person 431 104 500 217
+person 471 95 562 222
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8400.JPEG
+tree 509 209 637 477
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10437.JPEG
+car 204 213 279 298
+car 42 217 136 310
+person 403 244 440 338
+car 430 220 534 309
+car 116 198 194 273
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14108.JPEG
+person 115 335 167 471
+person 152 345 198 465
+bus 408 263 557 384
+bus 538 234 637 368
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19694.JPEG
+motorcycle 10 257 151 477
+motorcycle 134 201 232 429
+motorcycle 226 238 284 331
+person 306 194 381 418
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2224.JPEG
+car 311 245 636 410
+car 175 236 416 361
+car 131 248 266 330
+tree 127 6 383 301
+tree 52 53 217 294
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6407.JPEG
+car 12 318 186 435
+car 176 307 309 392
+car 286 299 409 381
+tree 511 149 634 443
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17252.JPEG
+car 255 276 612 475
+car 208 276 401 368
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1839.JPEG
+car 233 353 552 478
+person 314 357 365 424
+person 353 360 409 412
+car 66 359 293 450
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17894.JPEG
+trafficlight 320 14 412 164
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14897.JPEG
+car 272 253 365 309
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4391.JPEG
+person 117 210 222 465
+person 220 244 303 447
+person 304 249 365 416
+person 90 238 164 439
+person 62 228 133 426
+person 16 228 81 381
+person 428 246 496 382
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9376.JPEG
+person 35 142 605 434
+tree 489 11 591 133
+tree 386 62 438 148
+tree 276 8 353 127
+tree 185 10 292 122
+tree 137 19 208 125
+car 33 34 195 175
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13176.JPEG
+person 92 301 184 444
+person 236 306 314 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8107.JPEG
+person 462 204 595 426
+car 261 217 502 374
+person 158 206 209 285
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12167.JPEG
+person 275 234 348 344
+person 378 233 460 347
+person 448 226 539 356
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5862.JPEG
+person 8 274 81 431
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6360.JPEG
+tree 477 172 556 316
+tree 363 175 433 285
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15469.JPEG
+car 432 389 505 471
+car 259 405 310 445
+car 417 392 483 459
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6732.JPEG
+person 149 252 281 475
+person 5 248 85 475
+person 393 268 443 387
+person 292 269 360 387
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6135.JPEG
+car 397 334 607 424
+car 329 332 445 397
+tree 30 247 187 354
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6259.JPEG
+car 305 368 496 478
+tree 101 90 254 461
+tree 461 7 639 455
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15491.JPEG
+person 57 14 488 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6029.JPEG
+tree 329 52 518 334
+tree 432 2 631 337
+tree 371 171 454 323
+tree 338 185 414 327
+car 515 299 630 411
+car 436 287 555 393
+car 56 298 149 394
+car 114 295 200 384
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17551.JPEG
+tree 220 2 517 299
+person 72 209 129 332
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4246.JPEG
+motorcycle 65 228 206 403
+motorcycle 75 141 331 352
+motorcycle 445 145 610 320
+motorcycle 316 217 416 293
+person 375 160 434 327
+person 90 171 186 381
+person 207 167 294 329
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12791.JPEG
+car 169 290 279 369
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16704.JPEG
+car 40 317 304 470
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13143.JPEG
+car 152 232 284 335
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5932.JPEG
+car 431 299 629 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_35.JPEG
+car 22 251 360 474
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3775.JPEG
+car 3 383 185 475
+car 97 386 243 476
+car 147 375 288 463
+person 377 376 431 464
+car 487 386 576 447
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6589.JPEG
+car 407 274 543 349
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4056.JPEG
+person 234 192 495 475
+tree 25 78 191 321
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19444.JPEG
+car 171 308 223 369
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4832.JPEG
+person 181 341 247 458
+person 344 348 398 446
+car 14 295 163 476
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7615.JPEG
+tree 26 8 237 406
+person 37 280 121 386
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15092.JPEG
+bench 201 173 628 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2443.JPEG
+car 320 244 433 343
+car 249 288 332 339
+person 17 286 72 363
+person 50 285 111 367
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16363.JPEG
+person 351 300 428 461
+person 396 290 482 474
+person 462 313 552 470
+person 541 272 632 470
+tree 181 228 266 351
+tree 257 216 354 344
+bus 81 252 257 362
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_25245.JPEG
+car 177 399 287 458
+car 424 391 557 460
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4194.JPEG
+person 329 210 402 417
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6088.JPEG
+person 102 87 254 467
+person 9 222 142 469
+person 179 215 328 475
+person 264 200 375 468
+person 506 176 627 474
+car 246 180 440 284
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12758.JPEG
+car 315 375 402 438
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9802.JPEG
+person 436 316 482 376
+person 524 312 586 408
+person 379 311 414 369
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11281.JPEG
+person 246 345 293 476
+person 299 354 345 470
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14629.JPEG
+car 22 289 141 376
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_909.JPEG
+car 304 262 374 331
+person 195 251 239 324
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16650.JPEG
+car 86 258 235 342
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5940.JPEG
+person 266 248 400 399
+person 442 263 562 412
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16169.JPEG
+car 280 257 366 343
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6218.JPEG
+car 142 257 358 366
+car 303 246 457 341
+car 426 238 535 322
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16964.JPEG
+tree 8 162 124 372
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6063.JPEG
+car 318 248 443 333
+car 462 247 610 353
+car 310 222 409 322
+person 14 223 128 460
+person 122 230 200 418
+person 181 258 255 427
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12039.JPEG
+car 270 226 417 379
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13563.JPEG
+car 371 298 561 465
+car 218 299 279 364
+car 302 321 384 403
+person 138 312 189 401
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21877.JPEG
+tree 190 252 299 443
+tree 48 255 172 447
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13123.JPEG
+car 197 403 321 472
+car 508 430 581 478
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4277.JPEG
+person 292 212 486 416
+person 134 46 316 378
+person 67 55 172 283
+person 396 39 496 271
+person 307 48 413 273
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16399.JPEG
+car 22 286 287 478
+car 430 250 539 339
+car 189 250 318 381
+person 316 254 361 365
+car 353 251 409 311
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11887.JPEG
+person 185 297 271 429
+person 259 317 350 435
+person 329 296 420 437
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4321.JPEG
+car 388 261 446 321
+car 217 256 281 316
+car 7 242 148 374
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12731.JPEG
+person 315 72 500 360
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8039.JPEG
+bicycle 69 300 166 477
+bicycle 138 307 252 464
+bicycle 186 301 292 475
+bicycle 264 299 336 464
+bicycle 343 294 434 463
+person 447 247 518 367
+person 514 247 591 357
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7568.JPEG
+person 264 84 446 466
+person 408 132 461 324
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21574.JPEG
+person 291 206 359 412
+car 33 234 235 451
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5760.JPEG
+tree 132 212 314 471
+tree 397 241 487 422
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7223.JPEG
+person 234 263 330 371
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_18549.JPEG
+tree 22 20 229 393
+tree 80 104 254 383
+person 291 302 404 443
+person 400 307 470 400
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13599.JPEG
+car 8 416 125 471
+car 112 401 235 469
+car 288 417 399 473
+tree 152 279 255 455
+tree 230 286 328 448
+tree 0 207 166 461
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12648.JPEG
+car 419 288 627 453
+car 374 289 486 389
+person 68 268 209 481
+person 155 288 265 476
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4250.JPEG
+car 265 350 421 471
+car 422 349 576 464
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7445.JPEG
+person 370 313 419 398
+person 421 304 468 391
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7099.JPEG
+person 480 48 569 219
+person 550 57 614 214
+person 271 51 321 150
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12927.JPEG
+person 98 254 170 383
+car 415 274 560 399
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9114.JPEG
+car 551 282 635 395
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9744.JPEG
+person 249 301 307 435
+person 197 295 256 431
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8690.JPEG
+car 93 272 269 458
+car 63 277 195 374
+car 182 260 303 395
+tree 62 80 301 307
+car 430 274 491 348
+car 533 257 640 468
+trafficlight 522 180 557 242
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6703.JPEG
+car 437 296 513 372
+car 363 317 424 367
+person 48 298 103 419
+tree 551 8 641 362
+tree 500 56 608 373
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2415.JPEG
+person 328 266 425 477
+person 252 282 324 469
+person 137 316 213 480
+person 78 320 160 468
+car 327 361 492 416
+car 488 360 632 439
+car 192 368 276 417
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15038.JPEG
+car 125 310 274 395
+car 411 304 524 373
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_20065.JPEG
+bicycle 425 308 510 413
+person 85 225 136 335
+person 158 219 197 284
+person 264 215 294 282
+person 445 272 508 412
+person 490 203 550 369
+person 526 202 597 370
+car 274 221 326 277
+car 348 219 393 264
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14235.JPEG
+car 346 298 621 479
+car 7 287 175 424
+car 116 284 222 392
+car 182 301 269 383
+car 219 277 295 356
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10733.JPEG
+person 24 137 96 307
+person 111 138 177 270
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4460.JPEG
+person 48 69 130 279
+person 216 115 348 301
+person 257 61 352 214
+person 332 97 388 222
+person 406 62 476 290
+person 470 27 574 317
+person 341 82 399 246
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9311.JPEG
+person 162 291 235 436
+person 55 287 144 443
+person 408 285 449 371
+person 435 286 482 379
+person 512 267 572 403
+person 562 267 606 393
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1589.JPEG
+person 33 4 244 466
+person 405 122 485 295
+person 510 101 600 330
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2842.JPEG
+tree 10 68 120 380
+tree 153 181 223 333
+tree 244 183 312 280
+tree 469 146 593 380
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7225.JPEG
+person 389 159 547 472
+person 419 168 594 472
+person 205 166 250 271
+person 168 172 211 272
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13523.JPEG
+car 387 267 444 336
+car 346 268 395 336
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15955.JPEG
+person 228 173 363 443
+person 291 112 363 241
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21412.JPEG
+car 16 345 102 415
+car 74 343 145 410
+car 120 337 185 399
+car 165 344 212 399
+car 189 348 248 391
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16745.JPEG
+person 46 173 438 473
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7179.JPEG
+person 152 147 241 360
+person 441 115 517 340
+person 123 169 165 286
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8177.JPEG
+car 156 314 314 426
+car 201 284 329 363
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13870.JPEG
+person 155 286 214 408
+person 198 287 245 401
+person 25 288 69 397
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15674.JPEG
+person 225 136 313 347
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13474.JPEG
+tree 237 7 349 336
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21832.JPEG
+car 241 286 368 387
+car 125 288 191 340
+car 3 284 87 370
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16975.JPEG
+car 46 388 276 474
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19208.JPEG
+person 341 140 514 477
+person 441 168 564 476
+dog 35 273 146 368
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6150.JPEG
+car 177 248 339 351
+car 300 253 409 339
+tree 437 85 554 296
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10812.JPEG
+person 210 20 342 462
+person 99 28 226 282
+person 393 12 599 476
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16697.JPEG
+person 36 186 159 391
+trafficlight 552 167 595 225
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_23703.JPEG
+car 223 255 332 346
+car 8 292 106 389
+motorcycle 86 292 140 372
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16682.JPEG
+car 110 314 283 412
+tree 432 228 583 391
+car 499 306 639 427
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_23011.JPEG
+car 157 245 371 385
+car 75 255 198 360
+tree 284 83 447 340
+tree 119 6 367 351
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13199.JPEG
+car 230 370 280 414
+car 368 376 406 413
+car 291 368 346 418
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15188.JPEG
+person 79 193 255 379
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3093.JPEG
+person 355 211 412 327
+car 143 206 241 308
+car 423 237 521 307
+car 510 195 633 316
+car 308 230 366 270
+tree 429 90 429 90
+tree 440 293 440 293
+tree 470 323 470 323
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12652.JPEG
+car 370 332 634 468
+car 9 329 171 447
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_14477.JPEG
+person 287 290 355 465
+person 355 260 435 469
+bicycle 94 313 167 417
+person 37 253 102 424
+person 3 253 48 403
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3710.JPEG
+car 266 341 570 462
+car 10 325 200 464
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12097.JPEG
+person 367 347 448 473
+person 418 347 513 476
+person 511 343 624 479
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_22646.JPEG
+car 156 219 243 317
+car 216 211 287 286
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7380.JPEG
+car 379 182 504 338
+car 442 240 627 474
+motorcycle 415 237 543 405
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21472.JPEG
+car 125 226 172 272
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10478.JPEG
+car 296 329 401 419
+trafficlight 232 270 256 324
+trafficlight 468 277 500 334
+car 451 339 522 404
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9223.JPEG
+person 384 343 490 469
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9197.JPEG
+person 274 196 379 409
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4545.JPEG
+car 294 252 471 374
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7199.JPEG
+person 123 35 282 379
+bicycle 99 133 288 379
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_3227.JPEG
+car 281 179 390 287
+car 62 156 277 292
+tree 330 10 616 311
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_10330.JPEG
+car 252 329 300 372
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8469.JPEG
+person 322 367 403 468
+bicycle 296 391 417 472
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_313.JPEG
+person 45 250 125 364
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2824.JPEG
+person 206 284 272 442
+car 8 316 118 450
+car 87 309 168 433
+car 373 344 524 468
+car 350 293 432 406
+car 407 303 520 407
+tree 82 35 242 394
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8233.JPEG
+person 382 377 479 474
+person 229 353 285 462
+person 270 398 331 473
+person 217 408 278 475
+person 146 354 213 470
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15757.JPEG
+person 222 281 272 414
+tree 197 3 405 239
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6745.JPEG
+tree 285 8 404 304
+tree 401 12 551 310
+tree 127 9 314 311
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_24007.JPEG
+car 365 233 520 359
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_25375.JPEG
+person 53 212 202 478
+person 1 217 82 476
+person 379 242 461 416
+person 418 229 515 410
+person 492 229 572 388
+person 329 236 388 351
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8385.JPEG
+car 447 268 517 351
+person 206 257 251 361
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15082.JPEG
+car 46 291 187 388
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_291.JPEG
+car 13 384 86 455
+trafficlight 154 145 187 219
+person 439 368 489 456
+car 519 366 631 467
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17738.JPEG
+person 175 269 267 427
+car 315 256 442 348
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4531.JPEG
+person 478 325 551 440
+person 343 321 418 426
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7792.JPEG
+car 30 224 131 288
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12461.JPEG
+car 11 264 333 474
+person 391 264 518 426
+person 533 244 599 391
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9297.JPEG
+car 27 268 279 472
+car 275 305 578 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_21256.JPEG
+person 305 67 623 454
+car 34 184 171 298
+car 120 181 192 240
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9880.JPEG
+bus 307 319 432 433
+bus 444 242 624 464
+bus 253 332 319 415
+bus 114 322 198 437
+person 321 369 364 450
+person 363 362 414 459
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_5230.JPEG
+person 465 227 630 474
+person 335 304 419 420
+person 66 220 125 354
+person 424 226 483 331
+tree 102 4 319 311
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12498.JPEG
+person 17 232 114 388
+person 79 216 164 386
+person 444 215 545 350
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17241.JPEG
+car 192 251 346 401
+car 340 267 390 315
+tree 15 7 162 332
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9079.JPEG
+car 25 321 491 473
+car 428 299 636 438
+car 195 302 387 384
+car 23 309 227 416
+tree 38 123 149 361
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_7158.JPEG
+person 383 347 444 431
+person 307 336 363 417
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6350.JPEG
+person 156 205 292 442
+bicycle 157 334 285 481
+bus 207 76 594 442
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8710.JPEG
+car 157 286 294 367
+car 6 279 163 384
+car 385 297 566 421
+car 278 277 354 338
+tree 265 4 591 362
+tree 468 2 639 380
+tree 132 68 307 329
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_263.JPEG
+car 113 363 193 433
+car 219 371 280 433
+car 510 370 636 466
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8362.JPEG
+person 91 225 194 415
+person 43 205 111 340
+bus 189 156 258 272
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_8083.JPEG
+car 263 359 388 444
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12880.JPEG
+car 320 294 476 453
+car 210 294 299 405
+car 138 284 227 378
+car 10 327 110 459
+car 70 277 130 334
+person 495 285 543 426
+person 530 293 585 418
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4024.JPEG
+car 228 391 348 473
+car 159 376 263 462
+car 115 389 182 452
+car 73 393 142 458
+person 451 397 497 475
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1973.JPEG
+car 43 262 181 342
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16488.JPEG
+person 117 218 188 367
+person 285 204 360 344
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_17578.JPEG
+person 337 163 479 444
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_11677.JPEG
+person 285 172 364 336
+car 12 211 276 352
+car 188 197 300 299
+car 541 199 636 284
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9721.JPEG
+car 222 261 290 321
+car 127 257 198 303
+car 54 256 132 318
+car 4 265 76 324
+tree 11 79 128 296
+tree 83 46 251 294
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12928.JPEG
+person 82 357 140 466
+bus 235 358 298 415
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_25006.JPEG
+car 385 302 505 415
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6487.JPEG
+person 6 211 68 364
+person 106 208 163 328
+person 123 213 195 332
+person 260 206 306 329
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_23786.JPEG
+person 445 223 505 407
+motorcycle 472 259 572 400
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_2672.JPEG
+tree 152 272 197 344
+tree 192 279 246 355
+tree 234 283 280 350
+tree 272 278 329 352
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16829.JPEG
+tree 287 21 443 409
+tree 147 43 324 415
+car 74 369 154 452
+car 5 362 81 452
+car 399 366 467 417
+car 436 360 510 425
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_19806.JPEG
+person 302 336 389 471
+person 385 324 507 469
+person 273 336 344 431
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_13872.JPEG
+car 112 280 216 392
+car 228 288 348 355
+tree 55 171 148 358
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_6796.JPEG
+car 318 292 477 414
+car 8 254 312 419
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16435.JPEG
+motorcycle 440 314 537 473
+motorcycle 14 333 163 464
+person 11 262 132 447
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_1632.JPEG
+car 150 385 223 452
+car 112 379 166 430
+car 244 389 346 466
+car 211 372 294 439
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9962.JPEG
+car 86 211 336 388
+tree 79 13 190 251
+tree 197 27 303 281
+bus 38 127 227 280
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_15208.JPEG
+car 341 208 622 385
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_4295.JPEG
+car 24 220 334 443
+car 275 194 427 352
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_9053.JPEG
+person 388 337 438 457
+person 225 352 259 446
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_12545.JPEG
+car 397 227 453 283
+car 288 217 348 265
+car 207 222 285 300
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_23881.JPEG
+person 189 262 237 390
+bicycle 166 292 260 413
+tree 60 147 165 371
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_16831.JPEG
+car 55 213 171 331
+
+http://140.115.152.223:7001/data/dataset/streetview/n04335209_22105.JPEG
+car 172 85 272 182

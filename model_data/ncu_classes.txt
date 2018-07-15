@@ -1,0 +1,17 @@
+person
+bicycle
+motorcycle 
+car
+bus
+trafficlight
+busstop
+pothole
+bench
+chair
+dog
+cat
+tree
+diningtable
+sink
+toilet
+door

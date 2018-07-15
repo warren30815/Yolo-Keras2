@@ -40,7 +40,7 @@ First, generate a url.txt. It is a record of all of your images' location. You c
             f.write('http://140.115.152.223:7001/data/dataset/'+i+'/'+name+' ')
         f.write('\n')
         
-Second, we modify [shadysource.github.io](https://github.com/shadySource/shadysource.github.io) javascript to label our desired class. You can modify yourself. Just notice change this line to your own url.txt generated in step one.<\br>
+Second, we modify [shadysource.github.io](https://github.com/shadySource/shadysource.github.io) javascript to label our desired class. You can modify yourself. Just notice change this line to your own url.txt generated in step one.
 
     var imageURLFile = "https://raw.githubusercontent.com/warren30815/Yolo-Keras2/master/url.txt";
     
@@ -60,3 +60,6 @@ Finally, modify
     def voc_generator(anchors, batch_size=32):
 
 in YOLO.py by yourself. It will be a hard work cuz you need to handle a lot of high-dimension matrix. Good luck xD
+
+### Pascal Voc dataset label in above format
+You can use parse_voc.py to generate or [pascal_voc_2007_2012.txt](https://github.com/warren30815/Yolo-Keras2/blob/master/voc_labels/pascal_voc_2007_2012.txt)
